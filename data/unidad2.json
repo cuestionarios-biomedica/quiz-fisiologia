@@ -1,0 +1,841 @@
+{
+  "unidad": 2,
+  "nombre": "El organismo como unidad integrada",
+  "preguntas": [
+    {
+        "id": "u2-p1",
+        "tipo": "multiple",
+        "enunciado": "Si una persona sufre de una enfermedad que afecta a las células productoras mieloides (o \"células primordiales dirigidas\") que se encuentran en la médula roja ósea, ¿qué tipos celulares (células hijas) no podrá regenerar?",
+        "opciones": ["Células madre hematopoyéticas (primordiales)", "Sólo producirá eritrocitos pero no linfocitos ni leucocitos", "Precursores de leucocitos", "No producirá eritrocitos, plaquetas, monocitos ni leucocitos"],
+        "respuestaCorrecta": 3,
+        "explicacion": "Las células productoras de mieloides son responsables de la producción de varios tipos de células sanguíneas, incluyendo eritrocitos, plaquetas y células del sistema inmunitario. Si estas células están afectadas, no se podrán regenerar estas células."
+    },
+    {
+        "id": "u2-p2",
+        "tipo": "multiple",
+        "enunciado": "Señalar la afirmación correcta respecto al tejido sanguíneo:",
+        "opciones": ["El plasma es el fluido principal del agua corporal, siendo este el encargado de mantener el medio interno", "La hemoglobina se encuentra disuelta en el plasma, dándole su color característico", "Los elementos formes o plaquetas son fragmentos celulares de megacariocitos", "La cantidad de eritrocitos determinará la capacidad de coagulación de la sangre", "El mayor porcentaje de células en la sangre se corresponde al grupo de leucocitos"],
+        "respuestaCorrecta": 2,
+        "explicacion": "Las plaquetas son fragmentos celulares derivados de los megacariocitos, y son esenciales para la coagulación sanguínea. El plasma es el componente líquido de la sangre, pero no es el fluido principal del agua corporal. La hemoglobina se encuentra dentro de los eritrocitos, no disuelta en el plasma. La cantidad de eritrocitos afecta la capacidad de transporte de oxígeno, no la coagulación. Los leucocitos representan una pequeña fracción de las células sanguíneas, siendo los eritrocitos los más abundantes."
+    },
+    {
+        "id": "u2-p3",
+        "tipo": "multiple",
+        "enunciado": "Observe la figura y responda: la válvula aórtica se cierra en el punto",
+        "imagen": {
+            "url": "data/Imagenes_ud2/Ciclo_cardiaco.png",
+            "alt": "Ciclo cardiaco",
+            "width": 500,
+            "height": 400
+        },
+        "opciones": ["1", "2", "3", "4"],
+        "respuestaCorrecta": 2,
+        "explicacion": "El punto 3 corresponde al fin de la sístole ventricular, donde la válvula aórtica se cierra para evitar el reflujo de sangre hacia el ventrículo izquierdo."
+    },
+    {
+        "id": "u2-p4",
+        "tipo": "multiple",
+        "enunciado": "¿Cuál de las siguientes series de datos implica mayor tasa de transferencia de oxígeno entre gas alveolar y sangre capilar pulmonar?",
+        "imagen": {
+            "url": "data/Imagenes_ud2/tabla1.png",
+            "alt": "Ciclo cardiaco",
+            "width": 300,
+            "height": 200
+        },
+        "opciones": ["(A)", "(B)", "(C)", "(D)", "(E)"],
+        "respuestaCorrecta": 2,
+        "explicacion": "Se resuelve usando la ley de Fick para la difusión de gases: Tasa de difusión ∝ Área x (PIO₂ - PvO₂). PIO₂ = presión parcial de oxígeno del aire inspirado o del gas alveolar (según el contexto); PvO₂ = presión parcial de oxígeno de la sangre venosa que llega a los capilares pulmonares. La transferencia de O₂ aumenta cuando aumenta el área de intercambio o cuando aumenta el gradiente de presión (PIO₂ - PvO₂)."
+    }, 
+    {
+        "id": "u2-p5",
+        "tipo": "multiple",
+        "enunciado": "Observe la figura y responda: ¿durante qué fase del potencial de acción ventricular es la máxima conductancia al ion Ca++?",
+        "imagen": {
+            "url": "data/Imagenes_ud2/Potencial_miocito.png",
+            "alt": "Potencial de accion miocito",
+            "width": 300,
+            "height": 200
+        },
+        "opciones": ["0", "1", "2", "3", "4"],
+        "respuestaCorrecta": 2,
+        "explicacion": "La fase 2 del potencial de acción ventricular, también conocida como la fase de meseta, es cuando se produce la máxima conductancia al ion Ca++. Durante esta fase, los canales de calcio tipo L se abren, permitiendo la entrada de Ca++ a la célula, lo que contribuye a la contracción muscular y prolonga el potencial de acción."
+    },
+    {
+        "id": "u2-p6",
+        "tipo": "verdadero_falso",
+        "enunciado": "Si la presión arterial aumenta se secreta más vasopresina para compensar esta suba.",
+        "respuestaCorrecta": false,
+        "explicacion": "La vasopresina (o hormona antidiurética) se secreta en respuesta a una disminución de la presión arterial o un aumento de la osmolaridad plasmática, no en respuesta a un aumento de la presión arterial. Su función principal es conservar agua en los riñones y aumentar la resistencia vascular para elevar la presión arterial cuando esta es baja."
+    },
+    {
+        "id": "u2-p7",
+        "tipo": "multiple",
+        "enunciado": "El endotelio es una estructura clave para mantener la sangre circulando en forma fluida por el sistema vascular. Ante una lesión local que expone la matriz subendotelial, ¿qué procesos fisiologicos se desencadenarian?",
+        "opciones": ["Vasodilatación vascular para facilitar la redistribución sanguínea", "Secreción de colágeno por parte de los fragmentos de megacariocitos", "Fibrinolisis por acción de la plasmina circulante", "Adhesión plaquetaria a la zona del endotelio lesionado", "Activación inmediata de procesos antitrombóticos por parte del endotelio lesionado"],
+        "respuestaCorrecta": 3,
+        "explicacion": "Ante una lesión local que expone la matriz subendotelial, se desencadenan procesos de coagulación y formación de trombo. La adhesión plaquetaria a la zona del endotelio lesionado es uno de los primeros pasos en la formación de un trombo."
+    },
+    {
+        "id": "u2-p8",
+        "tipo": "multiple",
+        "enunciado": "En la siguiente figura:",
+        "imagen": {
+            "url": "data/Imagenes_ud2/Filtacion_renal.png",
+            "alt": "Diagrama de filtracion renal",
+            "width": 300,
+            "height": 200
+        },
+        "opciones": ["2) la renina favorece la liberación de angiotensina II y 4) la angiontensina II libera aldosterona (rojo)", "1) células granulares liberan eritropoyetina y 2) se favorece la conversión de angiotensina I a angiotensina II", "4) la angiotensina II favorece la secreción de aldosterona y 5) aldosterona favorece la secreción de Na+ a través de la orina", "1) células de la mácula densa liberan renina y 4) la liberación de aldosterona genera la secreción de angiotensina II", "1) la hormona liberada es renina y 5) aldosterona posibilita la reabsorción de Na+ mediante inserción de bomba Na+/K+ ATPasa"],
+        "respuestaCorrecta": 4,
+        "explicacion": "1) La hormona liberada por las células granulares es la renina, que inicia la cascada del sistema renina-angiotensina-aldosterona. 4) La angiotensina II favorece la secreción de aldosterona por parte de la glándula suprarrenal. 5) La aldosterona posibilita la reabsorción de Na+ en los túbulos renales mediante la inserción de canales de sodio y bombas Na+/K+ ATPasa, lo que contribuye a aumentar el volumen sanguíneo y la presión arterial."
+    },
+    {
+      "id": "u2-p9",
+      "tipo": "verdadero_falso",
+      "enunciado": "La descelularización es un proceso en el cual se aisla la matriz extracelular de un tejido, dejando el andamio del tejido original. Se emplea para evitar el rechazo en el cuerpo del paciente.",
+      "respuestaCorrecta": true,
+      "explicacion": "La descelularización es una técnica utilizada en ingeniería de tejidos para eliminar las células de un tejido, dejando solo la matriz extracelular. Esto se hace para crear un andamio biocompatible que puede ser recelularizado con las células del paciente, reduciendo así el riesgo de rechazo inmunológico."
+    },
+    {
+      "id": "u2-p10",
+      "tipo": "verdadero_falso",
+      "enunciado": "En una situación de fiebre, la frecuencia cardíaca tiende a disminuir porque la velocidad de metabolismo del músculo cardíaco aumenta.",
+      "respuestaCorrecta": false,
+      "explicacion": "En una situación de fiebre, la frecuencia cardíaca tiende a aumentar (taquicardia) debido a que el metabolismo del cuerpo se acelera para combatir la infección, lo que aumenta la demanda de oxígeno y nutrientes por parte de los tejidos, incluyendo el músculo cardíaco."
+    },
+    {
+      "id": "u2-p11",
+      "tipo": "multiple",
+      "enunciado": "¿Cuál de los siguientes cambios ocurre durante el ejercicio extenuante?",
+      "opciones": [
+        "a. La frecuencia ventilatoria y el consumo de oxígeno aumentan en la misma medida",
+        "b. La PO2 arterial de la circulación general disminuye hasta unos 80 mmHg",
+        "c. La PCO2 venosa de la circulación general disminuye hasta unos 60 mmHg",
+        "d. El contenido de ácido láctico producido por los tejidos alcaliniza el plasma desplazando la curva de disociación de la Hb hacia la derecha",
+        "e. El flujo sanguíneo pulmonar disminuye a expensas del flujo sanguíneo de la circulación general"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Durante el ejercicio extenuante, tanto la frecuencia ventilatoria como el consumo de oxígeno aumentan para satisfacer las mayores demandas metabólicas del cuerpo. La PO2 arterial generalmente se mantiene cerca de los niveles normales (alrededor de 95-100 mmHg) debido a la eficiencia del sistema respiratorio, aunque puede haber una ligera disminución en algunos casos. La PCO2 venosa suele aumentar debido al aumento de la producción de CO2 por los tejidos activos. El ácido láctico producido durante el ejercicio puede acidificar el plasma, desplazando la curva de disociación de la Hb hacia la derecha, lo que facilita la liberación de oxígeno a los tejidos. El flujo sanguíneo pulmonar generalmente aumenta para acomodar el mayor volumen de sangre que regresa al corazón desde los músculos activos."
+    },
+    {
+      "id": "u2-p12",
+      "tipo": "multiple",
+      "enunciado": "En la adaptación rápida a la altura, se incrementa la producción de 2,3-difosfoglicerato en el eritrocito, lo cual desvía la curva de saturación de la Hb hacia la derecha con lo que se libera más oxígeno a los tejidos. Esta afirmación es:",
+      "opciones": [
+        "a. Falsa dado que el 2,3 difosfoglicerato produce un corrimiento de la curva hacia la izquierda",
+        "b. Falsa porque en la adaptación rápida a la altura se producen otros fenómenos relacionados a la producción de nuevos capilares",
+        "c. Falsa porque para que se desplace hacia la derecha debe ocurrir además un aumento de la temperatura",
+        "d. Falsa dado que el corrimiento hacia la derecha de la curva ocurre aumentando la afinidad de la Hb por el oxígeno",
+        "e. Verdadera"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La afirmación es verdadera. En la adaptación rápida a la altura, el aumento de la producción de 2,3-difosfoglicerato (2,3-DPG) en los eritrocitos reduce la afinidad de la hemoglobina por el oxígeno, lo que desplaza la curva de disociación de la hemoglobina hacia la derecha. Esto facilita la liberación de oxígeno a los tejidos, compensando así la menor presión parcial de oxígeno en el ambiente de alta altitud."
+    },
+    {
+        "id": "u2-p13",
+        "tipo": "multiple",
+        "enunciado": "Observe la figura y responda eligiendo la opción correcta:",
+        "imagen": {
+            "url": "data/Imagenes_ud2/circuito_circuilatorio.png",
+            "alt": "Circuito de circulacion cardiovascular",
+            "width": 300,
+            "height": 200
+        },
+        "opciones": ["El gas B corresponde al CO2, las presiones descritas en C corresponden a las venas sistémicas mientras que en D corresponden al aire atmosférico.", "El gas A corresponde al O2, las presiones descritas en C corresponden a las arterias pulmonares mientras que en D corresponden a las venas pulmonares.", "El gas A corresponde al CO2, las presiones descritas en C corresponden a las células de los tejidos mientras que en D correponden a las arterias pulmonares.", "el gas A corresponde al CO2, las presiones descritas en C corresponden a las venas pulmonares mientras que en D corresponden a las células de los tejidos.", "El gas B corresponde al O2, las presiones descritas en C corresponden a las arterias pulmonares mientras que en D corresponden a las células de los tejidos."],
+        "respuestaCorrecta": 3,
+        "explicacion": "El CO2 sale de los vasos sanguíneos hacia los alvéolos y sale de los tejidos hacia los vasos, por lo que el gas A corresponde al CO2. Las presiones descritas en C corresponden a las venas pulmonares, que transportan sangre oxigenada desde los pulmones hacia el corazón, mientras que las presiones descritas en D corresponden a las células de los tejidos, donde se produce el intercambio de gases."
+    },
+    {
+        "id": "u2-p14",
+        "tipo": "multiple",
+        "enunciado": "Seleccione una:",
+        "opciones": ["La resistencia de un vaso es igual a la caída de presión a lo largo del mismo dividido por el diámetro del mismo.", "El flujo del circuito es igual a la caída de presión en dos puntos del circuito sanguíneo dividida por el diámetro transversal de los vasos.", "La resistencia de un vaso es igual a la caída de presión a lo largo del mismo (diferencia de presiones) dividida por el gasto cardíaco.", "La resistencia de un vaso es igual al gasto cardíaco dividio por la diferencia de presiones en dos puntos del circuito", "El flujo a través del circuito es igual a la resistencia de un vaso dividida por la diferenicia de presiones entre dos puntos del mismo."],
+        "respuestaCorrecta": 0,
+        "explicacion": ""
+    },
+    {
+        "id": "u2-p15",
+        "tipo": "completar",
+        "enunciado": "De acuerdo a la figura, la presión parcial de O2 en el punto 5 (arteria pulmonar) es [blank 1]; mientras que la presión parcial de CO2 en el punto 2 (vías aéreas de conducción durante la INSPIRACIÓN) es [blank 2] y la presión arterial PA que indica el manómetro en el punto 6 es de [blank 3].",
+        "imagen": {
+            "url": "data/Imagenes_ud2/circuito_circ_2.png",
+            "alt": "Circuito de circulacion cardiovascular",
+            "width": 300,
+            "height": 200
+        },
+        "blanks": [
+            {
+                "id": "blank1",
+                "label": "Presión parcial de O2 en el punto 5",
+                "opciones": ["40 mmHg", "100 mmHg", "80 mmHg", "0 mmHg"],
+                "respuestaCorrecta": 0
+            },
+            {
+                "id": "blank2",
+                "label": "Presión parcial de CO2 en el punto 2",
+                "opciones": ["0 mmHg", "40 mmHg", "100 mmHg", "80 mmHg"],
+                "respuestaCorrecta": 0
+            },
+            {
+                "id": "blank3",
+                "label": "Presión arterial PA en el punto 6",
+                "opciones": ["120 mmHg", "25 mmHg", "100 mmHg", "80 mmHg"],
+                "respuestaCorrecta": 1
+            }
+        ],
+        "respuestaCorrecta": true,
+        "explicacion": "Arteria pulmonar = sangre venosa → PO₂ ≈ 40 mmHg y PCO₂ ≈ 46 mmHg. Durante la inspiración, el aire atmosférico tiene PCO₂ ≈ 0 mmHg. La sangre arterial que sale de los pulmones tiene PaO₂ ≈ 100 mmHg."
+    },
+    {
+        "id": "u2-p16",
+        "tipo": "multiple",
+        "enunciado": "En la figura, la curva B",
+            "imagen": {
+                "url": "data/Imagenes_ud2/ECG.png",
+                "alt": "ECG",
+                "width": 300,
+                "height": 200
+            },
+        "opciones": ["representa la presión aórtica", "representa el volumen telediastólico", "representa la presión auricular", "representa el volumen ventricular izquierdo", "representa la presión del ventrículo izquierdo"],
+        "respuestaCorrecta": 3,
+        "explicacion": "La curva B corresponde al volumen ventricular izquierdo. Se identifica porque disminuye después del complejo QRS durante la sístole ventricular, cuando el ventrículo eyecta sangre hacia la aorta, alcanzando un volumen mínimo al final de la eyección. Luego aumenta durante la diástole por el llenado ventricular."
+    },
+    {
+        "id": "u2-p17",
+        "tipo": "multiple",
+        "enunciado": "En la figura, la curva A",
+            "imagen": {
+                "url": "data/Imagenes_ud2/ECG.png",
+                "alt": "ECG",
+                "width": 300,
+                "height": 200
+            },
+        "opciones": ["representa el volumen ventricular", "representa la presión auricular", "representa la presión aórtica", "representa el volumen auricular", "representa la presión ventricular"],
+        "respuestaCorrecta": 2,
+        "explicacion": "La curva A corresponde a la presión aórtica. Se identifica porque aumenta durante la sístole ventricular cuando la sangre es eyectada hacia la aorta, presenta una incisura dicrótica producida por el cierre de la válvula aórtica y luego desciende gradualmente durante la diástole debido al vaciamiento de las arterias."
+    },
+        {
+        "id": "u2-p18",
+        "tipo": "multiple",
+        "enunciado": "Una falla en las válvulas cardíacas tendrá como consecuencia:",
+        "opciones": ["Menor gasto cardíaco debido a que ante una falla el corazón bombeará menor cantidad de sangre", "Menor gasto cardíaco por incremento de la resistencia periférica de los vasos mediada por el SN simpático", "Mayor gasto cardíaco porque las venas compensarán este efecto actuando como reservorios sanguíneos", "Mayor gasto cardíaco considerando que parte del flujo vuelve hacia atrás forzando al corazón a bombear la misma sangre", "Mayor gasto cardíaco por una disminución en la frecuencia cardíaca producida por el defecto valvular"],
+        "respuestaCorrecta": 3,
+        "explicacion": "Una falla en las válvulas cardíacas, como la insuficiencia valvular, puede causar que parte de la sangre regrese hacia atrás (regurgitación), lo que obliga al corazón a bombear la misma sangre repetidamente para mantener un gasto cardíaco adecuado. Esto puede llevar a un aumento del gasto cardíaco inicialmente, pero con el tiempo puede causar insuficiencia cardíaca debido al esfuerzo adicional sobre el corazón."
+    },
+    {
+        "id": "u2-p19",
+        "tipo": "multiple",
+        "enunciado": "Respecto del siguiente esquema responda eligiendo la opción correcta:",
+        "imagen": {
+            "url": "data/Imagenes_ud2/diagrama_prod_orina.png",
+            "alt": "Diagrama de producción de orina",
+            "width": 300,
+            "height": 200
+        },
+        "opciones": ["2) disminución 3) hormona antidiurética 5) disminución 7) concentrada", "1) aumento 3) aldosterona 4) aumento 5) concentrada", "2) aumento 3) renina 4) aumento 7) concentrada", "1) aumento 3) hormona antidiurética 4) aumento 6) concentrada", "2) disminución 3) aldosterona 5) disminución 7) diluida"],
+        "respuestaCorrecta": 3,
+        "explicacion": "1) El aumento de la osmolaridad plasmática estimula la liberación de 3) hormona antidiurética (ADH) por parte de la neurohipófisis. 4) La ADH aumenta la permeabilidad del túbulo colector a agua, lo que conduce a un aumento en la reabsorción de agua y, por lo tanto, a una mayor concentración de la orina. 6) La orina resultante es concentrada debido a la mayor reabsorción de agua."
+    },
+    {
+        "id": "u2-p20",
+        "tipo": "multiple",
+        "enunciado": "En la siguiente figura:",
+        "imagen": {
+            "url": "data/Imagenes_ud2/contracciones_cardiacas.png",
+            "alt": "Diagrama de contracciones cardíacas",
+            "width": 300,
+            "height": 200
+        },
+        "opciones": ["el período de contracción auricular corresponde al 4", "el período isovolumétrico sistólico corresponde al 5", "el período isovolumétrico sistólico corresponde al 3", "la fase de expulsión ventricular corresponde al 5", "el período de llenado ventricular corresponde al 5"],
+        "respuestaCorrecta": 2,
+        "explicacion": "El período isovolumétrico sistólico corresponde al 3, ya que es el momento en el ciclo cardíaco en el que los ventrículos se contraen pero las válvulas aórtica y pulmonar aún no se han abierto, por lo que el volumen ventricular permanece constante mientras la presión aumenta."
+    },
+    {
+        "id": "u2-p21",
+        "tipo": "multiple",
+        "enunciado": "En el diseño de andamiajes tridimensionales para generar artificialmente un pulmón se emplean actualmente:",
+        "opciones": ["El modelado y la impresión 3D, siendo esta última la opción más prometedora porque los tiempos de fabricación son menores", "El modelado con una mejor resolución y la impresión 3D con la desventaja de que es una nueva tecnología y aún carece de buena resolución", "El modelado con la posibilidad de retirar intacta la pieza y la impresión 3D, cuyos tiempos de fabricación son menores.", "La técnica de modelado que posee una mayor resolución y la impresión 3D que posibilita la fabricación en serie.", "El modelado con una menor resolución y la impresión 3D con la desventaja de que sus tiempos son aún muy prolongados."],
+        "respuestaCorrecta": 4,
+        "explicacion": "Actualmente, la impresión 3D es una tecnología emergente en la ingeniería de tejidos que permite la fabricación de andamiajes tridimensionales personalizados. Sin embargo, uno de los desafíos actuales es que los tiempos de fabricación pueden ser prolongados, especialmente para estructuras complejas como un pulmón. Por otro lado, el modelado tradicional puede tener una menor resolución en comparación con la impresión 3D, pero permite retirar intacta la pieza para su análisis y uso."
+    },
+    {
+        "id": "u2-p22",
+        "tipo": "verdadero_falso",
+        "enunciado": "El receptor para el neurotransmisor en la unión neuromuscular esquelética es exactamente el mismo que el que se encuentra en la unión neuromuscular bronquiolar",
+        "respuestaCorrecta": false,
+        "explicacion": "El receptor en la unión neuromuscular esquelética (nicotínico) es diferente al de la unión neuromuscular bronquiolar (muscarínico)"
+    },
+    {
+        "id": "u2-p23",
+        "tipo": "multiple",
+        "enunciado": "Observe la figura del potencial de acción de una célula marcapaso y responda eligiendo la opción correcta respecto a los canales y sus estados en las instancias 1, 2, 3 y 4.",
+        "imagen": {
+            "url": "data/Imagenes_ud2/potencial_marcapaso.png",
+            "alt": "Figura del potencial de acción de una célula marcapaso"
+        },
+        "opciones": [
+            "1) Canales de Na+ abiertos. 2) Canales de Ca++ abiertos. 3) Canales de Ca++ abiertos y canales de K+ abiertos. 4) Canales de K +cerrados.",
+            "1) Canales If (para Na+ y K+) abiertos. 2) Canales de Ca++ abiertos.3) Canales de Ca++ cerrados y canales de K+ cerrados.4) Canales de K+ abiertos.",
+            "1) Canales If (para Na+ y K+) abiertos. 2) Canales de Ca++ abiertos. 3) Canales de Ca++ cerrados y canales de K+ abiertos. 4) Canales de K+ cerrados.",
+            "1) Canales de Na+ abiertos. 2) Canales If (para Na+ y K+) abiertos. 3) Canales de Ca++ abiertos. 4) Canales de K+ cerrados.",
+            "1) Canales de Ca++ abiertos. 2) Canales If (para Na+ y K+) abiertos. 3) Canales de Ca++ cerrados y canales de K+ abiertos. 4) Canales de Na+ cerrados."
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "En la fase 1, los canales If (para Na+ y K+) están abiertos, permitiendo la entrada de Na+ y la salida de K+, lo que genera una despolarización lenta. En la fase 2, los canales de Ca++ tipo L se abren, permitiendo la entrada de Ca++ y causando una despolarización más rápida. En la fase 3, los canales de Ca++ se cierran y los canales de K+ se abren, lo que permite la salida de K+ y repolariza la célula. En la fase 4, los canales de K+ se cierran, lo que permite que el ciclo comience nuevamente."
+    },
+    {
+        "id": "u2-p24",
+        "tipo": "multiple",
+        "enunciado": "La función fisiológica de la conducción relativamente lenta a través del nódulo auriculoventricular es permitir el tiempo suficiente para:",
+        "opciones": [
+            "La contracción de los ventrículos",
+            "El desplazamiento de sangre de la aorta a las arterias",
+            "La repolarización de los ventrículos",
+            "El retorno venoso a las aurículas",
+            "El llenado de los ventrículos"
+        ],
+        "respuestaCorrecta": 4,
+        "explicacion": "La conducción lenta a través del nódulo auriculoventricular permite el tiempo suficiente para que los ventrículos se llenen de sangre proveniente de las aurículas antes de que se contraigan, asegurando así un llenado ventricular adecuado y eficiente."
+    },
+    {
+        "id": "u2-p25",
+        "tipo": "multiple",
+        "enunciado": "Una mujer de 35 años de edad se muda con su familia de una ciudad al nivel del mar a otra con altitud de 3000 m. ¿Qué ocurrirá como consecuencia de vivir a esa nueva altitud?",
+        "opciones": [
+            "Aumento del espacio muerto anatómico",
+            "Hipoventilación",
+            "Disminución de la concentración de 2.3 difosfoglicerato",
+            "Desviación hacia la derecha de la curva de saturación de Hb",
+            "PO2 arterial mayor de 100mmHg x"
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "Vivir a una altitud de 3000 m implica una menor presión parcial de oxígeno en el aire, lo que puede llevar a una hipoxia relativa. Para compensar esta hipoxia, el cuerpo aumenta la producción de 2,3-difosfoglicerato (2,3-DPG) en los eritrocitos, lo que reduce la afinidad de la hemoglobina por el oxígeno y facilita la liberación de oxígeno a los tejidos. Esto se refleja en una desviación hacia la derecha de la curva de disociación de la hemoglobina."
+    },
+    {
+        "id": "u2-p26",
+        "tipo": "multiple",
+        "enunciado": "En el desarrollo tanto de un pulmón como de una válvula cardíaca luego de la descelularización pueden emplearse:",
+        "opciones": [
+            "Bibliotecas de células pluripotentes inducidas y células madres de donantes",
+            "Células madre pluripotentes inducidas sin ningún riesgo de uso",
+            "Bibliotecas de células madre sin ningún riesgo de reacción inmune en el receptor",
+            "Bibliotecas de células pulmonares o cardíacas y células madre pluripotentes de distintas personas",
+            "Bibliotecas de células madre o células madre pluripotentes inducidas"
+        ],
+        "respuestaCorrecta": 4,
+        "explicacion": "En el desarrollo de órganos como el pulmón o las válvulas cardíacas a partir de andamiajes descelularizados, se pueden emplear tanto bibliotecas de células específicas del órgano (como células pulmonares o cardíacas) como células madre pluripotentes inducidas (iPSCs). Las iPSCs pueden diferenciarse en diversos tipos celulares necesarios para la regeneración del tejido, mientras que las bibliotecas de células específicas pueden proporcionar células ya diferenciadas que son funcionalmente relevantes para el órgano en cuestión."
+    },
+    {
+        "id": "u2-p27",
+        "tipo": "multiple",
+        "enunciado": "El Electrocardiograma de una persona no tiene onda P, pero su complejo QRS y su onda T son normales. Por lo tanto, su marcapaso se encuentra en:",
+        "opciones": [
+            "Nódulo SA",
+            "Haz de His",
+            "Nódulo AV",
+            "Sistema de Purkinje",
+            "Músculo ventricular"
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "La ausencia de la onda P en el electrocardiograma indica que no hay actividad eléctrica en las aurículas, lo que sugiere que el marcapaso no se encuentra en el nódulo SA. Sin embargo, la presencia de un complejo QRS y una onda T normales indica que los ventrículos están siendo activados de manera adecuada. Esto sugiere que el marcapaso se encuentra en el nódulo AV, que puede asumir la función de marcapaso en caso de que el nódulo SA falle."
+    },
+    {
+        "id": "u2-p28",
+        "tipo": "multiple",
+        "enunciado": "El exceso de aldosterona secretada por las glándulas suprarrenales:",
+        "opciones": ["puede conducir a una hipotensión arterial", "puede producir hiperpotasemia", "pueed conducir a una hipertensión arterial", "puede desencadenar aumento de la resistencia periférica", "puede producir bradicardia de manera inmediata"],
+        "respuestaCorrecta": 2,
+        "explicacion": "El exceso de aldosterona puede conducir a una hipertensión arterial debido a que esta hormona promueve la reabsorción de sodio y agua en los túbulos renales, lo que aumenta el volumen sanguíneo y, por ende, la presión arterial. Además, la aldosterona también puede aumentar la resistencia periférica al promover la vasoconstricción, lo que contribuye aún más a la hipertensión. Sin embargo, el efecto sobre la frecuencia cardíaca no es inmediato ni directo."
+    },
+    {
+        "id": "u2-p29",
+        "tipo": "completar",
+        "enunciado": "Al realizar ejercicio, [blank 1]  del CO2 en sangre implica [blank 2] del pH. Esto se informa activamente al cerebro mediante [blank 3] de los potenciales de acción que emiten los quimiorreceptores, provocando [blank 4] de la frecuencia respiratoria por medio de las células marcapaso ubicadas en el bulbo raquídeo.",
+        "blanks": [
+            {
+                "id": "blank1",
+                "label": "CO2 en sangre",
+                "opciones": ["el aumento", "la disminución"],
+                "respuestaCorrecta": 0
+            },
+            {
+                "id": "blank2",
+                "label": "pH",
+                "opciones": ["el aumento", "la disminución"],
+                "respuestaCorrecta": 1
+            },
+            {
+                "id": "blank3",
+                "label": "los potenciales de acción",
+                "opciones": ["el aumento", "la disminución"],
+                "respuestaCorrecta": 0
+            },
+            {
+                "id": "blank4",
+                "label": "frecuencia respiratoria",
+                "opciones": ["el aumento", "la disminución"],
+                "respuestaCorrecta": 0
+            }
+        ],
+        "explicacion": "Durante el ejercicio, el aumento del CO2 en sangre provoca una disminución del pH (acidosis). Esta información es transmitida al cerebro a través de un aumento en la frecuencia de los potenciales de acción emitidos por los quimiorreceptores. Como respuesta, se produce un aumento en la frecuencia respiratoria mediante la activación de las células marcapaso ubicadas en el bulbo raquídeo, lo que ayuda a eliminar el exceso de CO2 y restaurar el equilibrio ácido-base."
+    },
+    {
+        "id": "u2-p30",
+        "tipo": "verdadero_falso",
+        "enunciado": "Cuando la Hb libera O2 a los tejidos su capacidad de transporte de CO2 es mayor, esto es ventajoso porque permite a la Hb llevar una cantidad significativa de CO2 de regreso a los pulmones.",
+        "respuestaCorrecta": true,
+        "explicacion": "Cuando la hemoglobina (Hb) libera oxígeno (O2) a los tejidos, su afinidad por el dióxido de carbono (CO2) aumenta. Esto es ventajoso porque permite que la Hb transporte una mayor cantidad de CO2 desde los tejidos de vuelta a los pulmones para su eliminación. Este fenómeno se conoce como el efecto Haldane, que facilita el intercambio eficiente de gases en el cuerpo."
+    },
+    {
+        "id": "u2-p31",
+        "tipo": "verdadero_falso",
+        "enunciado": "En el capilar sistémico, la presión coloidosmótica del plasma corresponde al efecto de las proteínas plasmáticas y tiende a desplazar el líquido desde el intersticio hacia la sangre",
+        "respuestaCorrecta": true,
+        "explicacion": "En el capilar sistémico, la presión coloidosmótica del plasma es generada principalmente por las proteínas plasmáticas, como la albúmina. Esta presión osmótica tiende a atraer agua desde el intersticio hacia el interior del capilar, ayudando a mantener el equilibrio de líquidos entre los compartimentos intravascular e intersticial. Este efecto es crucial para prevenir la acumulación excesiva de líquido en los tejidos y mantener la homeostasis del volumen sanguíneo."
+    },
+    {
+        "id": "u2-p32",
+        "tipo": "multiple",
+        "enunciado": "Indicar la opción correcta respecto a sistema de vasos:",
+        "opciones": ["El arreglo en paralelo entre la circulación sistémica y pulmonar garantiza que toda la sangre sea oxigenada.", "La velocidad de flujo sanguíneo es máxima a nivel de los capilares.", "Los vasos de capacitancia tienen poca distensibilidad para evitar cambios importantes en la presión.", "Las arteriolas son vasos de pequeño calibre con gran capa muscular que modifican su resistencia para regular el flujo.", "Las arterias de gran calibre tienen poca distensibilidad para almacenar grandes volúmenes de sangre sin cambios importantes en la presión."],
+        "respuestaCorrecta": 3,
+        "explicacion": "Las arteriolas son vasos de pequeño calibre con una capa muscular significativa que les permite modificar su resistencia y, por lo tanto, regular el flujo sanguíneo hacia los diferentes tejidos del cuerpo. Esta capacidad de vasoconstricción y vasodilatación es crucial para mantener la presión arterial y distribuir adecuadamente la sangre según las necesidades metabólicas de los órganos."
+    },
+    {
+        "id": "u2-p33",
+        "tipo": "multiple",
+        "enunciado": "En el periodo isométrico diastólico",
+        "opciones": [
+            "las válvulas semilunares se cierran",
+            "las válvulas aurículo ventriculares se encuentran abiertas",
+            "tanto las válvulas aurículo ventriculares como las sigmoideas se encuentran abiertas",
+            "la presión se mantiene constante en los ventrículos",
+            "ingresa sangre a los ventrículos"
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "En el periodo isovolumétrico diastólico, las válvulas semilunares (aórtica y pulmonar) se cierran para evitar el reflujo de sangre hacia los ventrículos, mientras que las válvulas auriculoventriculares (mitral y tricúspide) también están cerradas, lo que impide la entrada de sangre a los ventrículos. Durante este periodo, la presión en los ventrículos disminuye gradualmente a medida que se relajan, pero no ingresa sangre hasta que las válvulas auriculoventriculares se abren al inicio del llenado ventricular."
+    },
+    {
+        "id": "u2-p34",
+        "tipo": "multiple",
+        "enunciado": "En un experimento de fragilidad eritrocitaria, ¿qué sucederá con la tasa de hemólisis cuando los eritrocitos se expongan a una solución de NaCl a baja concentración?",
+        "opciones": [
+            "La tasa de hemólisis aumentará porque los eritrocitos estarán más rígidos.",
+            "La tasa de hemólisis permanecerá igual.",
+            "La tasa de hemólisis aumentará ya que los eritrocitos se hincharán y se romperán fácilmente.",
+            "La tasa de hemólisis permanecerá igual, dado que ocurre el fenómeno de crenación (disminución de tamaño del mismo)."
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "Cuando los eritrocitos se exponen a una solución de NaCl a baja concentración (hipotónica), el agua ingresará a las células por ósmosis, lo que hará que los eritrocitos se hinchen y eventualmente se rompan (hemólisis). Por lo tanto, la tasa de hemólisis aumentará en esta situación."
+    },
+    {
+        "id": "u2-p35",
+        "tipo": "multiple",
+        "enunciado": "Vea atentamente la siguiente figura y responda:",
+        "imagen": {
+            "url": "data/Imagenes_ud2/curva-presion-volumen.png",
+            "alt": "Figura del ciclo cardíaco con presiones y volúmenes"
+        },
+        "opciones": [
+            "El segmento 4-1 es el denominado Contracción Isovolumétrica, correspondiente a la primera etapa de la Sístole.",
+            "En el punto 3 se produce la apertura de la válvula aórtica y corresponde a una de las fases de la Sístole.",
+            "El segmento 1-2 corresponde a la primera etapa de Sístole.",
+            "El segmento 2-3 corresponde a la etapa de llenado (Diástole)."
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "En el punto 3 se produce la apertura de la válvula aórtica, lo que marca el inicio de la fase de eyección ventricular durante la sístole. El segmento 4-1 corresponde a la contracción isovolumétrica, que es la primera etapa de la sístole, mientras que el segmento 1-2 corresponde a la fase de llenado ventricular (diástole) y el segmento 2-3 corresponde a la fase de contracción ventricular (sístole)."
+    },
+    {
+        "id": "u2-p36",
+        "tipo": "verdadero_falso",
+        "enunciado": "Lea atentamente este párrafo. ¿Es verdadero o falso? El músculo liso comienza a aparecer en las paredes de vénulas más grandes. Desde las vénulas, la sangre fluye hacia venas que se vuelven de mayor diámetro a medida que transcurren hacia el corazón. Por último, las venas más grandes, desembocan en la aurícula derecha.",
+        "respuestaCorrecta": true,
+        "explicacion": "El músculo liso comienza a aparecer en las paredes de las vénulas más grandes, lo que les permite regular el flujo sanguíneo y la presión. A medida que la sangre fluye hacia venas de mayor diámetro, estas venas tienen una mayor capacidad para transportar sangre de regreso al corazón. Finalmente, las venas más grandes, como la vena cava superior e inferior, desembocan en la aurícula derecha del corazón, completando el circuito de retorno venoso."
+    },
+    {
+        "id": "u2-p37",
+        "tipo": "verdadero_falso",
+        "enunciado": "La siguiente afirmación ¿es verdadera o falsa? El grupo sanguíneo AB+ corresponde al llamado \"receptor universal\" ya que las personas de este grupo no poseen anticuerpos frente a ningún antígeno en su plasma.",
+        "respuestaCorrecta": true,
+        "explicacion": "El grupo sanguíneo AB+ se considera receptor universal porque no produce anticuerpos contra los antígenos A, B ni Rh, por lo que puede recibir sangre de cualquier grupo Rh positivo. Sin embargo, es importante destacar que las personas con grupo AB+ solo pueden donar sangre a otros individuos con el mismo grupo sanguíneo debido a la presencia de ambos antígenos en sus glóbulos rojos."
+    },
+    {
+        "id": "u2-p38",
+        "tipo": "multiple",
+        "enunciado": "Una persona presenta una hemorragia que reduce significativamente su volumen sanguíneo. ¿Cuál de los siguientes mecanismos es más probable que se active primero para restaurar la presión arterial?",
+        "opciones": [
+            "Liberación de plaquetas para formar coágulos y detener la pérdida de sangre.",
+            "Vasodilatación de las arteriolas para facilitar el flujo.",
+            "Aumento en la secreción de hormonas por parte de los riñones.",
+            "Activación de reflejos nerviosos que contraen venas y arteriolas, y aumentan la actividad cardíaca."
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "Ante una hemorragia significativa, el cuerpo activa reflejos nerviosos que provocan la vasoconstricción de venas y arteriolas para aumentar la resistencia periférica y mantener la presión arterial. Además, estos reflejos también aumentan la frecuencia cardíaca y la contractilidad para mejorar el gasto cardíaco, lo que ayuda a compensar la pérdida de volumen sanguíneo y restaurar la presión arterial."
+    },
+    {
+        "id": "u2-p39",
+        "tipo": "verdadero_falso",
+        "enunciado": "Durante la contracción ventricular isovolumétrica, el volumen de sangre ventricular aumenta mientras la presión disminuye.",
+        "respuestaCorrecta": false,
+        "explicacion": "Durante la contracción ventricular isovolumétrica, el volumen de sangre en el ventrículo permanece constante (isovolumétrica) porque las válvulas auriculoventriculares y semilunares están cerradas. Sin embargo, la presión dentro del ventrículo aumenta a medida que el músculo ventricular se contrae, preparando el corazón para la fase de eyección cuando las válvulas semilunares se abrirán para permitir la salida de sangre hacia la aorta y la arteria pulmonar."
+    },
+    {
+        "id": "u2-p40",
+        "tipo": "multiple",
+        "enunciado": "El plasma que pasa a través de los capilares glomerulares se denomina ultrafiltrado, pues sólo contiene solutos de pequeño tamaño capaces de atravesar la membrana semipermeable. Siguiendo este razonamiento:",
+        "opciones": [
+            "Encontrar hemoglobina en orina es habitual",
+            "Encontrar proteínas en orina puede significar una enfermedad en los riñones",
+            "Encontrar proteínas en orina indica un sistema urinario competente y sano",
+            "Encontrar glóbulos blancos en orina es habitual"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "El ultrafiltrado glomerular normalmente no contiene proteínas debido a que la membrana de filtración del glomérulo es selectiva y evita el paso de moléculas grandes como las proteínas. Por lo tanto, la presencia de proteínas en la orina (proteinuria) puede ser un indicio de daño o enfermedad renal, ya que sugiere que la membrana de filtración está comprometida y permite el paso de proteínas al ultrafiltrado."
+    },
+    {
+        "id": "u2-p41",
+        "tipo": "multiple",
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el mecanismo renina-angiotensina-aldosterona en el riñón es correcta?",
+        "opciones": [
+            "La aldosterona promueve la reabsorción de sodio en los túbulos distales.",
+            "La angiotensina II provoca la vasodilatación de las arteriolas aferentes.",
+            "Uno de los principales efectos de la forma activa de la angiotensina es la disminución de la presión arterial.",
+            "La renina se libera en respuesta a un aumento de la presión arterial en las células yuxtaglomerulares."
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "La aldosterona es una hormona que promueve la reabsorción de sodio en los túbulos distales del nefrón, lo que a su vez aumenta la retención de agua y contribuye a elevar la presión arterial. La angiotensina II, por otro lado, provoca vasoconstricción de las arteriolas aferentes y eferentes, lo que aumenta la resistencia vascular y eleva la presión arterial. La renina se libera en respuesta a una disminución de la presión arterial en las células yuxtaglomerulares, no a un aumento."
+    },
+    {
+        "id": "u2-p42",
+        "tipo": "multiple",
+        "enunciado": "En la filtración glomerular, la presión oncótica ejercida por las proteínas del plasma actúa:",
+        "opciones": [
+            "En conrta de la presión hidrostática de la cápsula de Bowman",
+            "Actúa favoreciendo la presión efectiva de filtración",
+            "Actúa en contra de la presión efectiva de filtración",
+            "No genera ningún efecto en la presión efectiva de filtración dado que es igual a cero"
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "La presión oncótica ejercida por las proteínas del plasma actúa en contra de la presión hidrostática que impulsa el filtrado hacia la cápsula de Bowman. Esta presión oncótica tiende a retener el agua dentro de los capilares glomerulares, lo que reduce la cantidad de filtrado que se forma. Por lo tanto, la presión oncótica actúa en contra de la presión efectiva de filtración, disminuyendo el volumen de ultrafiltrado que se produce."
+    },
+    {
+        "id": "u2-p43",
+        "tipo": "verdadero_falso",
+        "enunciado": "Si el aclaramiento de agua libre es negativo, significa que la orina está más diluida respecto al plasma porque la persona ingirió mucha agua en poco tiempo.",
+        "respuestaCorrecta": false,
+        "explicacion": "El aclaramiento de agua libre negativo indica que el riñón está reabsorbiendo más agua de la que se filtra, lo que resulta en una orina más concentrada en comparación con el plasma. Esto puede ocurrir en situaciones donde el cuerpo necesita conservar agua, como en la deshidratación o cuando se activa la hormona antidiurética (ADH). Por lo tanto, un aclaramiento de agua libre negativo no se asocia con una orina más diluida, sino todo lo contrario."
+    },
+    {
+        "id": "u2-p44",
+        "tipo": "verdadero_falso",
+        "enunciado": "La razón por la que una persona no puede sobrevivir bebiendo agua de mar es porque el riñón, al tener que liberarse de los solutos que ingiere junto con esta agua, termina empleando el agua del propio organismo y por lo tanto se deshidrata.",
+        "respuestaCorrecta": true,
+        "explicacion": "El agua de mar contiene una alta concentración de solutos, principalmente cloruro de sodio (sal). Cuando una persona bebe agua de mar, el riñón debe eliminar el exceso de sal para mantener el equilibrio osmótico. Para eliminar esta sal, el riñón necesita excretar una cantidad significativa de agua, lo que puede llevar a una pérdida neta de agua del organismo. Esto resulta en deshidratación, ya que el cuerpo pierde más agua de la que ingiere al beber agua de mar."
+    },
+    {
+        "id": "u2-p45",
+        "tipo": "multiple",
+        "enunciado": "El siguiente párrafo es una afirmación verdadera: La inulina es un glucido de excreción renal. En el riñón se filtra y no se reabsorbe ni se secreta, por lo que en la orina aparece todo lo filtrado. Este compuesto es útil por lo tanto:",
+        "opciones": [
+            "para calcular la volemia",
+            "para conocer el flujo de filtrado glomerular",
+            "para calcular el clearance de agua libre",
+            "para calcular la concentración osmolar de la orina",
+            "para calcular el transporte máximo de los riñones"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "La inulina es un marcador ideal para calcular el flujo de filtrado glomerular (GFR) porque se filtra libremente en el glomérulo y no se reabsorbe ni se secreta en los túbulos renales. Por lo tanto, la cantidad de inulina que aparece en la orina es igual a la cantidad que se filtra, lo que permite determinar con precisión el GFR utilizando la fórmula del clearance: GFR = (concentración de inulina en orina x volumen de orina) / concentración de inulina en plasma."
+    },
+    {
+        "id": "u2-p46",
+        "tipo": "verdadero_falso",
+        "enunciado": "El clearance de glucosa es 0 en ayunas porque normalmente toda la glucosa que se filtra se reabsorbe.",
+        "respuestaCorrecta": true,
+        "explicacion": "En condiciones normales, la glucosa que se filtra en el glomérulo es completamente reabsorbida en el túbulo proximal del nefrón. Esto significa que no hay glucosa presente en la orina, lo que resulta en un clearance de glucosa de 0. Sin embargo, si la concentración de glucosa en plasma supera el umbral renal (aproximadamente 180 mg/dL), el sistema de reabsorción se satura y la glucosa comienza a aparecer en la orina, lo que indicaría un clearance de glucosa mayor a 0."
+    },
+    {
+        "id": "u2-p47",
+        "tipo": "multiple",
+        "enunciado": "Si una persona no bebe agua ni ningún líquido por el lapso de 4 horas, consumiendo algunos alimentos durante este tiempo",
+        "opciones": [
+            "Se activan mecanismos de control de la osmolaridad cuyo fin es la reabsorción de agua mediante renina",
+            "Se activan mecanismos de control de la osmolaridad cuyo fin es la reabsorción de agua mediante vasopresina",
+            "Se activan mecanismos de control de la osmolaridad cuyo fin es la excreción de agua mediante vasopresina",
+            "Se activan mecanismos de control de la presión sanguínea cuyo fin es la reabsorción de agua mediante aldosterona"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "Cuando una persona no ingiere líquidos durante un período prolongado, el cuerpo detecta un aumento en la osmolaridad de la sangre debido a la pérdida de agua. En respuesta, se activa la liberación de vasopresina (hormona antidiurética) por parte de la glándula pituitaria posterior. La vasopresina actúa sobre los túbulos colectores del nefrón para aumentar la reabsorción de agua, lo que ayuda a conservar el agua en el cuerpo y a reducir la osmolaridad sanguínea."
+    },
+    {
+        "id": "u2-p48",
+        "tipo": "multiple",
+        "enunciado": "Responda en relación al aparato renal:",
+        "opciones": [
+            "la aldosterona favorece la reabsorción de agua libre de solutos.",
+            "la hormona antidiurética permite la reabsorción obligatoria mediante inserción de bombas Na+/K+ con gasto de energía.",
+            "la osmolaridad intersticio renal aumenta desde la corteza hasta la médula.",
+            "la reabsorción de agua en el asa de Henle sucede en la parte ascendente.",
+            "La mayor reabsorción de agua libre de solutos se produce en el túbulo contorneado proximal"
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "La osmolaridad del intersticio renal aumenta progresivamente desde la corteza hacia la médula, alcanzando su máxima concentración en la médula interna. Este gradiente osmótico es crucial para el proceso de concentración de la orina, ya que permite la reabsorción de agua en los túbulos colectores bajo la influencia de la hormona antidiurética (ADH). La aldosterona, por otro lado, favorece la reabsorción de sodio y agua, pero no es responsable de la reabsorción de agua libre de solutos. La mayor reabsorción de agua libre de solutos ocurre en el túbulo contorneado proximal, donde se reabsorbe aproximadamente el 65% del agua filtrada."
+    },
+    {
+    "id": "u2-p49",
+    "tipo": "multiple",
+    "enunciado": "El agua en la nefrona se reabsorbe:",
+    "opciones": [
+        "no se reabsorbe dado que pasa a formar parte de la orina directamente",
+        "únicamente mediante gradientes de concentración (forma pasiva)",
+        "únicamente a través de la acción de hormonas",
+        "mediante gradientes de concentración y hormonas que abren canales específicos"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El agua en la nefrona se reabsorbe tanto mediante gradientes de concentración (forma pasiva) como a través de la acción de hormonas, principalmente la hormona antidiurética (ADH). La ADH aumenta la permeabilidad de los túbulos colectores al agua al promover la inserción de canales acuaporinas en las membranas celulares, lo que permite que el agua se reabsorba hacia el intersticio renal y luego hacia el torrente sanguíneo. Además, el gradiente osmótico creado por la médula renal facilita la reabsorción pasiva de agua en diferentes segmentos de la nefrona."
+    },
+    {
+        "id": "u2-p50",
+        "tipo": "ordenar",
+        "enunciado": "Coloque en orden los siguientes eventos:",
+        "opciones": [
+            "Detección por células del túbulo contorneado distal especializadas",
+            "Comunicación paracrina con células de la arteriola aferente",
+            "Se produce la retención de sodio y el arrastre de agua por soluto",
+            "Liberación de renina al torrente sanguíneo",
+            "Conversión de Angiotensinógeno en Angiotensina 1",
+            "Acciones de la enzima convertidora sobre Angiotensina 1",
+            "Caída de presión arterial",
+            "Angiotensina 2 ejerce sus efectos, entre los cuales se encuentra la liberación de aldosterona"
+        ],
+        "respuestaCorrecta": [6,0,1,3,4,5,7,2],
+        "explicacion": "Ante una caída de la presión arterial, la mácula densa detecta la disminución de NaCl tubular y se comunica con las células yuxtaglomerulares de la arteriola aferente. Estas liberan renina, que convierte el angiotensinógeno en angiotensina I. La ECA transforma la angiotensina I en angiotensina II, la cual estimula la liberación de aldosterona. La aldosterona aumenta la reabsorción de sodio y agua, elevando el volumen sanguíneo y la presión arterial."
+    },
+    {
+        "id": "u2-p51",
+        "tipo": "multiple",
+        "enunciado": "A un paciente se le realiza un estudio hormonal, y se detecta bajo contenido de aldosterona ante descensos bruscos de la presión arterial. Si el contenido de aldosterona es insuficiente, podrá implicarle:",
+        "opciones": [
+            "alteraciones en la excitabilidad de las células nerviosas.",
+            "disminución del tamaño de los eritrocitos.",
+            "aumento del pH sanguíneo.",
+            "un aumento en la osmolaridad de la orina."
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "La aldosterona aumenta la reabsorción de Na+ y la excreción de K+. Su déficit produce retención de K+ (hiperpotasemia), lo que altera el potencial de membrana y puede generar trastornos de la excitabilidad nerviosa y muscular. Además, favorece la pérdida de Na+ y agua y puede causar acidosis metabólica."
+    },
+    {
+        "id": "u2-p52",
+        "tipo": "multiple",
+        "enunciado": "Durante una hemorragia moderada ¿cuál de las siguientes respuestas fisiológicas ocurre como parte de las respuestas compensatorias iniciales?",
+        "opciones": [
+            "Aumento de la liberación de acetilcolina para inducir bradicardia.",
+            "Disminución del tono simpático para reducir el gasto cardíaco.",
+            "Aumento de la frecuencia cardíaca y vasoconstricción periférica."
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "Durante una hemorragia moderada, el cuerpo activa respuestas compensatorias para mantener la presión arterial y el flujo sanguíneo a los órganos vitales. Esto incluye un aumento de la frecuencia cardíaca (taquicardia) para incrementar el gasto cardíaco, así como vasoconstricción periférica para aumentar la resistencia vascular y mantener la presión arterial. Estas respuestas son mediadas por el sistema nervioso simpático y son cruciales para compensar la pérdida de volumen sanguíneo."
+        },
+        {
+        "id": "u2-p53",
+        "tipo": "multiple",
+        "enunciado": "La superficie transversal total es:",
+        "opciones": [
+            "mayor en las arteriolas respecto de las vénulas",
+            "mucho mayor en las venas que en las arterias",
+            "mayor en la aorta respecto de la superficie de los capilares",
+            "menor en las venas que en las arterias"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "La superficie transversal total de los vasos sanguíneos es mucho mayor en las venas que en las arterias debido a que las venas tienen una mayor cantidad de vasos y un diámetro más grande en comparación con las arterias. Esto permite que las venas puedan transportar un volumen mayor de sangre a menor presión, facilitando el retorno venoso al corazón."
+    },
+    {
+        "id": "u2-p54",
+        "tipo": "multiple",
+        "enunciado": "En una hemorragia las acciones de la hormona antidiurética o vasopresina (ADH) permiten:",
+        "opciones": [
+            "el pasaje de agua mediante acuaporinas desde el intersticio a la luz del túbulo renal debido principalmente a la mayor concentración de solutos presentes en la corteza del riñón respecto de la médula.",
+            "el pasaje de agua mediante acuaporinas desde la luz del túbulo hacia el intersticio (y luego a los vasos sanguíneos) debido principalmente al mecanismo de contracorriente del riñón.",
+            "el pasaje de agua mediante acuaporinas desde el intersticio a la luz del túbulo renal debido principalmente al mecanismo de contracorriente del riñón.",
+            "el pasaje de agua mediante acuaporinas desde la luz del túbulo hacia el intersticio (y luego a los vasos sanguíneos) debido principalmente sistemas transportadores con gasto de ATP."
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "La hormona antidiurética (ADH) o vasopresina promueve la reabsorción de agua en los túbulos colectores del riñón al aumentar la permeabilidad de las membranas celulares mediante la inserción de canales acuaporinas. El pasaje de agua se produce desde la luz del túbulo hacia el intersticio y luego hacia los vasos sanguíneos, facilitado por el mecanismo de contracorriente que crea un gradiente osmótico en la médula renal, permitiendo así la conservación de agua durante situaciones como la hemorragia."
+    },
+    {
+        "id": "u2-p55",
+        "tipo": "multiple",
+        "enunciado": "Durante una prueba de esfuerzo, se observa que un paciente incrementa su ventilación minuto de forma proporcional al aumento del consumo de oxígeno. ¿Cuál de los siguientes mecanismos explica esta respuesta fisiológica?",
+        "opciones": [
+            "Activación del centro respiratorio por acidosis metabólica.",
+            "Disminución de la concentración de dióxido de carbono en sangre.",
+            "Aumento del pH arterial estimulado por la hiperventilación.",
+            "Retroalimentación negativa del sistema parasimpático."
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "Durante el ejercicio aumenta el metabolismo muscular, con mayor producción de CO₂ y, si la intensidad es alta, de ácido láctico. La disminución del pH estimula los centros respiratorios y aumenta la ventilación minuto para aportar más O₂ y eliminar CO₂, acompañando el incremento del consumo de oxígeno."
+    },
+    {
+        "id": "u2-p56",
+        "tipo": "multiple",
+        "enunciado": "El riñón es responsable de la regulación de la osmolaridad. ¿Qué ocurrirá en los hematíes en el caso de que el plasma tenga más solutos que los que se encuentran en el rango normal (es decir se plantea una situación en la que el medio o plasma es hiper-osmótico respecto a los hematíes)?",
+        "opciones": [
+            "Se agrandará, tomando una forma esférica e incluso rompiéndose.",
+            "Perderá su forma bicóncava por aumento de la cantidad de solvente en su interior.",
+            "Se achicará, debido al pasaje de agua desde su interior al exterior.",
+            "Se achicará, debido al pasaje de agua desde el plasma a su interior."
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "Hiperosmótico = mucho soluto afuera → el agua sale de la célula → la célula se encoge. Hipoosmótico = poco soluto afuera → el agua entra a la célula → la célula se hincha."
+    },
+    {
+        "id": "u2-p57",
+        "tipo": "verdadero_falso",
+        "enunciado": "Un aumento en la actividad de los quimiorreceptores centrales tendrá como consecuencia indirecta un aumento del retorno venoso, y consecuente incremento de la presión arterial.",
+        "respuestaCorrecta": true,
+        "explicacion": "El aumento de la actividad de los quimiorreceptores centrales estimula la ventilación. Las inspiraciones más profundas generan una presión intratorácica más negativa, favoreciendo el retorno venoso al corazón. El aumento de la precarga incrementa el volumen sistólico y el gasto cardíaco, contribuyendo al aumento de la presión arterial."
+    },
+    {
+        "id": "u2-p58",
+        "tipo": "multiple",
+        "enunciado": "Ante un aumento de presión, las células de la mácula densa envían información vía paracrina a las células granulares de la arteriola aferente y",
+        "opciones": [
+            "estará inhibida la respuesta de las mismas, para no contribuir al aumento de presión.",
+            "producirán la liberación de hormona antidiurética en el túbulo colector, con la consecuente disminución de la presión.",
+            "se liberará menor cantidad de renina, hecho que aumentará a su vez la cantidad de aldosterona y vasopresina (ADH).",
+            "se liberará mayor cantidad de renina, hecho que aumentará a su vez la cantidad de aldosterona y vasopresina (ADH)."
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "Ante un aumento de la presión arterial (y del flujo/NaCl que llega a la mácula densa), esta envía señales paracrinas a las células granulares de la arteriola aferente inhibiendo la liberación de renina. Como consecuencia disminuye la activación del sistema renina-angiotensina-aldosterona, reduciendo la producción de angiotensina II y aldosterona. Esto evita una mayor retención de sodio y agua, contribuyendo a que la presión arterial no siga aumentando."
+    },
+    {
+        "id": "u2-p59",
+        "tipo": "multiple",
+        "enunciado": "El clearance renal representa el volumen de plasma del cual los riñones eliminan completamente una sustancia en un tiempo dado (normalmente expresado en mL/min). Teniendo en cuenta esto, si una sustancia tiene un clearance renal mayor que el de la inulina (sustancia que se emplea como método preciso para medir la tasa de filtración glomerular), ¿cuál de las siguientes opciones es la explicación más probable?",
+        "opciones": [
+            "La sustancia se filtra libremente y se reabsorbe completamente.",
+            "La sustancia se filtra y además se secreta activamente en los túbulos.",
+            "La sustancia se reabsorbe activamente en el túbulo proximal.",
+            "La sustancia no se filtra a nivel glomerular."
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "La inulina se filtra libremente en el glomérulo y no se reabsorbe ni se secreta, por lo que su clearance es igual a la tasa de filtración glomerular (TFG). Si una sustancia tiene un clearance mayor que el de la inulina, significa que además de filtrarse está siendo secretada activamente desde los capilares peritubulares hacia el túbulo renal, aumentando la cantidad eliminada en la orina."
+    },
+    {
+        "id": "u2-p60",
+        "tipo": "multiple",
+        "enunciado": "Marque la opción correcta de las siguientes opciones:",
+        
+        "opciones": [
+            "La frecuencia cardíaca aumenta cuando la acetilcolina estimula al nodo sinoauricular (SA) del corazón.",
+            "Las arterias tienen mayor capacitancia que las venas debido a su estructura muscular.",
+            "El período refractario absoluto del miocardio ventricular impide que se produzcan contracciones prematuras durante el ciclo cardíaco, permitiendo el llenado del corazón.",
+            "Las fibras musculares del miocardio se contraen de manera independiente sin coordinación.",
+            "El volumen sistólico es la cantidad de sangre que permanece en los ventrículos después de la contracción."
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "El período refractario absoluto del miocardio ventricular es un mecanismo crucial que impide que se produzcan contracciones prematuras durante el ciclo cardíaco. Esto permite que el corazón tenga tiempo suficiente para llenarse de sangre antes de la siguiente contracción, asegurando así un flujo sanguíneo eficiente y coordinado. La acetilcolina, por otro lado, disminuye la frecuencia cardíaca al estimular el nódulo sinoauricular (SA), las arterias tienen menor capacitancia que las venas debido a su estructura muscular más gruesa, las fibras musculares del miocardio se contraen de manera coordinada gracias a las uniones gap, y el volumen sistólico es la cantidad de sangre eyectada por los ventrículos durante la contracción."
+    },
+    {
+        "id": "u2-p61",
+        "tipo": "multiple",
+        "enunciado": "Ante una hemorragia, la amplitud y frecuencia respiratoria",
+        "opciones": [
+            "se modifican para compensar el aumento del gasto cardíaco, funcionando como bomba respiratoria que disminuye el retorno venoso",
+            "se modifican a través de los barorreceptores para compensar el efecto sobre el gasto cardíaco mediante una disminución de sus valores",
+            "se mantienen constantes dado que deben compensar la disminución del gasto cardíaco",
+            "se modifican para compensar la disminución del gasto cardíaco, funcionando como bomba respiratoria que aumenta el retorno venoso"
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "Ante una hemorragia, el cuerpo activa mecanismos compensatorios para mantener la perfusión de los órganos vitales. Uno de estos mecanismos es el aumento de la amplitud y frecuencia respiratoria, lo que funciona como una bomba respiratoria que ayuda a aumentar el retorno venoso al corazón. Al incrementar la presión intratorácica negativa durante la inspiración, se facilita el flujo sanguíneo de regreso al corazón, lo que contribuye a compensar la disminución del gasto cardíaco causada por la pérdida de volumen sanguíneo."
+    },
+    {
+        "id": "u2-p62",
+        "tipo": "multiple",
+        "enunciado": "Una persona coloca una gota de sangre con sueros Anti A y Anti B respectivamente y observa lo que se ve en la figura. El grupo sanguíneo de esta persona es:",
+        "imagen": {
+            "url": "data/Imagenes_ud2/test-AB0.png",
+            "alt": "Figura de una prueba de grupo sanguíneo con sueros Anti A y Anti B"
+        },
+        "opciones": [
+            "0",
+            "A",
+            "B",
+            "AB",
+            "AB0"
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "En la prueba de grupo sanguíneo, la aglutinación (formación de grumos) indica la presencia de antígenos específicos en los glóbulos rojos. Si se observa aglutinación tanto con el suero Anti A como con el suero Anti B, significa que la persona tiene ambos antígenos A y B en sus glóbulos rojos, lo que corresponde al grupo sanguíneo AB."
+    },
+    {
+        "id": "u2-p63",
+        "tipo": "multiple",
+        "enunciado": "Los siguientes parámetros afectan la hematosis según la Ley de Fick:",
+        "opciones": [
+            "Gradiente de presión, densidad del gas, cantidad de agente tensioactivo y humidificación del aire",
+            "Gradiente de flujo, densidad del gas, permeabilidad de la membrana eritrocitaria, área tisular total",
+            "Gradiente de concentraciones de ion bicarbonato, solubilidad del CO2, permeabilidad de la membrana eritrocitaria",
+            "Agente tensoactivo y solubilidad de los gases",
+            "Gradiente de presión, densidad del gas, solubilidad, espesor de la membrana y área tisular"
+        ],
+        "respuestaCorrecta": 4,
+        "explicacion": "La Ley de Fick para la difusión de gases establece que la tasa de difusión es proporcional al gradiente de presión, la solubilidad del gas, el área de la membrana a través de la cual se difunde, e inversamente proporcional al espesor de la membrana. La densidad del gas y otros factores como el agente tensoactivo no forman parte de esta ley en el contexto de la hematosis."
+    },
+    {
+        "id": "u2-p64",
+        "tipo": "multiple",
+        "enunciado": "Umbral renal de una sustancia",
+        "opciones": [
+            "se refiere a la concentración de una sustancia a partir de la cual su velocidad de transporte en la orina se incrementa",
+            "se refiere a la concentración de una sustancia a partir de la cual ya no puede secretarse en la orina",
+            "se refiere a la concentración de una sustancia a partir de la cual comienza a aparecer en la orina",
+            "se refiere a la concentración de una sustancia a partir de la cual no puede excretarse por la orina"
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "El umbral renal de una sustancia se refiere a la concentración plasmática a partir de la cual la capacidad de reabsorción del túbulo renal se satura y la sustancia comienza a aparecer en la orina. Por debajo de este umbral, toda la sustancia filtrada es reabsorbida, mientras que por encima del umbral, el exceso de sustancia que no puede ser reabsorbida se excreta en la orina."
+    },
+    {
+        "id": "u2-p65",
+        "tipo": "multiple",
+        "enunciado": "En el laboratorio, se ha descerebrado una rana, y se ha suspendido su corazón permitiendo observar la frecuencia cardíaca del mismo. Se ha goteado acetilcolina sobre el seno venoso del corazón y a continuación -sin lavar el preparado- atropina, una droga que bloquea los receptores muscarínicos del sistema nervioso parasimpático. ¿Qué observación es más probable?",
+        "opciones": [
+            "Aumento de la frecuencia cardíaca y luego de un minuto una marcada disminución.",
+            "Disminución del inotropismo.",
+            "Conservación de la frecuencia cardíaca y luego de un minuto un marcado ascenso.",
+            "Conservación de la frecuencia cardíaca regular.",
+            "Disminución del cronotropismo."
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "La acetilcolina actúa sobre receptores muscarínicos cardíacos produciendo cronotropismo negativo (disminución de la frecuencia cardíaca). Posteriormente, la atropina bloquea dichos receptores e impide la acción de la acetilcolina, por lo que la frecuencia cardíaca aumenta nuevamente."
+    },
+    {
+        "id": "u2-p66",
+        "tipo": "multiple",
+        "enunciado": "Los neumocitos tipo II producen una sustancia surfactante para, según la Ley de Laplace (P = 2T/r, P: presión, T: tensión superficial, r: radio):",
+        "opciones": [
+            "Aumentar la tensión superficial en todos los alvéolos",
+            "Reducir la tensión superficial en alvéolos pequeños",
+            "Aumentar la tensión superficial en alvéolos pequeños",
+            "Aumentar la tensión superficial en alvéolos grandes",
+            "Reducir la tensión superficial en alvéolos grandes"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "La sustancia surfactante producida por los neumocitos tipo II reduce la tensión superficial en los alvéolos, especialmente en los alvéolos pequeños. Esto es crucial para prevenir el colapso alveolar (atelectasia) durante la espiración, ya que los alvéolos pequeños tienen un radio menor y, según la Ley de Laplace, tendrían una mayor presión interna que los alvéolos grandes si no se redujera la tensión superficial. Al disminuir la tensión superficial, el surfactante facilita la expansión de los alvéolos durante la inspiración y mejora la eficiencia de la ventilación."
+    },
+    {
+      "id": "u2-p67",
+      "tipo": "multiple-respuesta",
+      "enunciado": "¿Qué condiciones modifican la curva de afinidad de la hemoglobina al O2 hacia la derecha? Marque todas las opciones correctas:",
+      "opciones": [
+        "Aumento de pH",
+        "Acidificación o aumento de CO2",
+        "Aumento de temperatura",
+        "Hemoglobina fetal",
+        "Disminución de temperatura",
+        "Baja disponibilidad de O2"
+      ],
+      "respuestaCorrecta": [1, 2, 5],
+      "explicacion": "La curva de afinidad de la hemoglobina al O2 se desplaza hacia la derecha (lo que indica una menor afinidad por el O2) en condiciones de acidificación (aumento de CO2), aumento de temperatura y disminución de pH. Esto facilita la liberación de O2 a los tejidos. La hemoglobina fetal tiene una mayor afinidad por el O2, por lo que su curva se desplaza hacia la izquierda. La baja disponibilidad de O2 también puede afectar la afinidad, pero no es un factor directo que modifique la curva."
+    }
+
+]
+}

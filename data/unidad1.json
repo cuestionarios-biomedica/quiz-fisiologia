@@ -1,0 +1,1071 @@
+{
+  "unidad": 1,
+  "nombre": "Interacciones con el medio",
+  "preguntas": [
+    {
+      "id": "u1-p1",
+      "tipo": "completar",
+      "enunciado": "En la zona número 3 se produce una [blank1], por el ingreso de iones [blank2], a través de canales rápidos. El fenómeno que se observa en el punto 5 se conoce como [blank3] y se debe al cierre lento de [blank4]. La zona número 2 se llama [blank5] y corresponde al voltaje de apertura de [blank6]. La zona 4 se conoce como [blank7] y se debe a la salida de iones [blank8].",
+      "imagen": {
+            "url": "data/Imagenes_ud1/PotencialDeAccion.png",
+            "alt": "Potencial de accion",
+            "width": 500,
+            "height": 400
+        },
+      "blanks": [
+        {
+          "id": "blank1",
+          "label":"",
+          "opciones": ["despolarización", "repolarización", "hiperpolarización"],
+          "respuestaCorrecta": 0
+        },
+        {
+          "id": "blank2",
+          "label":"",
+          "opciones": ["K+", "Na+",  "Ca2+"],
+          "respuestaCorrecta": 1
+        },
+        {
+          "id": "blank3",
+          "label":"",
+          "opciones": ["poshiperpolarización", "posdespolarización"],
+          "respuestaCorrecta": 0
+        },
+        {
+          "id": "blank4",
+          "label":"",
+          "opciones": ["canales de Na+ dependientes de voltaje", "canales de K+ dependientes de voltaje", "canales de Ca2+ dependientes de voltaje"],
+          "respuestaCorrecta": 1
+        },
+        {
+          "id": "blank5",
+          "label":"",
+          "opciones": ["pico del potencial de acción", "potencial de reposo", "umbral"],
+          "respuestaCorrecta": 2
+        },
+        {
+          "id": "blank6",
+          "label":"",
+          "opciones": ["canales de Na+ dependientes de voltaje", "canales de K+ dependientes de voltaje", "canales de Ca2+ dependientes de voltaje"],
+          "respuestaCorrecta": 0
+        },
+        {
+          "id": "blank7",
+          "label":"",
+          "opciones": ["despolarización", "repolarización", "hiperpolarización"],
+          "respuestaCorrecta": 1
+        },
+        {
+          "id": "blank8",
+          "label":"",
+          "opciones": ["K+", "Na+", "Ca2+"],
+          "respuestaCorrecta": 0
+        }
+      ]
+    },
+    {
+      "id": "u1-p2",
+      "tipo": "multiple",
+      "enunciado": "La exposición a pesticidas derivados del compuesto carbamato producen la inhibición de la enzima acetilcolinesterasa. ¿Qué consecuencias provocará sobre las sinapsis?",
+      "opciones": ["Provocará una sobreestimulación de la unión neuromuscular por mantenerse niveles elevados de acetilcolina en la hendidura sináptica", "Habrá sumación espacial en muchas fibras nerviosas", "No tendrá consecuencias ya que serán mediadas por otros sistemas de neurotransmisores", "El Ca++ se almacenará en el retículo sarcoplásmico en mayores concentraciones", "El potencial de placa motora será reducido"],
+      "respuestaCorrecta": 0,
+      "explicacion": "La inhibición de la acetilcolinesterasa provoca que la acetilcolina permanezca más tiempo en la hendidura sináptica, lo que puede llevar a una sobreestimulación de la unión neuromuscular y a síntomas como contracciones musculares involuntarias, debilidad muscular y, en casos graves, parálisis."
+    },
+    {
+      "id": "u1-p3",
+      "tipo": "ordenar",
+      "enunciado": "Ordene las acciones de la acetilcolina en la placa motora:",
+      "opciones": [
+        "apertura de los canales de Na+ dependientes de voltaje",
+        "se produce el desplazamiento de las fibras contráctiles",
+        "apertura de los canales de Ca++ desde el retículo sarcoplásmico",
+        "el Ca++ se sitúa en la troponina liberando el sitio de acción de actina",
+        "unión de acetilcolina con su receptor en el músculo",
+        "el Ca++ se libera de la troponina mediante una bomba, se produce la relajación muscular"
+      ],
+      "respuestaCorrecta": [4, 0, 2, 3, 1, 5],
+      "explicacion": "El orden correcto es: 1) unión de acetilcolina con su receptor, 2) apertura de canales de Na+ dependientes de voltaje, 3) apertura de canales de Ca++ del retículo, 4) Ca++ se une a troponina, 5) desplazamiento de fibras contráctiles, 6) relajación muscular"
+    },
+    {
+      "id": "u1-p4",
+      "tipo": "multiple",
+      "enunciado": "En la siguiente Figura de un corte sagital del S.N.C. indique la función o proceso en el que esté involucrada la estructura señalada",
+      "imagen": {
+        "url": "data/Imagenes_ud1/corte-sagital-snc.png",
+        "alt": "Corte sagital del S.N.C. con estructura señalada"
+      },
+      "opciones": [
+        "apreciación afectiva de las sensaciones táctiles y auditivas que no llegarán a la corteza sensitiva",
+        "apreciación afectiva de las sensaciones de placer y emociones como el odio",
+        "centro de relevo y también procesamiento de la mayoría de los estímulos sensoriales (con excepción del olfato) y motores que anteceden a la corteza cerebral"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El tálamo es el centro de relevo para la mayoría de los estímulos sensoriales y motores antes de llegar a la corteza cerebral"
+    },
+    {
+      "id": "u1-p5",
+      "tipo": "multiple",
+      "enunciado": "Las soluciones A y B están separadas por una membrana que es permeable al K+ e impermeable a Cl-. La solución A es KCl 100mM y la solución B es KCl 1mM. ¿Cuál de los siguientes enunciados es correcto sobre la solución A y la solución B?",
+      "opciones": [
+        "El K+ se difundirá de la solución A a la solución B hasta que se produzca un potencial de membrana con la solución A negativa respecto a la solución B",
+        "Los iones K+ se difundirán de la solución A a la solución B hasta que la concentración de K+ de ambas soluciones sea 50.5 mM",
+        "El K+ se difundirá de la solución A a la solución B hasta que se produzca un potencial de membrana con la solución A positiva respecto a la solución B",
+        "Los iones K+ se difundirán de la solución B a la solución A hasta que la concentración de K+ de ambas soluciones sea 50.5 mM",
+        "Los iones Cl- se difundirán de la solución B a la solución A hasta que la concentración de Cl- de ambas soluciones sea 50.5 mM"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El K+ se difunde de A a B (mayor concentración a menor), pero al ser impermeable al Cl-, se genera un potencial de membrana con A negativa respecto a B"
+    },
+    {
+      "id": "u1-p6",
+      "tipo": "multiple",
+      "enunciado": "Durante un potencial de acción nervioso, se aplica un estímulo como indica la flecha de la figura. En respuesta al estímulo:",
+      "imagen": {
+        "url": "data/Imagenes_ud1/pot-accion.png",
+        "alt": "Gráfico de potencial de acción con estímulo aplicado"
+      },
+      "opciones": [
+        "se producirá un segundo potencial de acción de magnitud normal, pero estará diferido",
+        "se producirá un segundo potencial de acción por sumación con el anterior",
+        "se producirá un segundo potencial de acción de menor magnitud",
+        "no se producirá un segundo potencial de acción"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "No se producirá un segundo potencial de acción porque el estímulo cae en el período refractario absoluto"
+    },
+    {
+      "id": "u1-p7",
+      "tipo": "multiple",
+      "enunciado": "En un potencial de acción, la velocidad de conducción aumenta por efecto de:",
+      "opciones": [
+        "a) Una disminución en el grosor de las fibras por la menor resistencia interna de la misma. b) Mielinización ya que la mielina actúa como material conductor alrededor de los axones nerviosos.",
+        "a) Una disminución en el grosor de las fibras por la mayor resistencia interna de la misma. b) Mielinización ya que la mielina actúa como material aislante alrededor de toda la fibra nerviosa.",
+        "a) Un aumento del grosor de las fibras por la menor resistencia interna de la misma. b) Mielinización ya que la mielina actúa como un aislante alrededor de los axones nerviosos.",
+        "a) Un aumento del grosor de las fibras por la mayor resistencia interna de la misma. b) Desmielinización ya que los potenciales de acción solo pueden generarse en los nódulos de Ranvier que presentan zonas sin vainas de mielina.",
+        "a) Un aumento del grosor de las fibras por la mayor resistencia interna de la misma. b) Mielinización ya que la mielina actúa como un aislante alrededor de las dendritas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La velocidad de conducción aumenta con fibras más gruesas (menor resistencia interna) y con mielinización (aislante que permite conducción saltatoria)"
+    },
+    {
+      "id": "u1-p8",
+      "tipo": "multiple",
+      "enunciado": "Si una membrana presináptica libera un neurotransmisor excitatorio luego de recibir un impulso nervioso, en la neurona contigua ocurrirá:",
+      "opciones": [
+        "Aumento de la conductancia de Na+ y despolarización de la membrana postsináptica.",
+        "Aumento de la conductancia de K+ y repolarización de la membrana postsináptica.",
+        "Aumento de la conductancia de Cl- y repolarización de la membrana postsináptica.",
+        "Aumento de la conductancia de K+ y despolarización de la membrana postsináptica.",
+        "Aumento de la conductancia de Cl- y despolarización de la membrana postsináptica."
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Un neurotransmisor excitatorio generalmente aumenta la conductancia de Na+, lo que provoca una despolarización de la membrana postsináptica, acercándola al umbral para generar un potencial de acción."
+    },
+    {
+      "id": "u1-p9",
+      "tipo": "multiple",
+      "enunciado": "La estimulación reiterada de una fibra muscular esquelética provoca una contracción sostenida. La acumulación del siguiente soluto en el líquido intracelular es responsable de esta contracción:",
+      "opciones": ["Ca++", "Na+", "K+", "Cl-"],
+      "respuestaCorrecta": 0,
+      "explicacion": "La acumulación de Ca++ en el sarcoplasma es responsable de la contracción sostenida, ya que el Ca++ se une a la troponina y permite la interacción entre actina y miosina"
+    },
+    {
+      "id": "u1-p10",
+      "tipo": "multiple",
+      "enunciado": "Un anestésico local recientemente creado bloquea los canales de Na+ en la célula nerviosa. ¿Cuál de los siguientes efectos cabría esperar sobre el potencial de acción?",
+      "opciones": [
+        "Disminución del potencial de equilibrio de Na+",
+        "Acortamiento del período refractario absoluto",
+        "Aumento del potencial de equilibrio de Na+",
+        "Supresión del pospotencial hiperpolarizante",
+        "Disminución de la velocidad de aparición de la fase de ascenso del potencial de acción"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El bloqueo de los canales de Na+ disminuirá la velocidad de entrada de Na+ durante la fase de ascenso del potencial de acción, lo que resultará en una disminución de la velocidad de aparición de esta fase"
+    },
+    {
+      "id": "u1-p11",
+      "tipo": "multiple",
+      "enunciado": "En relación a la acción del calcio en el inicio de la contracción de las fibras musculares, marque la opción correcta:",
+      "opciones": [
+        "El calcio se libera de las vesículas postsinápticas, invade el sarcoplasma y se une a la tropomiosina.",
+        "El calcio se libera del retículo sarcoplasmático, invade el sarcolema y se une a la troponina.",
+        "El calcio se libera del retículo sarcoplasmático, invade el sarcoplasma y se une a la troponina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El calcio se libera del retículo sarcoplasmático, invade el sarcoplasma y se une a la troponina para iniciar la contracción muscular"
+    },
+    {
+      "id": "u1-p12",
+      "tipo": "multiple",
+      "enunciado": "Complete esa tabla con la opción correcta: ",
+      "imagen": {
+        "url": "data/Imagenes_ud1/acciones-sna.png",
+        "alt": "Tabla de acciones del SNA en sus divisiones simpática y parasimpática"
+      },
+      "opciones": [
+        "a. Dilatación pupilar, c. Disminución de secreción, f. Constricción",
+        "a. Dilatación pupilar, d. Aumento de secreción, f. no hay acciones",
+        "a. Constricción pupilar, c. Disminución de secreción, e. Constricción",
+        "b. Dilatación pupilar, c. Disminución de secreción, f. Constricción",
+        "b. Contricción, d. Disminución de secreción, f. Dilatación"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El sistema simpático produce midriasis (dilatación pupilar), disminuye la secreción salival y genera principalmente vasoconstricción. El parasimpático produce miosis (constricción pupilar), aumenta la secreción salival y tiene poca o ninguna acción directa sobre la mayoría de los vasos sanguíneos."
+    },
+    {
+      "id": "u1-p13",
+      "tipo": "multiple",
+      "enunciado": "El SNA en su división SIMPÁTICA presenta:",
+      "opciones": [
+        "Acetilcolina como único neurotransmisor",
+        "Axones preganglionares largos y postganglionares cortos",
+        "A nivel anatómico, origen a nivel de las raíces cráneo-sacras de la médula espinal",
+        "Acetilcolina en la sinapsis ganglionar y Noradrenalina en la sinapsis con el órgano efector"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El sistema simpático utiliza acetilcolina en la sinapsis ganglionar (entre neurona preganglionar y postganglionar) y noradrenalina en la sinapsis con el órgano efector (aunque hay excepciones como las glándulas sudoríparas que usan acetilcolina)"
+    },
+    {
+      "id": "u1-p14",
+      "tipo": "ordenar",
+      "enunciado": "Con respecto a la circulación de LCR en el adulto, identifique cuál es el orden correcto de acuerdo a los lugares por donde circula:",
+      "opciones": [
+        "Plexos Coroideos",
+        "4to ventrículo",
+        "3er ventrículo",
+        "Cisterna Magna",
+        "Acueducto de Silvio",
+        "Espacio Subaracnoideo"
+      ],
+      "respuestaCorrecta": [0, 2, 4, 1, 3, 5],
+      "explicacion": "El orden correcto es: Plexos Coroideos → 3er ventrículo → Acueducto de Silvio → 4to ventrículo → Cisterna Magna → Espacio Subaracnoideo"
+    },
+    {
+      "id": "u1-p15",
+      "tipo": "multiple",
+      "enunciado": "¿Cuál de los siguientes fenómenos determina fundamentalmente el potencial de reposo?",
+      "opciones": [
+        "difusión pasiva de cloro",
+        "difusión pasiva de potasio",
+        "transporte activo de potasio",
+        "transporte activo de sodio",
+        "transporte activo de proteínas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El potencial de reposo se determina principalmente por la difusión pasiva de potasio a través de canales específicos, ya que la membrana es más permeable al K+ que a otros iones en reposo"
+    },
+    {
+      "id": "u1-p16",
+      "tipo": "multiple",
+      "enunciado": "Una de las hipótesis de Claude Bernard respecto a la experiencia realizada inyectando curare a un sapo fue que dicho fármaco actúa a nivel de la placa motora. Teniendo en cuenta que la pata control es la ligada y la pata problema es la no ligada, ¿cuál de los siguientes enunciados es la mejor evidencia para esta hipótesis?",
+      "opciones": [
+        "Al estimular el músculo de la pata control se obtiene una respuesta, pero el músculo de la pata problema no reacciona al apoyarle el electroestimulador.",
+        "Tanto el músculo de la pata control como la pata problema al ser estimulados por el electroestimulador reaccionan, pero el de la pata problema lo hace con menor intensidad.",
+        "Tanto el nervio de la pata control como la pata problema al ser estimulados por el electroestimulador generan una respuesta en ambas patas, pero la intensidad de la respuesta en la pata problema es menor.",
+        "Al estimular el nervio de la pata problema el músculo no responde, mientras que al estimular el nervio de la pata control se obtiene una respuesta.",
+        "Al estimular el nervio de la pata control el músculo no responde, mientras que al estimular el nervio de la pata problema se obtiene una respuesta."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Si el curare actúa en la placa motora, al estimular el nervio de la pata problema el músculo no responde, pero la pata control sí responde"
+    },
+    {
+      "id": "u1-p17",
+      "tipo": "multiple",
+      "enunciado": "En relación al HUSO MUSCULAR indique la afirmación correcta:",
+      "opciones": [
+        "Modula la respuesta motora frente a un estímulo nociceptivo",
+        "Responde tanto al estiramiento como a la contracción",
+        "Se encuentra ubicado en la unión de los tendones y la fibra muscular",
+        "Transmite información sobre la posición relativa de los huesos",
+        "Puede estimularse mediante motoneurona gamma"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El huso muscular es un receptor sensorial que se encuentra dentro del músculo y responde al estiramiento, pero no a la contracción. Está inervado por motoneuronas gamma que ajustan su sensibilidad al estiramiento"
+    },
+    {
+      "id": "u1-p18",
+      "tipo": "completar",
+      "enunciado": "En el reflejo miotático \n ante la inhibición de la inervación recíproca [blank1], \n ante la inervación recíproca [blank2]",
+      "blanks": [
+        {
+          "id": "blank1",
+          "label": "Sin inhibición de inervación recíproca",
+          "opciones": [
+            "se contraen ambos músculos, el movimiento no es posible",
+            "se inhibe el músculo antagonista permitiendo el movimiento",
+            "se contraen ambos músculos, el movimiento es posible",
+            "se inhibe el músculo agonista permitiendo el movimiento"
+          ],
+          "respuestaCorrecta": 0
+        },
+        {
+          "id": "blank2",
+          "label": "Con inhibición de inervación recíproca",
+          "opciones": [
+            "se contraen ambos músculos, el movimiento no es posible",
+            "se inhibe el músculo antagonista permitiendo el movimiento",
+            "se contraen ambos músculos, el movimiento es posible",
+            "se inhibe el músculo agonista permitiendo el movimiento"
+          ],
+          "respuestaCorrecta": 1
+        }
+      ],
+      "explicacion": "En el reflejo miotático sin inhibición de inervación recíproca, ambos músculos (agonista y antagonista) se contraen, lo que hace que el movimiento no sea posible. En cambio, con inhibición de inervación recíproca, el músculo antagonista se inhibe, permitiendo que el músculo agonista se contraiga y el movimiento sea posible."
+    },
+    {
+      "id": "u1-p19",
+      "tipo": "multiple",
+      "enunciado": "Mediante la estimulación eléctrica de las diversas áreas de la corteza motora primaria en seres humanos se pudo esquematizar el grado de representación de las diferentes áreas musculares. En dicha representación, más de la mitad de toda la corteza motora primaria se encarga:",
+      "opciones": [
+        "de controlar los músculos de la cara",
+        "de controlar los músculos del torso",
+        "de controlar los músculos de las piernas",
+        "de controlar los músculos de las manos y del habla"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En la corteza motora primaria, una gran parte está dedicada al control de los músculos de las manos y del habla, lo que refleja la importancia de estas funciones en la interacción con el medio ambiente y la comunicación."
+    },
+    {
+      "id": "u1-p20",
+      "tipo": "multiple",
+      "enunciado": "Se considera que la corteza motora primaria se encarga principalmente de:",
+      "opciones": [
+        "Modificación de programas motores en función de lo aprendido.",
+        "Programación de movimientos guiados por la información sensorial.",
+        "Programación de movimientos voluntarios, complejos, secuenciales y simultáneos.",
+        "Ejecución del plan motor y planeamiento de movimientos simples."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La corteza motora primaria se encarga principalmente de la ejecución del plan motor y el planeamiento de movimientos simples, mientras que otras áreas como la corteza premotora y el área motora suplementaria están más involucradas en la programación de movimientos complejos y guiados por la información sensorial."
+    },
+    {
+      "id": "u1-p21",
+      "tipo": "multiple",
+      "enunciado": "Durante una sinapsis química, la unión de un neurotransmisor a su receptor produce un aumento de la conductancia para los iones potasio fuera de la neurona post-sináptica. Esto implicará:",
+      "opciones": [
+        "Repolarización de un potencial de acción en curso en la neurona post-sináptica.",
+        "Excitación de la membrana de la neurona postsináptica.",
+        "Inhibición de la membrana de la neurona postsináptica, alejándola del umbral para la propagación de un potencial de acción.",
+        "Contracción inmediata del músculo en el caso de la unión neuromuscular o placa motora.",
+        "Ningún cambio en el potencial de membrana de la neurona post-sináptica"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El aumento de la conductancia para los iones potasio fuera de la neurona post-sináptica provocará una salida de K+ de la célula, lo que llevará a una hiperpolarización de la membrana y, por lo tanto, a una inhibición de la neurona post-sináptica, alejándola del umbral para generar un potencial de acción."
+    },
+    {
+      "id": "u1-p22",
+      "tipo": "verdadero_falso",
+      "enunciado": "Con respecto al huso muscular y su función: Las terminaciones nerviosas se estimulan por cambios en la longitud muscular.",
+      "respuestaCorrecta": true,
+      "explicacion": "El huso muscular detecta cambios en la longitud muscular a través de sus terminaciones nerviosas"
+    },
+    {
+      "id": "u1-p23",
+      "tipo": "verdadero_falso",
+      "enunciado": "En la siguiente figura 1) es el disco Z, 2) miosina y 3) actina",
+      "imagen": {
+        "url": "data/Imagenes_ud1/sarcomero.png",
+        "alt": "Diagrama del sarcómero mostrando disco Z, miosina y actina"
+      },
+      "respuestaCorrecta": false,
+      "explicacion": "Falso. El número 1 corresponde al disco Z, el 2 señala los filamentos finos de actina y el 3 los filamentos gruesos de miosina. La afirmación invierte la identificación de actina y miosina."
+    },
+    {
+      "id": "u1-p24",
+      "tipo": "verdadero_falso",
+      "enunciado": "El receptor para el neurotransmisor en la unión neuromuscular esquelética es exactamente el mismo que el que se encuentra en la unión neuromuscular bronquiolar",
+      "respuestaCorrecta": false,
+      "explicacion": "Son receptores diferentes: el esquelético es nicotínico (canal iónico) y el bronquiolar es muscarínico (acoplado a proteína G)"
+    },
+    {
+      "id": "u1-p25",
+      "tipo": "multiple",
+      "enunciado": "En el músculo esquelético, ¿cuál de los siguientes sucesos ocurre antes de la despolarización de los túbulos T en el mecanismo de acoplamiento excitación-contracción?",
+      "opciones": [
+        "Captación de Ca++ en el retículo sarcoplásmico",
+        "Despolarización de la membrana sarcolémica.",
+        "Apertura de los canales de liberación de Ca++ en el retículo sarcoplásmico",
+        "Desplazamiento entre actina y miosina",
+        "Fijación del Ca++ a la troponina C"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La despolarización de la membrana sarcolémica ocurre antes de la despolarización de los túbulos T, ya que esta última es una consecuencia de la propagación del potencial de acción a través del sarcolema y hacia el interior del músculo a través de los túbulos T."
+    },
+    {
+      "id": "u1-p26",
+      "tipo": "verdadero_falso",
+      "enunciado": "Una mujer de 56 años con debilidad muscular grave es hospitalizada. La única anomalía en sus datos analíticos es una concentración extracelular elevada de K+. La concentración extracelular de potasio elevada altera el potencial de equilibrio del K+ y por lo tanto produce despolarización de la membrana de la fibra muscular.",
+      "respuestaCorrecta": true,
+      "explicacion": "Una concentración extracelular elevada de K+ reduce el gradiente de concentración de potasio a través de la membrana, lo que hace que el potencial de equilibrio del K+ sea menos negativo. Esto provoca una despolarización de la membrana de la fibra muscular, lo que puede contribuir a la debilidad muscular observada en esta paciente."
+    },
+    {
+      "id": "u1-p27",
+      "tipo": "verdadero_falso",
+      "enunciado": "No existe el fenómeno de post descarga en el reflejo miotático",
+      "respuestaCorrecta": false,
+      "explicacion": "Falso. El reflejo miotático presenta fenómeno de postdescarga, es decir, la respuesta refleja puede persistir brevemente luego de finalizado el estímulo de estiramiento debido a las propiedades de los circuitos neuronales involucrados. NOTA: en la captura de esta pregunta dice que la falsa es incorrecta, pero todas las IAs dicen que es verdadera."
+    },
+    {
+      "id": "u1-p28",
+      "tipo": "verdadero_falso",
+      "enunciado": "Las señales provenientes de métodos no invasivos (como un electroencefalograma) empleados para comandar una computadora son a menudo señales que requieren mayor procesamiento que si la señal proviene de una técnica invasiva como la electrocorticografía.",
+      "respuestaCorrecta": true,
+      "explicacion": "Las señales no invasivas, como las obtenidas mediante electroencefalografía (EEG), suelen ser más ruidosas y de menor resolución espacial que las señales obtenidas mediante técnicas invasivas como la electrocorticografía (ECoG). Por lo tanto, las señales no invasivas requieren un mayor procesamiento para extraer información útil y reducir el ruido, mientras que las señales invasivas pueden proporcionar datos más claros y específicos con menos necesidad de procesamiento adicional."
+    },
+    {
+      "id": "u1-p29",
+      "tipo": "multiple",
+      "enunciado": "Indique la opción correcta con respecto al exoesqueleto:",
+      "opciones": [
+        "Detecta solamente señales musculares que codifica y emplea como retroalimentación para efectuar una acción",
+        "No existe evidencia actual de mejora de un paciente en rehabilitación a través de estos dispositivos",
+        "Pueden emplearse sin el uso de actuadores, proveyendo resistencia para rehabilitar un miembro",
+        "Hasta el desarrollo actual poseen el mismo grado de libertad que el miembro superior humano",
+        "Requiere solamente de 2 horas de entrenamiento para su uso médico"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los exoesqueletos pueden emplearse sin el uso de actuadores, proveyendo resistencia para rehabilitar un miembro. Esto se conoce como exoesqueleto pasivo, que utiliza mecanismos de resistencia para ayudar en la rehabilitación sin necesidad de motores o actuadores eléctricos."
+    },
+    {
+      "id": "u1-p30",
+      "tipo": "multiple",
+      "enunciado": "Oberve la figura y responda completándola:",
+      "imagen": {
+        "url": "data/Imagenes_ud1/actina-miosina-union.png",
+        "alt": "Diagrama de la estimulación cerebral profunda (DBS) mostrando electrodos implantados en el cerebro"
+      },
+      "opciones": [
+        "(1) es una proteína llamada troponina con sus 3 sitios de unión, (2) proteína fibrosa llamada tropomiosina y gracias al (3) que es el Ca++ es posible el acoplamiento miosina-actina.",
+        "(1) es una proteína llamada tropomiosina con sus 3 sitios de unión, (2) proteína fibrosa llamada troponina y gracias al (3) que es el Ca++ es posible el acoplamiento miosina-actina.",
+        "(1) es una proteína llamada troponina con sus 3 sitios de unión, (2) proteína fibrosa llamada tropomiosina y gracias al (3) que es el Na+ es posible el acoplamiento miosina-actina.",
+        "(1) es una proteína llamada tropomiosina con sus 3 sitios de unión, (2) proteína fibrosa llamada troponina y gracias al (3) que es el Ca++ es posible el acoplamiento miosina-actina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La estimulación cerebral profunda (DBS) consiste en la implantación de electrodos en áreas específicas del cerebro para modular la actividad neuronal. Es un tratamiento invasivo utilizado para una variedad de trastornos neurológicos, incluyendo pero no limitado a la enfermedad de Parkinson, y puede tener efectos secundarios dependiendo del área estimulada y del paciente."
+    },
+    {
+      "id": "u1-p31",
+      "tipo": "completar",
+      "enunciado": "Relacione los conceptos con las definiciones \n ¿Cuál es la función de los tractos espinocerebelosos? [blank1] \n ¿Cuál es la función de la motoneurona alfa? [blank2] \n ¿Cuál es la función de la motoneurona gamma? [blank3]",
+      "blanks": [
+        {
+          "id": "blank1",
+          "label":"Tractos espinocerebelosos",
+          "opciones": [
+            "transmiten información de receptores propioceptivos que permiten el mantenimiento de la postura",
+            "transmiten información de receptores propioceptivos que permiten la coordinación de los movimientos",
+            "transmiten información de receptores propioceptivos que permiten la ejecución de movimientos voluntarios"
+            
+          ],
+          "respuestaCorrecta": 0
+        },
+        {
+          "id": "blank2",
+          "label":"Motoneurona alfa",
+          "opciones": [
+            "se denomina la vía final común, porque recibe la información que permite la ejecución del movimiento reflejo, automático y voluntario",
+            "se denomina la vía final común, porque recibe la información que permite la ejecución del movimiento reflejo y automático, pero no voluntario",
+            "se denomina la vía final común, porque recibe la información que permite la ejecución del movimiento reflejo, pero no automático ni voluntario",
+            "se denomina la vía final común, porque recibe la información que permite la ejecución del movimiento voluntario, pero no reflejo ni automático"
+            
+          ],
+          "respuestaCorrecta": 0
+        },
+        {
+          "id": "blank3",
+          "label":"Motoneurona gamma",
+          "opciones": [
+            "estimula la contracción de los extremos de las fibras intrafusales del huso muscular, favoreciendo la estimulación del reflejo miotático",
+            "estimula la contracción de los extremos de las fibras intrafusales del huso muscular, favoreciendo la estimulación del reflejo miotático",
+            "estimula la contracción de los extremos de las fibras intrafusales del huso muscular, favoreciendo la estimulación del reflejo miotático",
+            "estimula la contracción de los extremos de las fibras intrafusales del huso muscular, favoreciendo la estimulación del reflejo miotático"
+          ],
+          "respuestaCorrecta": 0
+        }
+      ],
+      "explicacion": "Los tractos espinocerebelosos transmiten al cerebelo información propioceptiva inconsciente proveniente de músculos y articulaciones, fundamental para el mantenimiento de la postura y el ajuste del movimiento. La motoneurona alfa es la 'vía final común' del sistema motor, ya que recibe información de vías reflejas, automáticas y voluntarias y estimula la contracción de las fibras musculares extrafusales. La motoneurona gamma inerva las fibras intrafusales del huso muscular, contrayendo sus extremos para mantener su sensibilidad al estiramiento y favorecer el reflejo miotático."
+    },
+    {
+      "id": "u1-p32",
+      "tipo": "multiple",
+      "enunciado": "La planta Conium maculatum (Cicuta) es altamente tóxica ya que contiene alcaloides, como la coiina que se unen a los receptores nicotínicos de acetilcolina activándolos (es decir es un agonista). ¿Qué consecuencias tendrá su consumo?",
+      "opciones": [
+        "Se relajarán los músculos respiratorios provocando la muerte",
+        "La liberación de acetilcolina será normal",
+        "Habrá una parálisis flácida por falta de contracción de los músculos",
+        "Se provocará una hiperpolarización postsináptica por cambios en la concentración extracelular de acetilcolina",
+        "No se liberará Ca++ desde el retículo sarcoplásmico impidiendo la contracción muscular"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Al ser un agonista de los receptores nicotínicos, la coiina provocará una activación continua de estos receptores, lo que inicialmente puede causar contracciones musculares involuntarias y espasmos. Sin embargo, con el tiempo, esta activación sostenida puede llevar a una desensibilización de los receptores y a una parálisis muscular. Por lo tanto, aunque inicialmente la liberación de acetilcolina será normal o incluso aumentada debido a la activación de los receptores, eventualmente se producirá una parálisis flácida por falta de contracción muscular, lo que puede resultar en la muerte si afecta los músculos respiratorios."
+    },
+    {
+      "id": "u1-p33",
+      "tipo": "multiple",
+      "enunciado": "Analice la siguiente situación e indique la opción correcta: El Síndrome de Lambert-Eaton es una enfermedad autoinmune de la unión neuromuscular que es causada por anticuerpos contra canales de Ca++ de la membrana presináptica",
+      "opciones": [
+        "No ingresará Na+ en la membrana presináptica",
+        "Se producirá un potencial inhibitorio",
+        "Habrá un potencial de acción en la célula presináptica pero NO se liberaran las vesículas de acetilcolina",
+        "El receptor postsináptico se abrirá a menor umbral generando potencial postsináptico excitatorio",
+        "Habrá una elevada respuesta por acción del elevado nivel intracelular de Ca++"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En el Síndrome de Lambert-Eaton, los anticuerpos atacan los canales de Ca++ en la membrana presináptica, lo que impide la entrada de Ca++ necesaria para la liberación de acetilcolina. Aunque se pueda generar un potencial de acción en la célula presináptica, la falta de Ca++ impedirá que las vesículas de acetilcolina se fusionen con la membrana y liberen su contenido, lo que resultará en una disminución de la transmisión neuromuscular y debilidad muscular."
+    },
+    {
+      "id": "u1-p34",
+      "tipo": "multiple",
+      "enunciado": "Teniendo en cuenta la función de la mielina en la transmisión del impulso nervioso, seleccione la respuesta CORRECTA a la siguiente situación problemática: La esclerosis múltiple es una enfermedad autoinmunitaria que produce pérdida de la vaina de mielina, por lo tanto en los individuos que la padecen ocurrirá:",
+      "opciones": [
+        "aumento de la velocidad de conducción nerviosa hasta 5 veces",
+        "conducción normal de los potenciales de acción, con leve retraso temporal",
+        "conducción retrógrada del potencial de acción generando excito toxicidad",
+        "despolarización espontánea de la membrana plasmática por alto voltaje eléctrico",
+        "falla en la conducción de los potenciales de acción que generan impedimentos en las respuestas efectoras"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La esclerosis múltiple implica la pérdida de la vaina de mielina, lo que resulta en una falla en la conducción de los potenciales de acción a lo largo de las fibras nerviosas. Esto se debe a que la mielina actúa como un aislante que permite la conducción saltatoria, y su pérdida provoca una disminución significativa en la velocidad de conducción e incluso puede llevar a la interrupción completa de la transmisión del impulso nervioso, lo que genera impedimentos en las respuestas efectoras."
+    },
+    {
+      "id": "u1-p35",
+      "tipo": "multiple",
+      "enunciado": "Observe la siguiente imagen, luego responda qué proceso sináptico está ocurriendo",
+      "imagen": {
+        "url": "data/Imagenes_ud1/sinapsis.png",
+        "alt": "Imagen de proceso sináptico para identificar"
+      },
+      "opciones": [
+        "Sumación temporal",
+        "Inhibición general",
+        "Sinapsis eléctrica",
+        "Sumación espacial",
+        "Oclusión sináptica"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La imagen muestra múltiples terminales presinápticos que convergen sobre una misma neurona postsináptica, lo que es característico de la sumación espacial. En este proceso, la combinación de señales provenientes de diferentes terminales presinápticos puede generar un potencial postsináptico suficiente para alcanzar el umbral y generar un potencial de acción en la neurona postsináptica."
+    },
+    {
+      "id": "u1-p36",
+      "tipo": "multiple",
+      "enunciado": "Cuando el calcio entra en contacto con las miofibrillas:",
+      "opciones": [
+        "la cabeza de miosina, por fuerzas electromagnéticas, se aleja del sitio activo en la actina",
+        "sucede el fenómeno de la relajación muscular mediada por aumento del Ca++ citoplasmático",
+        "el músculo se elonga",
+        "la troponina se une al Ca++ y al alejar a la tropomiosina deja el sitio de unión libre para actina y miosina",
+        "se inhibe la ATP asa dejando sin energía al músculo"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El Ca++ se une a la troponina, provocando un cambio conformacional que desplaza a la tropomiosina del sitio activo de la actina. Esto permite que la cabeza de miosina se una a la actina y comience el ciclo de contracción muscular."
+    },
+    {
+      "id": "u1-p37",
+      "tipo": "verdadero_falso",
+      "enunciado": "Indique si la siguiente afirmación es verdadera o falsa: \n La sinapsis química presenta uniones estrechas, presenta continuidad entre células pre y postsináptica, y es unidireccional",
+      "respuestaCorrecta": false,
+      "explicacion": "La sinapsis química no presenta uniones estrechas ni continuidad entre las células pre y postsinápticas. Tiene una hendidura sináptica que separa ambas células, y aunque la transmisión es unidireccional (de la neurona presináptica a la postsináptica), la descripción del resto de la afirmación es incorrecta. Las uniones estrechas y la continuidad celular son características de las sinapsis eléctricas."
+    },
+    {
+      "id": "u1-p38",
+      "tipo": "completar",
+      "enunciado": "Complete con el término adecuado respecto a las características de un potencial de acción (PA) y de un potencial electrotónico (PE):\nPosee periodo refractario [blank1]\nTiene una amplitud constante durante su conducción por el axón [blank2]\nPueden sumarse para alcanzar el umbral [blank3]\nDisminuye su amplitud a medida que se aleja del sitio de generación [blank4]\nCumple la ley del 'todo o nada' [blank5]\nEs subumbral [blank6]",
+      "blanks": [
+        {
+          "id": "blank1",
+          "label": "Posee periodo refractario",
+          "opciones": ["PA", "PE"],
+          "respuestaCorrecta": 0
+        },
+        {
+          "id": "blank2",
+          "label": "Tiene una amplitud constante durante su conducción por el axón",
+          "opciones": ["PA", "PE"],
+          "respuestaCorrecta": 0
+        },
+        {
+          "id": "blank3",
+          "label": "Pueden sumarse para alcanzar el umbral",
+          "opciones": ["PA", "PE"],
+          "respuestaCorrecta": 1
+        },
+        {
+          "id": "blank4",
+          "label": "Disminuye su amplitud a medida que se aleja del sitio de generación",
+          "opciones": ["PA", "PE"],
+          "respuestaCorrecta": 1
+        },
+        {
+          "id": "blank5",
+          "label": "Cumple la ley del 'todo o nada'",
+          "opciones": ["PA", "PE"],
+          "respuestaCorrecta": 0
+        },
+        {
+          "id": "blank6",
+          "label": "Es subumbral",
+          "opciones": ["PA", "PE"],
+          "respuestaCorrecta": 1
+        }
+      ],
+      "explicacion": "El potencial de acción (PA) posee periodo refractario, tiene amplitud constante durante la conducción, cumple la ley del 'todo o nada' y es supraumbral. El potencial electrotónico (PE) es subumbral, puede sumarse para alcanzar el umbral y disminuye su amplitud a medida que se aleja del sitio de generación."
+    },
+    {
+      "id": "u1-p39",
+      "tipo": "completar",
+      "enunciado": "En el siguiente ejemplo se grafican las corrientes de Na⁺ a través de una membrana celular cuando se aplican pulsos despolarizantes de -50 mV, +10 mV y +60 mV.\nIdentificá a que intensidad despolarización corresponde cada curva.\nCurva I: [blank1]\nCurva II: [blank2]\nCurva III: [blank3]",
+      "imagen": {
+        "url": "data/Imagenes_ud1/curvas-sodio.png",
+        "alt": "Gráfico de corrientes de Na⁺ con diferentes pulsos despolarizantes"
+      },
+      "blanks": [
+        {
+          "id": "blank1",
+          "label": "Curva I",
+          "opciones": ["Despolarización de -50mV", "Despolarización de +10mV", "Despolarización de +60mV"],
+          "respuestaCorrecta": 2
+        },
+        {
+          "id": "blank2",
+          "label": "Curva II",
+          "opciones": ["Despolarización de -50mV", "Despolarización de +10mV", "Despolarización de +60mV"],
+          "respuestaCorrecta": 1
+        },
+        {
+          "id": "blank3",
+          "label": "Curva III",
+          "opciones": ["Despolarización de -50mV", "Despolarización de +10mV", "Despolarización de +60mV"],
+          "respuestaCorrecta": 0
+        }
+      ],
+      "explicacion": "La corriente de Na+ aumenta con pulsos más despolarizantes. A -50mV (cerca del umbral) la corriente es pequeña (Curva III). A +10mV la corriente es intermedia (Curva II). A +60mV la corriente es máxima (Curva I)."
+    },
+    {
+      "id": "u1-p40",
+      "tipo": "multiple",
+      "enunciado": "Señale las funciones que se atribuyen a la corteza motora primaria",
+      "opciones": [
+        "movimientos posturales",
+        "planeamiento del movimiento",
+        "ejecución de movimientos simultáneos complejos",
+        "ejecución de movimientos simples"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La corteza motora primaria se encarga principalmente de la ejecución de movimientos simples, mientras que otras áreas como la corteza premotora y el área motora suplementaria están más involucradas en el planeamiento del movimiento y la ejecución de movimientos simultáneos complejos. Los movimientos posturales también involucran otras áreas del sistema nervioso, como el cerebelo y los núcleos vestibulares."
+    },
+    {
+      "id": "u1-p41",
+      "tipo": "multiple",
+      "enunciado": "El cerebelo es una estructura que puede subdividirse en tres partes en función de las aferencias que recibe. Elija la opción correcta:",
+      "opciones": [
+        "El arquicerebelo recibe aferencias de regiones medulares",
+        "El neocerebelo recibe aferenicas del tálamo",
+        "El arquicerebelo recibe aferencias de la motoneurona gamma",
+        "El paleocerebelo recibe aferencias de la piel y de receptores propioceptivos"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El paleocerebelo, también conocido como el cerebelo anterior, recibe aferencias principalmente de la médula espinal, incluyendo información de la piel y de receptores propioceptivos. El arquicerebelo (cerebelo vestibular) recibe aferencias del sistema vestibular, mientras que el neocerebelo (cerebelo posterior) recibe aferencias de la corteza cerebral a través del tálamo."
+    },
+    {
+      "id": "u1-p42",
+      "tipo": "multiple",
+      "enunciado": "La motilidad paleocinética, automática o rítmica",
+      "opciones": [
+        "Consiste en respuestas rápidas, esteriotipadas que se procesan a nivel de la médula",
+        "Consiste en movimientos en ausencia total de la voluntad",
+        "COnsiste en movimientos en los que en general solo el inicio y la finalización son voluntarios",
+        "Consiste en movimientos como tocar el piano por primera vez"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La motilidad paleocinética, también conocida como motilidad automática o rítmica, se refiere a movimientos que son en su mayoría automáticos y estereotipados, donde generalmente solo el inicio y la finalización del movimiento son voluntarios. Estos movimientos pueden incluir actividades como caminar o correr, donde una vez que se inicia el movimiento, gran parte de la ejecución es automática y no requiere un control consciente constante."
+    },
+    {
+      "id": "u1-p43",
+      "tipo": "verdadero_falso",
+      "enunciado": "Los núcleos de la base no están involucrados en los ajustes posturales ni en la regulación del tono, se trata de estructuras que impiden la generación de movimientos voluntarios excesivos",
+      "respuestaCorrecta": false,
+      "explicacion": "Falso. Los núcleos de la base están involucrados en la regulación del tono muscular y en los ajustes posturales, además de su papel en la modulación de los movimientos voluntarios. No se limitan a impedir la generación de movimientos voluntarios excesivos, sino que también participan en la facilitación y coordinación de los movimientos voluntarios."
+    },
+    {
+      "id": "u1-p44",
+      "tipo": "multiple",
+      "enunciado": "Un ejemplo de información propioceptiva es:",
+      "opciones": [
+        "la que proviene de los receptores laberínticos del oído",
+        "la que proviene de los nociceptores",
+        "la que proviene de las motoneuronas alfa",
+        "la que proviene de los conos y los bastones"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La información propioceptiva se refiere a la percepción de la posición y el movimiento del cuerpo, y los receptores laberínticos del oído son una fuente importante de esta información, ya que detectan cambios en la posición de la cabeza y el equilibrio. Los nociceptores están relacionados con la percepción del dolor, las motoneuronas alfa son responsables de la contracción muscular, y los conos y bastones son receptores visuales en la retina."
+    },
+    {
+      "id": "u1-p45",
+      "tipo": "multiple",
+      "enunciado": "Los axones de las neuronas de la corteza motora que proyectan a las neuronas de la médula espinal forman los haces corticoespinales, paquete grande con cerca de 1 millón de fibras. Casi 80% de estas fibras cruza la línea media en las pirámides bulbares para construir el haz corticoespinal lateral.",
+      "opciones": [
+        "Este haz termina inervando la musculatura distal",
+        "Este haz termina inervando la musculatura lisa",
+        "Este haz termina inervando la musculatura proximal",
+        "Este haz termina inervando la musculatura ventral"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El haz corticoespinal lateral, que cruza la línea media en las pirámides bulbares, termina inervando principalmente la musculatura distal, que incluye los músculos de las manos y los dedos, permitiendo un control fino y preciso de los movimientos. La musculatura proximal y ventral suele ser inervada por otras vías motoras, como el haz corticoespinal anterior y los tractos rubroespinales y reticuloespinales."
+    },
+    {
+      "id": "u1-p46",
+      "tipo": "multiple",
+      "enunciado": "Una subdivisión de las respuestas reflejas incluye algunos movimientos rítmicos, los cuales en gran medida son involuntarios, pero están sujetos al ajuste y el control voluntarios. Señale cuál de estos no corresponde con esta clasificación:",
+      "opciones": [
+        "masticación",
+        "fonación",
+        "deglución",
+        "marcha"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La fonación no se clasifica como un movimiento rítmico involuntario, sino que es un proceso controlado voluntariamente que implica la coordinación de los músculos de la laringe, la lengua y otros órganos para producir sonidos. La masticación, deglución y marcha son ejemplos de movimientos rítmicos que pueden ser en gran medida automáticos pero también sujetos a control voluntario."
+    },
+    {
+      "id": "u1-p47",
+      "tipo": "multiple",
+      "enunciado": "Cuando oscilamos levemente hacia adelante al estar parados, los músculos de la pantorrilla (músculos gastrocnemios y el sóleo) se estiran. ¿Cuál es la respuesta inmediata que produce el reflejo miotático?",
+      "opciones": [
+        "Relajación de la pantorrilla para evitar sobrecarga",
+        "Activación de los músculos antagonistas (anteriores) para compensar",
+        "Contracción del músculo estriado para recuperar la posición vertical",
+        "Inhibición de la motoneurona alfa mediante interneurona"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El reflejo miotático, también conocido como reflejo de estiramiento, provoca la contracción del músculo estriado (en este caso, los músculos de la pantorrilla) en respuesta al estiramiento. Esto ayuda a recuperar la posición vertical y mantener el equilibrio. La activación de los músculos antagonistas o la inhibición de la motoneurona alfa no son respuestas inmediatas en este reflejo específico."
+    },
+    {
+      "id": "u1-p48",
+      "tipo": "multiple",
+      "enunciado": "Un paciente de 65 años presenta temblor en reposo, rigidez muscular en extremidades y una notable lentitud al iniciar la marcha (bradicinesia). El neurólogo sospecha de una degeneración neuronal despecífica. A grandes rasgos, ¿qué estructura y neurotransmisor están principalmente afectados este paciente?",
+      "opciones": [
+        "La sustancia negra pars compacta y déficit de dopamina",
+        "El núcleo subtalámico y exceso de glutamato",
+        "El núcleo caudado y exceso de dopamina",
+        "El cerebelo y déficit de serotonina"],
+      "respuestaCorrecta": 0,
+      "explicacion": "Los síntomas descritos son característicos de la enfermedad de Parkinson, que se asocia principalmente con la degeneración de las neuronas dopaminérgicas en la sustancia negra pars compacta. Esta pérdida de dopamina conduce a un desequilibrio en las vías motoras del cerebro, lo que resulta en los síntomas motores observados en el paciente."
+    },
+    {
+      "id": "u1-p49",
+      "tipo": "multiple",
+      "enunciado": "Desde el punto de vista de la neurofisiología, ¿qué hallazgo es característico en los estudios de conducción nerviosa de un paciente con el síndrome de Guillain-Barré?",
+      "opciones": [
+        "Un bloqueo de los receptores de acetilcolina en la unión neuromuscular.",
+        "Prolongación de las latencias distales y disminución de la velocidad de conducción.",
+        "Potenciales de acción musculares compuestos de amplitud normal y velocidad conservada.",
+        "La degeneración primaria de las motoneuronas del asta anterior de la médula espinal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síndrome de Guillain-Barré es una neuropatía periférica aguda que se caracteriza por una desmielinización de los nervios periféricos. Esto conduce a una prolongación de las latencias distales y una disminución de la velocidad de conducción en los estudios de conducción nerviosa, lo que refleja la pérdida de la vaina de mielina y la consecuente alteración en la transmisión del impulso nervioso."
+    },
+    {
+      "id": "u1-p50",
+      "tipo": "multiple",
+      "enunciado": "¿Cómo se genera un potencial postsináptico excitatorio?",
+      "opciones": [
+        "En la neurona postsináptica se cierran canales de Cl- que producen la despolarización de la misma",
+        "En la neurona postsináptica se abren canales de Na+ que producen la despolarización de la misma",
+        "En la neurona postsináptica se abren canales de K+ que producen la despolarización de la misma",
+        "En la neurona postsináptica se abren canales de Na++ que producen la hiperpolarización de la misma",
+        "En la neurona postsináptica se consigue el umbral para que la misma libere el neurotransmisor inhibidor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Un potencial postsináptico excitatorio (PPSE) se genera cuando un neurotransmisor excitatorio, como la acetilcolina o el glutamato, se une a sus receptores en la membrana postsináptica y provoca la apertura de canales iónicos permeables a Na+. La entrada de Na+ en la neurona postsináptica causa una despolarización de la membrana, acercándola al umbral para generar un potencial de acción."
+    },
+    {
+      "id": "u1-p51",
+      "tipo": "multiple",
+      "enunciado": "Un nociceptor de la mano envía potenciales de acción con alta frecuencia. La respuesta de una persona ante este hecho será:",
+      "opciones": [
+        "Contracción de los músculos flexores del brazo afectado y contracción de los músculos flexores del otro brazo mediante interneuronas que llevan la información a regiones opuestas de la médula.",
+        "Relajación de los músculos flexores del brazo afectado y contracción de los músculos extensores del otro brazo mediante interneuronas que llevan la información a regiones superiores e inferiores de la médula.",
+        "Relajación de los músculos del brazo afectado.",
+        "Contracción de los músculos flexores del brazo afectado y contracción de los músculos extensores del otro brazo mediante interneuronas que llevan la información a regiones superiores e inferiores de la médula.",
+        "Contracción de los músculos flexores del brazo afectado y extensión de los dedos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Un estímulo doloroso activa el reflejo de retirada y el reflejo extensor cruzado. En el lado afectado se contraen los músculos flexores e inhiben los extensores para alejar el miembro del estímulo. Simultáneamente, interneuronas medulares activan los músculos extensores del lado opuesto para mantener la estabilidad y la postura."
+    },
+    {
+      "id": "u1-p52",
+      "tipo": "multiple",
+      "enunciado": "¿Cuál de los siguientes componentes no se encuentra normalmente en el LCR?",
+      "opciones": [
+        "Calcio",
+        "Glucosa",
+        "Sodio",
+        "Eritrocitos",
+        "Proteinas"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El LCR normalmente contiene glucosa, sodio, calcio y proteínas en pequeñas cantidades, pero no contiene eritrocitos (glóbulos rojos) en condiciones normales. La presencia de eritrocitos en el LCR indica una hemorragia subaracnoidea o una punción lumbar traumática."
+    },
+    {
+      "id": "u1-p53",
+      "tipo": "multiple",
+      "enunciado": "Un paciente presenta dificultad para mover voluntariamente un brazo tras un accidente. ¿Cuál de las siguientes áreas del sistema nervioso es más probable que esté afectada?",
+      "opciones": [
+        "Músculo liso inervado por el sistema autónomo.",
+        "Sistema nervioso somático.",
+        "División parasimpática del sistema nervioso autónomo.",
+        "División simpática del sistema nervioso autónomo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El movimiento voluntario de los músculos esqueléticos está controlado por el sistema nervioso somático. La dificultad para mover voluntariamente un brazo sugiere una afectación de las vías motoras somáticas, como la corteza motora, el tracto corticoespinal o las motoneuronas alfa."
+    },
+    {
+      "id": "u1-p54",
+      "tipo": "multiple",
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre el Sistema Nervioso Periférico (SNP) es correcta?",
+      "opciones": [
+        "Está compuesto por el encéfalo y la médula espinal",
+        "Incluye 12 pares de nervios craneales y 31 pares de nervios raquídeos",
+        "Las neuronas motoras del SNP solo inervan los músculos esqueléticos",
+        "Está formado por la duramadre, la aracnoides y la piamadre"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Sistema Nervioso Periférico (SNP) incluye los nervios craneales y raquídeos que conectan el sistema nervioso central (SNC) con el resto del cuerpo. El SNP está compuesto por 12 pares de nervios craneales y 31 pares de nervios raquídeos. El encéfalo y la médula espinal forman parte del sistema nervioso central, no del periférico. Las neuronas motoras del SNP pueden inervar tanto músculos esqueléticos como músculos lisos y glándulas, dependiendo de si pertenecen al sistema somático o autónomo. La duramadre, aracnoides y piamadre son las meninges que protegen el SNC, no forman parte del SNP."
+    },
+    {
+      "id": "u1-p55",
+      "tipo": "multiple",
+      "enunciado": "El LCR posee respecto al plasma",
+      "opciones": [
+        "Mayor concentración de potasio",
+        "Mayor concentración de elementos formes",
+        "Menor concentración de linfocitos Natural Killer",
+        "Mayor concentración de glucosa",
+        "Menor concentración de proteínas"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El LCR tiene una concentración de proteínas significativamente menor que el plasma (aproximadamente 15-45 mg/dL en LCR vs 6-8 g/dL en plasma). También tiene menor concentración de glucosa que el plasma (aproximadamente 60% de la glucosa plasmática), menor concentración de potasio y prácticamente no contiene células (elementos formes) en condiciones normales."
+    },
+    {
+      "id": "u1-p56",
+      "tipo": "multiple",
+      "enunciado": "De las siguientes, ¿qué estructura/s deriva/n del dicenéfalo?",
+      "opciones": [
+        "Bulbos olfatorios",
+        "Tálamo",
+        "Corteza cerebral",
+        "Tubérculos cuadrigéminos",
+        "Bulbo raquídeo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El diencéfalo da origen al tálamo, hipotálamo, subtálamo y epitálamo. Los bulbos olfatorios derivan del telencéfalo, la corteza cerebral del telencéfalo, los tubérculos cuadrigéminos del mesencéfalo y el bulbo raquídeo del mielencéfalo."
+    },
+    {
+      "id": "u1-p57",
+      "tipo": "multiple",
+      "enunciado": "El tubo neural se divide en 3 vesículas, que luego dan origen a 5, de anterior a posterior encontramos:",
+      "opciones": [
+        "proceñcélalo, diencélalo, mesencélalo, mielencélalo, metencélalo",
+        "mielencélalo, metencélalo, mesencélalo, telencélalo, diencélalo",
+        "mielencélalo, metencélalo, mesencélalo, diencélalo, telencélalo",
+        "telencélalo, diencélalo, mesencélalo, metencélalo, mielencélalo",
+        "diencélalo, telencélalo, mesencélalo, metencélalo, mielencélalo"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El orden correcto de anterior a posterior es: telencéfalo, diencéfalo, mesencéfalo, metencéfalo y mielencéfalo. Las tres vesículas primarias son: prosencéfalo (que da origen al telencéfalo y diencéfalo), mesencéfalo (que da origen al mesencéfalo) y rombencéfalo (que da origen al metencéfalo y mielencéfalo)."
+    },
+    {
+      "id": "u1-p58",
+      "tipo": "verdadero_falso",
+      "enunciado": "La única función del líquido cefalorraquídeo es la de sostén y amortiguación.",
+      "respuestaCorrecta": false,
+      "explicacion": "El LCR tiene múltiples funciones: 1) Protección mecánica (amortiguación y sostén), 2) Regulación de la presión intracraneal, 3) Transporte de nutrientes y eliminación de desechos metabólicos, 4) Mantenimiento del medio iónico adecuado para la función neuronal, 5) Barrera inmunológica. No es solo sostén y amortiguación."
+    },
+    {
+      "id": "u1-p59",
+      "tipo": "verdadero_falso",
+      "enunciado": "El líquido cefalorraquídeo se reabsorbe en las granulaciones aracnoides y pasa a las arterias cerebrales",
+      "respuestaCorrecta": false,
+      "explicacion": "El LCR se reabsorbe en las granulaciones aracnoides (vellosidades aracnoideas), pero pasa a los senos venosos (específicamente al seno sagital superior), no a las arterias cerebrales. La reabsorción ocurre por diferencia de presión entre el espacio subaracnoideo y los senos venosos."
+    },
+    {
+      "id": "u1-p60",
+      "tipo": "multiple",
+      "enunciado": "Nuestro sistema nervioso autónomo posee dos divisiones. El SNA Parasimpático:",
+      "opciones": [
+        "Aumenta la motilidad intestinal, estimula la secreción de jugos digestivos",
+        "Inerva vasos y órganos como el estómago y el corazón",
+        "Se activa ante amenazas o situaciones estresantes",
+        "Su activación produce el aumento de la frecuencia cardíaca"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El sistema nervioso parasimpático es responsable de las funciones de 'reposo y digestión'. Aumenta la motilidad intestinal y estimula la secreción de jugos digestivos. También disminuye la frecuencia cardíaca, contrae la pupila y estimula la secreción de glándulas. La opción 'Inerva vasos y órganos como el estómago y el corazón' también es correcta pero menos específica que la opción A."
+    },
+    {
+      "id": "u1-p61",
+      "tipo": "multiple",
+      "enunciado": "Indica la opción correcta acerca del movimiento reflejo:",
+      "opciones": [
+        "Los reflejos siempre requieren de la participación del encéfalo para poder llevarse a cabo.",
+        "EL movimiento reflejo se puede modular y controlar, suavizar o detener de manera voluntaria luego de aprenderse.",
+        "No hay estímulos que desencadenen reflejos en el sistema autónomo.",
+        "En los reflejos, la respuesta del efector es siempre voluntaria y requiere control consciente.",
+        "Todo reflejo involucra un arco reflejo básico con receptor, vía aferente, centro integrador, vía eferente y efector."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El arco reflejo básico está compuesto por: receptor (detecta el estímulo), vía aferente (neurona sensitiva), centro integrador (puede ser la médula espinal o el encéfalo), vía eferente (neurona motora) y efector (músculo o glándula). Los reflejos no siempre requieren del encéfalo (los reflejos medulares no lo requieren), no son voluntarios y existen reflejos autonómicos (como el reflejo pupilar)."
+    },
+    {
+      "id": "u1-p62",
+      "tipo": "multiple",
+      "enunciado": "Cuando ocurre un reflejo miotático, los músculos que antagonizan la acción de los músculos activados se relajan. Este fenómeno:",
+      "opciones": [
+        "Se denomina reflejo miotático inverso y la vía que media este efecto es bisináptica.",
+        "Se denomina reflejo extensor cruzado y la vía que media dicho fenómeno es polisináptica.",
+        "Se denomina inervación recíproca y la vía que media este efecto es bisináptica.",
+        "Se denomina fenómeno de posdescarga y la vía que media dicho fenómeno es polisináptica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La inervación recíproca es el fenómeno por el cual, durante un reflejo miotático, las motoneuronas del músculo antagonista son inhibidas mientras se activan las del músculo agonista. La vía es bisináptica porque involucra una neurona sensitiva que hace sinapsis con una interneurona inhibitoria, que a su vez hace sinapsis con la motoneurona del músculo antagonista."
+    },
+    {
+      "id": "u1-p63",
+      "tipo": "completar",
+      "enunciado": "Lea atentamente el siguiente párrafo y complételo escogiendo la opción correcta:\nCuando se estira el huso muscular, se distorsionan sus terminaciones sensitivas y se generan potenciales de receptor, los cuales, a su vez, activan potenciales de acción en las fibras sensitivas, con una frecuencia proporcional al grado de estiramiento.\nLas aferentes del huso dejan de emitir impulsos cuando se (A) el músculo por estimulación de (B) a las fibras extrafusales, en virtud de que el músculo se acorta.",
+      "blanks": [
+        {
+          "id": "blank1",
+          "label": "A",
+          "opciones": [
+            "relaja; B) los receptores anuloespirales",
+            "distiende; B) las motoneuronas gamma",
+            "tetaniza; B) las fibras intrafusales",
+            "contrae; B) las motoneuronas alfa"
+          ],
+          "respuestaCorrecta": 3
+        }
+      ],
+      "explicacion": "Cuando el músculo se contrae por estimulación de las motoneuronas alfa a las fibras extrafusales, el huso muscular se acorta y las aferentes dejan de emitir impulsos. Las motoneuronas gamma inervan las fibras intrafusales (dentro del huso), no las extrafusales. Las motoneuronas alfa inervan las fibras extrafusales (la fibra muscular propiamente dicha)."
+    },
+    {
+      "id": "u1-p64",
+      "tipo": "multiple",
+      "enunciado": "En el reflejo miotático inverso (o de Golgi), las interneuronas medulares cumplen una función esencial. ¿Cuál es su papel principal?",
+      "opciones": [
+        "Inhiben a las motoneuronas alfa del músculo en exceso de tensión, reduciendo la contracción.",
+        "Generan información que puede ser ignorada por el músculo agonista por no ser relevante",
+        "Desencadenan contracciones reflejas rápidas como respuesta a estiramientos musculares súbitos.",
+        "Transmiten la señal sin modificarla desde el órgano tendinoso de Golgi hasta la médula espinal.",
+        "Estimulan directamente a las motoneuronas alfa para generar contracción del músculo."
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "En el reflejo miotático inverso (reflejo de Golgi), las interneuronas inhibitorias juegan un papel clave. Cuando el órgano tendinoso de Golgi detecta un exceso de tensión, envía señales a través de fibras aferentes Ib que hacen sinapsis con interneuronas inhibitorias en la médula espinal. Estas interneuronas inhiben a las motoneuronas alfa del músculo que está generando la tensión excesiva, reduciendo así la contracción y protegiendo al músculo y tendón de lesiones."
+    },
+    {
+      "id": "u1-p65",
+      "tipo": "multiple",
+      "enunciado": "Observe la figura y responda:",
+      "imagen": {
+        "url": "data/Imagenes_ud1/reflejo-rotuliano.png",
+        "alt": "Esquema del arco reflejo miotático mostrando las diferentes estructuras"
+      },
+      "opciones": [
+        "La interneurona que hace sinapsis con la vía aferente sensitiva será excitadora.",
+        "La neurona eferente sensitiva disparará igual cantidad de potenciales de acción.",
+        "El huso muscular del musculo extensor se estirará aumentando su frecuencia de descarga.",
+        "La motoneurona alfa del flexor será inhibida por la interneurona.",
+        "La motoneurona gamma con axón verde que inerva al músculo flexor será inhibida.",
+        "El Huso muscular del musculo flexor se estirará."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En el reflejo miotático, cuando se estira el músculo extensor (como en el reflejo rotuliano), el huso muscular de ese músculo se estira, lo que provoca un aumento en la frecuencia de descarga de las fibras aferentes sensoriales. Esto lleva a la activación de la motoneurona alfa del músculo extensor, causando su contracción para resistir el estiramiento. La interneurona inhibitoria inhibe a la motoneurona alfa del músculo antagonista (flexor) para permitir que el extensor se contraiga sin oposición."
+    },
+    {
+      "id": "u1-p66",
+      "tipo": "multiple",
+      "enunciado": "El reflejo miotático inverso o de Golgi, también denominado reflejo bisináptico, tiene como función principal:",
+      "opciones": [
+        "Aumentar el tono basal del músculo a través de la activación de motoneuronas alfa.",
+        "Proteger al músculo y tendón de una tensión excesiva inhibiendo su contracción.",
+        "Generar la contracción simultánea del músculo agonista y antagonista.",
+        "Facilitar la contracción rápida del músculo cuando se produce un estiramiento brusco.",
+        "Activar los husos musculares para detectar cambios en la longitud del músculo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El reflejo de Golgi (también llamado reflejo miotático inverso o reflejo tendinoso) es un mecanismo de protección que detecta el exceso de tensión en el músculo y el tendón. Cuando el órgano tendinoso de Golgi se activa, envía señales inhibitorias que reducen la contracción muscular, protegiendo así al músculo y tendón de lesiones por sobrecarga."
+    },
+    {
+      "id": "u1-p67",
+      "tipo": "multiple",
+      "enunciado": "Señale la opción correcta respecto a lo que ocurre en un reflejo monosináptico:",
+      "opciones": [
+        "La vía aferente sensitiva hace sinapsis con una interneurona inhibitoria que relaja el músculo agonista.",
+        "El receptor es sensible a la tensión o fuerza que se ejerce en el músculo, y a medida que esta crece, es capaz de disparar mayor cantidades de pulsos.",
+        "La vía aferente sensitiva hace sinapsis con una interneurona inhibitoria que relaja el músculo antagonista.",
+        "La vía eferente es una motoneurona gamma que inerva las fibras extrafusales del huso muscular."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En un reflejo monosináptico (como el reflejo miotático), la vía aferente sensitiva hace sinapsis directamente con la motoneurona alfa del músculo agonista (sin interneurona) y a través de una interneurona inhibitoria con la motoneurona alfa del músculo antagonista (inervación recíproca). La opción correcta es que la vía aferente sensitiva hace sinapsis con una interneurona inhibitoria que relaja el músculo antagonista."
+    },
+    {
+      "id": "u1-p68",
+      "tipo": "verdadero_falso",
+      "enunciado": "El reflejo de Golgi es un reflejo monosináptico en el cual la activación del órgano tendinoso de Golgi estimula directamente a las motoneuronas alfa para aumentar la contracción muscular.",
+      "respuestaCorrecta": false,
+      "explicacion": "El reflejo de Golgi (o reflejo miotático inverso) es un reflejo polisináptico (bisináptico), no monosináptico. Además, su función es inhibitoria: el órgano tendinoso de Golgi activa interneuronas inhibitorias que inhiben a las motoneuronas alfa, reduciendo la contracción muscular para proteger al músculo y tendón de una tensión excesiva."
+    },
+    {
+      "id": "u1-p69",
+      "tipo": "multiple",
+      "enunciado": "¿Cuál de las siguientes estructuras no forma parte del Sistema Nervioso Central (SNC)?",
+      "opciones": [
+        "Médula espinal",
+        "Ventrículos",
+        "Nervios craneales",
+        "Encéfalo"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Sistema Nervioso Central (SNC) está compuesto por el encéfalo y la médula espinal. Los ventrículos son cavidades dentro del encéfalo que contienen líquido cefalorraquídeo, por lo que también forman parte del SNC. Los nervios craneales, en cambio, son parte del Sistema Nervioso Periférico (SNP), ya que conectan el SNC con diferentes partes del cuerpo."
+    },
+    {
+      "id": "u1-p70",
+      "tipo": "multiple",
+      "enunciado": "Para que el LCR pueda reabsorberse, las granulaciones aracnoideas proporcionan un mecanismo valvular, que permite la entrada de este en el torrente sanguíneo sin permitir el reflujo de sangre hacia el LCR. \nEscoja la opción correcta en función de lo antedicho:",
+      "opciones": [
+        "Normalmente la presión del LCR es más alta que la del sistema venoso.",
+        "Normalmente el flujo del LCR es pulsátil para permitir el ingreso del LCR hacia la sangre venosa.",
+        "Normalmente la presión del LCR es igual que la del sistema venoso.",
+        "Normalmente la presión del LCR es menor que la del sistema venoso."
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Para que el LCR pueda reabsorberse a través de las granulaciones aracnoideas, la presión del LCR debe ser más alta que la presión del sistema venoso. Esto crea un gradiente de presión que permite que el LCR fluya hacia el torrente sanguíneo sin que haya reflujo de sangre hacia el espacio subaracnoideo."
+    },
+    {
+      "id": "u1-p71",
+      "tipo": "multiple",
+      "enunciado": "Observe la siguiente imagen y responda respecto de la estructura resaltada en color verde:",
+      "imagen": {
+        "url": "data/Imagenes_ud1/imagen-cerebro.png",
+        "alt": "Esquema del sistema nervioso autónomo mostrando sus divisiones y estructuras principales"
+      },
+      "opciones": [
+        "Es la protuberancia, se sitúa por encima del bulbo y hacia el anterior del cerebelo. Colabora con el bulbo en el control de la función respiratoria y cardiovascular.",
+        "Es el bulbo raquídeo, se sitúa por encima de la protuberancia y hacia anterior del cerebelo. Colabora con la protuberancia en el control de la función respiratoria y cardiovascular.",
+        "Se trata del bulbo raquídeo, participa en el control del equilibrio, tono muscular y coordinación de los movimientos voluntarios.",
+        "Es una estructura del diencéfalo, contribuye con funciones respiratorias, cardiovasculares y en el control del movimiento."
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La estructura resaltada en color verde es la protuberancia (o puente de Varolio). Se sitúa por encima del bulbo raquídeo y hacia el anterior del cerebelo. La protuberancia colabora con el bulbo raquídeo en el control de funciones vitales como la respiración y la regulación cardiovascular, además de participar en la transmisión de señales entre diferentes partes del cerebro."
+    },
+    {
+      "id": "u1-p72",
+      "tipo": "multiple",
+      "enunciado": "",
+      "opciones": [
+        ""
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": ""
+    }
+  ]
+}

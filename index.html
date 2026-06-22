@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Aplicación de quiz de fisiología humana con preguntas de opción múltiple, completar, ordenar y verdadero/falso.">
+	<title>Quiz de Fisiología Humana</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="page-shell">
+		<header class="hero panel">
+			<div class="hero__copy">
+				<p class="eyebrow">Quiz de Fisiología Humana</p>
+				<h1>Banco de preguntas por unidades</h1>
+				<p class="hero__lead">Soporta única respuesta, múltiple respuesta, verdadero/falso, ordenar y completar con selects inline, además de imágenes responsive con vista ampliada.</p>
+			</div>
+			<div class="hero__stats" id="bankStats" aria-live="polite"></div>
+		</header>
+
+		<section class="panel config-panel" id="configPanel">
+			<div class="panel__header">
+				<div>
+					<p class="panel__eyebrow">Configuración</p>
+					<h2>Preparar quiz</h2>
+				</div>
+				<p class="panel__note">Selecciona la unidad, la cantidad y el modo de resolución.</p>
+			</div>
+
+			<form id="quizConfigForm" class="config-grid">
+				<label class="field">
+					<span>Unidad</span>
+					<select id="unitSelect" name="unit"></select>
+				</label>
+
+				<label class="field">
+					<span>Cantidad</span>
+					<input id="quantitySelect" name="quantity" type="number" min="1" step="1" value="5">
+				</label>
+
+				<label class="field">
+					<span>Modo</span>
+					<select id="modeSelect" name="mode">
+						<option value="practice">Práctica</option>
+						<option value="exam">Examen</option>
+					</select>
+				</label>
+
+				<button class="button button--primary button--large" type="submit">Iniciar Quiz</button>
+			</form>
+
+			<p class="config-mode-note">Práctica: corregís cada pregunta al instante. Examen: respondés todo junto y corregís al final, como simulacro.</p>
+			<p class="config-hint" id="configHint">La práctica corrige cada pregunta al enviarla. El examen corrige todo al final.</p>
+		</section>
+
+		<section class="status-strip panel" id="quizStatus" aria-live="polite">
+			<div class="status-card">
+				<p class="status-card__label">Progreso</p>
+				<div class="progress" aria-hidden="true"><span id="progressBar"></span></div>
+				<p class="status-card__value" id="progressText">0/0 respondidas</p>
+			</div>
+			<div class="status-card status-card--compact" id="modeSummary">
+				<p class="status-card__label">Estado</p>
+				<p class="status-card__value">Sin quiz iniciado</p>
+			</div>
+		</section>
+
+		<main class="content-grid">
+			<section class="panel quiz-panel">
+				<div class="panel__header">
+					<div>
+						<p class="panel__eyebrow">Preguntas</p>
+						<h2 id="quizTitle">Esperando configuración</h2>
+					</div>
+					<div class="inline-actions">
+						<button class="button button--ghost" id="resetQuizButton" type="button">Nueva configuración</button>
+						<button class="button button--primary hidden" id="evaluateExamButton" type="button">Calificar examen</button>
+					</div>
+				</div>
+
+				<div id="quizIntro" class="empty-state">
+					<h3>Configura y empieza</h3>
+					<p>El quiz cargará preguntas de fisiología con renderizado específico para cada tipo de respuesta y resultados detallados al terminar.</p>
+				</div>
+
+				<div id="quizArea" class="quiz-area"></div>
+			</section>
+
+			<aside class="panel results-panel" id="resultsPanel">
+				<div class="panel__header">
+					<div>
+						<p class="panel__eyebrow">Resultados</p>
+						<h2>Resumen detallado</h2>
+					</div>
+					<p class="panel__note">Puntaje global, estadísticas por unidad y revisión por pregunta.</p>
+				</div>
+
+				<div id="resultsSummary" class="results-summary empty-state">
+					<h3>Aún no hay resultados</h3>
+					<p>Cuando termines una práctica o corrijas el examen, aquí verás tu desempeño.</p>
+				</div>
+
+				<div id="unitStats" class="unit-stats"></div>
+				<div id="questionResults" class="question-results"></div>
+			</aside>
+		</main>
+	</div>
+
+	<div class="modal" id="imageModal" aria-hidden="true">
+		<div class="modal__backdrop" data-close-modal></div>
+		<div class="modal__dialog" role="dialog" aria-modal="true" aria-labelledby="imageModalTitle">
+			<button class="modal__close" type="button" data-close-modal aria-label="Cerrar vista ampliada">×</button>
+			<p class="panel__eyebrow">Vista de imagen</p>
+			<h2 id="imageModalTitle">Imagen ampliada</h2>
+			<img id="modalImage" alt="">
+			<p id="modalCaption" class="modal__caption"></p>
+		</div>
+	</div>
+
+	<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,664 @@
+{
+  "unidad": 3,
+  "nombre": "Integración hormonal",
+  "preguntas": [
+    {
+        "id": "u3-p1",
+        "tipo": "verdadero_falso",
+        "enunciado": "Los niveles bajos de hormona tiroidea pueden interferir en la liberación de un óvulo del ovario (ovulación), lo que afecta la fertilidad.",
+        "opciones": ["Verdadero", "Falso"],
+        "respuestaCorrecta": 0,
+        "explicacion": "Efectivamente, los niveles bajos de hormona tiroidea pueden afectar la ovulación y, por lo tanto, la fertilidad. La hormona tiroidea juega un papel crucial en la regulación del metabolismo y el equilibrio hormonal, y su deficiencia puede interferir con el ciclo menstrual y la ovulación."
+    },
+    {
+        "id": "u3-p2",
+        "tipo": "multiple_respuesta",
+        "enunciado": "Las hormonas peptídicas",
+        "opciones": ["poseen su receptor en la membrana", "ejercen efectos por largos períodos de tiempo", "son hidrosolubles", "una de sus fuentes de producción es el ovario"],
+        "respuestaCorrecta": [0, 2],
+        "explicacion": "Las hormonas peptídicas son compuestos de aminoácidos que se encuentran en la sangre y actúan sobre sus receptores en la superficie celular. Son hidrosolubles y no pueden atravesar la membrana plasmática."
+    },
+    {
+        "id": "u3-p3",
+        "tipo": "multiple",
+        "enunciado": "Las hormonas tiroideas",
+        "opciones": [
+            "poseen influencias sobre el crecimiento, actuando a través de sus receptores en diversos tejidos como el corazón, los riñones y el hígado durante el desarrollo del individuo únicamente.",
+            "poseen influencias sobre la secreción de la hormona de crecimiento (y por lo tanto sobre el crecimiento) dado que gracias a ellas se estimula al factor regulador de la transcripción Pit-1, responsable de su síntesis.",
+            "no poseen relación con la hormona de crecimiento ni con su secreción, pero sí afectan la expresión de catecolaminas, incrementando el metabolismo lipídico.",
+            "poseen influencias sobre el crecimiento favoreciendo el desarrollo de las gónadas."
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "Las hormonas tiroideas, como la tiroxina (T4) y la triyodotironina (T3), tienen influencias sobre el crecimiento y el desarrollo. Actúan a través de sus receptores en diversos tejidos, incluyendo el corazón, los riñones y el hígado, durante el desarrollo del individuo. Además, las hormonas tiroideas estimulan la producción de la hormona de crecimiento (GH) al activar el factor regulador de la transcripción Pit-1, que es responsable de la síntesis de GH. Por lo tanto, las hormonas tiroideas desempeñan un papel crucial en el crecimiento y el desarrollo del organismo."
+    },
+    {
+        "id": "u3-p4",
+        "tipo": "multiple",
+        "enunciado": "las hormonas esteroideas",
+        "opciones": [
+            "derivan del aminoácido tirosina",
+            "generalmente viajan unidas a proteínas transportadoras",
+            "su receptor se encuentra en la membrana de la célula diana",
+            "derivan del cortisol",
+            "son hidrosolubles"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "Las hormonas esteroideas derivan del colesterol, no del aminoácido tirosina. Generalmente viajan unidas a proteínas transportadoras en la sangre debido a su naturaleza lipofílica. Su receptor se encuentra dentro de la célula diana, ya que pueden atravesar la membrana plasmática. No derivan del cortisol, aunque el cortisol es una hormona esteroidea. Las hormonas esteroideas son liposolubles, no hidrosolubles."
+    },
+    {
+        "id": "u3-p5",
+        "tipo": "multiple",
+        "enunciado": "Las funciones de la hormona TSH son:",
+        "opciones": [
+            "La secreción de TRH.",
+            "La secreción de hormonas tiroideas T3 y T4 desde las células parafoliculares",
+            "La secreción de iodo desde las células foliculares.",
+            "La secreción de hormonas tiroideas T3 y T4 desde las células foliculares, y la secreción de calcitonina por parte de las células parafoliculares."
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "La hormona estimulante de la tiroides (TSH) tiene varias funciones importantes en el cuerpo. Su principal función es estimular la secreción de hormonas tiroideas T3 (triyodotironina) y T4 (tiroxina) desde las células foliculares de la glándula tiroides. Además, la TSH también estimula la secreción de calcitonina por parte de las células parafoliculares de la tiroides. La TSH no está involucrada en la secreción de TRH (hormona liberadora de tirotropina) ni en la secreción de iodo desde las células foliculares."
+    },
+    {
+        "id": "u3-p6",
+        "tipo": "multiple",
+        "enunciado": "La función principal de la hormona paratiroidea es:",
+        "opciones": [
+            "Movilizar el sodio desde el plasma hacia los túbulos renales",
+            "Movilizar el calcio hacia el hueso",
+            "Disminuir la excreción de fosfatos",
+            "Movilizar el calcio desde el hueso hacia la sangre"
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "La función principal de la hormona paratiroidea (PTH) es movilizar el calcio desde el hueso hacia la sangre, aumentando así la concentración de calcio plasmático. La PTH también tiene efectos en los riñones para aumentar la reabsorción de calcio y disminuir la excreción de fosfatos, pero su función principal es aumentar el calcio en sangre al estimular la resorción ósea."
+        },
+        {
+        "id": "u3-p7",
+        "tipo": "verdadero_falso",
+        "enunciado": "La PTH es una hormona secretada por la glándula paratiroidea, que interviene en el metabolismo del calcio, obteniéndolo del hueso en hipocalcemia, y disminuyendo la producción de 1,25(OH)2 vitamina D en el riñón",
+        "respuestaCorrecta": false,
+        "explicacion": "La PTH (hormona paratiroidea) es secretada por la glándula paratiroidea y juega un papel crucial en el metabolismo del calcio. En respuesta a la hipocalcemia (niveles bajos de calcio en sangre), la PTH estimula la liberación de calcio desde el hueso hacia la sangre, aumentando así los niveles de calcio plasmático. Además, la PTH estimula la producción de 1,25-dihidroxivitamina D (calcitriol) en el riñón, lo que a su vez aumenta la absorción intestinal de calcio. Por lo tanto, la afirmación es falsa porque la PTH no disminuye sino que aumenta la producción de vitamina D activa."
+        },
+        {
+        "id": "u3-p8",
+        "tipo": "multiple",
+        "enunciado": "La glándula pineal",
+        "opciones": [
+            "produce oxitocina",
+            "produce vasopresina",
+            "produce melatonina",
+            "produce melanina"
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "La glándula pineal es una pequeña glándula endocrina ubicada en el cerebro que produce melatonina, una hormona que regula los ciclos de sueño-vigilia. La oxitocina y la vasopresina son producidas por la hipófisis posterior (neurohipófisis), mientras que la melanina es un pigmento producido por los melanocitos en la piel."
+        },
+        {
+        "id": "u3-p9",
+        "tipo": "verdadero_falso",
+        "enunciado": "La neurohipófisis o hipófisis posterior libera dos hormonas: oxitocina y angiotensina",
+        "respuestaCorrecta": false,
+        "explicacion": "La neurohipófisis o hipófisis posterior libera dos hormonas: oxitocina y vasopresina (también conocida como hormona antidiurética o ADH). La angiotensina no es una hormona liberada por la neurohipófisis, sino que es un péptido que forma parte del sistema renina-angiotensina, involucrado en la regulación de la presión arterial y el equilibrio de líquidos."
+        },
+        {
+        "id": "u3-p10",
+        "tipo": "multiple",
+        "enunciado": "Una hormona:",
+        "opciones": [
+            "Es una sustancia que viaja por la sangre, considerada un mensajero químico, cuyos efectos se producen con pequeñas concentraciones.",
+            "Es una sustancia que viaja por la sangre o por el líquido cefalorraquídeo, para llevar a cabo sus efectos se necesitan grandes concentraciones de la misma.",
+            "Es una sustancia que viaja por la sangre hacia distancias cortas, sus efectos requieren de grandes concentraciones de la misma.",
+            "Es un amplificador de señal química, secretado por glándulas especializadas que realizan sus efectos sobre otras glándulas."
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "Una hormona es una sustancia química que se produce en pequeñas cantidades por glándulas especializadas y se libera al torrente sanguíneo para actuar sobre células diana específicas, incluso a grandes distancias dentro del organismo. Las hormonas son mensajeros químicos que regulan diversas funciones fisiológicas, y sus efectos pueden ser potentes incluso a concentraciones muy bajas."
+        },
+        {
+        "id": "u3-p11",
+        "tipo": "multiple",
+        "enunciado": "La calcitonina, secretada por las células C de la glándula tiroides, tiene como efecto principal:",
+        "opciones": [
+            "Disminuir la reabsorción renal de calcio.",
+            "Aumentar la liberación de PTH.",
+            "Inhibir la actividad de los osteoblastos.",
+            "Aumentar la resorción ósea por los osteoclastos.",
+            "Aumentar la concentración plasmática de calcio."
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "La calcitonina es una hormona producida por las células C (parafoliculares) de la glándula tiroides. Su función principal es disminuir la concentración plasmática de calcio al inhibir la resorción ósea por los osteoclastos y aumentar la excreción renal de calcio. Por lo tanto, su efecto principal es disminuir la reabsorción renal de calcio, lo que contribuye a reducir los niveles de calcio en sangre."
+        },
+        {
+        "id": "u3-p12",
+        "tipo": "multiple",
+        "enunciado": "Durante el mantenimiento de la homeostasis del calcio plasmático, intervienen de manera coordinada la PTH, la calcitonina y el calcitriol (vitamina D3 activa). ¿Cuál de las siguientes opciones describe con mayor precisión la acción conjunta de estas hormonas?",
+        "opciones": [
+            "La PTH y el calcitriol cooperan para aumentar la calcemia, mientras la calcitonina ejerce un efecto opuesto reduciéndola.",
+            "La PTH estimula la secreción de calcitonina desde la glándula tiroides para regular el equilibrio fosfocálcico.",
+            "La PTH y la calcitonina actúan sinérgicamente para aumentar la resorción ósea cuando el calcio plasmático desciende.",
+            "El calcitriol inhibe la acción de la PTH sobre el hueso y el riñón para prevenir hipercalcemia.",
+            "El calcitriol y la calcitonina estimulan conjuntamente la reabsorción renal de calcio."
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "La PTH (hormona paratiroidea) y el calcitriol (vitamina D3 activa) trabajan juntos para aumentar la concentración de calcio en sangre (calcemia) al estimular la resorción ósea, aumentar la reabsorción renal de calcio y promover la absorción intestinal de calcio. Por otro lado, la calcitonina tiene un efecto opuesto al reducir la calcemia al inhibir la resorción ósea por los osteoclastos y aumentar la excreción renal de calcio. Por lo tanto, la opción correcta es que la PTH y el calcitriol cooperan para aumentar la calcemia, mientras que la calcitonina ejerce un efecto opuesto reduciéndola."
+        },
+        {
+        "id": "u3-p13",
+        "tipo": "multiple",
+        "enunciado": "En condiciones normales, la concentración plasmática de calcio se mantiene dentro de un rango estrecho gracias a mecanismos de regulación hormonal coordinados. ¿Cuál de las siguientes afirmaciones describe correctamente la respuesta fisiológica ante una disminución de la calcemia?",
+        "opciones": [
+            "El intestino delgado reduce la absorción de calcio mediada por vitamina D para conservar el equilibrio.",
+            "Se incrementa la secreción de PTH, que estimula la resorción ósea y la producción de calcitriol.",
+            "Disminuye la secreción de hormona paratiroidea (PTH), reduciendo la reabsorción renal de calcio.",
+            "Se inhibe la actividad de la 1α-hidroxilasa renal, reduciendo la formación de vitamina D activa.",
+            "Se incrementa la secreción de calcitonina, que estimula la captación de calcio por el hueso."
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "Ante una disminución de la calcemia (niveles bajos de calcio en sangre), el cuerpo responde incrementando la secreción de PTH (hormona paratiroidea). La PTH estimula la resorción ósea, liberando calcio del hueso hacia la sangre, y también estimula la producción de calcitriol (vitamina D3 activa) en el riñón, lo que aumenta la absorción intestinal de calcio. Estas acciones combinadas ayudan a restaurar los niveles de calcio plasmático a su rango normal."
+        },
+        {
+        "id": "u3-p14",
+        "tipo": "multiple",
+        "enunciado": "Las tres principales hormonas que regulan la concentración de calcio plasmático son la PTH, la calcitonina y el calcitriol. ¿Cuál de las siguientes afirmaciones describe correctamente su naturaleza química y mecanismo de acción?",
+        "opciones": [
+            "El calcitriol y la PTH actúan principalmente a nivel nuclear, mientras que la calcitonina ejerce efectos rápidos por difusión pasiva a través de la célula.",
+            "La PTH y la calcitonina son esteroides lipofílicos que actúan sobre receptores intracelulares, mientras que el calcitriol actúa sobre receptores de membrana.",
+            "Las tres hormonas son derivados de aminoácidos y ejercen sus efectos mediante receptores acoplados a proteínas G.",
+            "La calcitonina y la PTH son polipéptidos que actúan a través de segundos mensajeros intracelulares, mientras el calcitriol, una hormona esteroidea, regula la transcripción génica.",
+            "Todas son hormonas proteicas que actúan mediante receptores de membrana y segundos mensajeros como AMPc y Ca²⁺."
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "La PTH (hormona paratiroidea) y la calcitonina son hormonas peptídicas que actúan a través de receptores de membrana y utilizan segundos mensajeros intracelulares para ejercer sus efectos. Por otro lado, el calcitriol (vitamina D3 activa) es una hormona esteroidea que atraviesa la membrana celular y regula la transcripción génica al unirse a receptores nucleares específicos. Por lo tanto, la opción correcta es que la calcitonina y la PTH son polipéptidos que actúan a través de segundos mensajeros intracelulares, mientras el calcitriol, una hormona esteroidea, regula la transcripción génica."
+        },
+        {
+        "id": "u3-p15",
+        "tipo": "multiple",
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre la conversión periférica de hormonas tiroideas es correcta?",
+        "opciones": [
+            "Ambas hormonas se almacenan únicamente en el hipotálamo.",
+            "La T4 es la forma más activa y se convierte en T3 en tejidos periféricos.",
+            "La T3 se sintetiza directamente en la hipófisis.",
+            "La T4 se convierte en T3, que es la forma más activa, mediante desyodación periférica.",
+            "La T3 se convierte en T4 en el hígado y riñón."
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "La T4 (tiroxina) es la forma principal de hormona tiroidea secretada por la glándula tiroides, pero es relativamente inactiva. En los tejidos periféricos, la T4 se convierte en T3 (triyodotironina), que es la forma más activa de hormona tiroidea, mediante un proceso de desyodación. La T3 tiene una mayor afinidad por los receptores nucleares y ejerce efectos fisiológicos más potentes que la T4. La T3 no se sintetiza directamente en la hipófisis, y ambas hormonas no se almacenan únicamente en el hipotálamo. Además, la T3 no se convierte en T4 en el hígado y riñón."
+        },
+        {
+        "id": "u3-p16",
+        "tipo": "multiple",
+        "enunciado": "El calcio extracelular cumple múltiples funciones fisiológicas esenciales. ¿Cuál de las siguientes opciones describe con mayor precisión la consecuencia directa de la disminución de la concentración extracelular de calcio (hipocalcemia)?",
+        "opciones": [
+            "Se reduce la liberación de neurotransmisores en la sinapsis química debido a un aumento en la permeabilidad al sodio.",
+            "Disminuye la excitabilidad neuromuscular debido a la hiperpolarización de la membrana celular.",
+            "La disminución del calcio extracelular bloquea la repolarización de la membrana muscular y prolonga el potencial de acción.",
+            "Se inhibe la transmisión nerviosa porque el calcio bloquea los canales de sodio de la membrana axonal.",
+            "Se incrementa la liberación de neurotransmisores en la sinapsis química debido a una menor inhibición por calcio extracelular."
+        ],
+        "respuestaCorrecta": 4,
+        "explicacion": "El calcio extracelular juega un papel crucial en la regulación de la excitabilidad neuromuscular y la liberación de neurotransmisores. En condiciones de hipocalcemia (disminución de la concentración extracelular de calcio), se reduce la inhibición que el calcio ejerce sobre los canales de sodio en las membranas celulares. Esto conduce a un aumento en la excitabilidad neuromuscular y a una mayor liberación de neurotransmisores en las sinapsis químicas, lo que puede manifestarse clínicamente como tetania, espasmos musculares o parestesias. Por lo tanto, la opción correcta es que se incrementa la liberación de neurotransmisores en la sinapsis química debido a una menor inhibición por calcio extracelular."
+        },
+        {
+        "id": "u3-p17",
+        "tipo": "multiple",
+        "enunciado": "Una mujer de 29 años consulta por pérdida de peso, nerviosismo y palpitaciones. Al examen presenta frecuencia cardíaca de 118 lpm, piel caliente y temblor distal. Los estudios muestran TSH suprimida y T4 elevada. Escoja la opción correcta respecto de los síntomas:",
+        "opciones": [
+            "Disminución de la contractilidad miocárdica por agotamiento metabólico",
+            "Disminución del gasto cardíaco y aumento de la resistencia periférica",
+            "Aumento del gasto cardíaco y disminución de la resistencia vascular periférica",
+            "Disminución de la frecuencia cardíaca y del volumen sistólico"
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "Los síntomas descritos (pérdida de peso, nerviosismo, palpitaciones, frecuencia cardíaca elevada, piel caliente y temblor distal) son característicos de hipertiroidismo. En esta condición, el aumento de las hormonas tiroideas (T3 y T4) conduce a un aumento del metabolismo basal, lo que resulta en un aumento del gasto cardíaco debido a una mayor frecuencia cardíaca y volumen sistólico. Además, las hormonas tiroideas causan vasodilatación periférica, lo que disminuye la resistencia vascular periférica. Por lo tanto, la opción correcta es que hay un aumento del gasto cardíaco y una disminución de la resistencia vascular periférica."
+        },
+        {
+        "id": "u3-p18",
+        "tipo": "multiple",
+        "enunciado": "¿Cuál es el orden correcto de secreción y acción en el eje hipotálamo-hipófiso-tiroideo?",
+        "opciones": [
+            "Hipotálamo-TSH-Tiroides-TRH",
+            "Hipotálamo-TRH-Hipófisis-TSH-Tiroides",
+            "Hipotálamo-T4-Hipófisis-TSH",
+            "Hipófisis-TRH-Tiroides-TSH",
+            "Tiroides-T4-Hipófisis-TRH"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "El eje hipotálamo-hipófiso-tiroideo funciona en el siguiente orden: 1) El hipotálamo secreta TRH (hormona liberadora de tirotropina), 2) TRH estimula la hipófisis para secretar TSH (hormona estimulante de la tiroides), 3) TSH estimula la tiroides para secretar T4 y T3."
+        },
+        {
+        "id": "u3-p19",
+        "tipo": "multiple",
+        "enunciado": "¿Cuál de las siguientes funciones está principalmente regulada por las hormonas tiroideas?",
+        "opciones": [
+            "Aumento de la glucogenogénesis hepática.",
+            "Disminución del metabolismo basal.",
+            "Inhibición del consumo de oxígeno celular.",
+            "Estimulación del crecimiento y desarrollo del sistema nervioso.",
+            "Reducción de la frecuencia cardíaca."
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "Las hormonas tiroideas (T3 y T4) son fundamentales para el crecimiento y desarrollo del sistema nervioso, especialmente durante el desarrollo fetal y los primeros años de vida. La deficiencia de hormonas tiroideas en esta etapa puede causar retraso mental y problemas de desarrollo neurológico (cretinismo). Además, las hormonas tiroideas aumentan el metabolismo basal, estimulan el consumo de oxígeno celular y aumentan la frecuencia cardíaca, por lo que las opciones relacionadas con la disminución del metabolismo basal, inhibición del consumo de oxígeno y reducción de la frecuencia cardíaca son incorrectas."
+        },
+        {
+        "id": "u3-p20",
+        "tipo": "multiple",
+        "enunciado": "¿Cuál de las siguientes situaciones disminuye la secreción de TSH por parte de la hipófisis anterior?",
+        "opciones": [
+            "Exposición prolongada al frío.",
+            "Disminución de los niveles plasmáticos de T3 y T4.",
+            "Elevación sostenida de T3 y T4 circulantes.",
+            "Disminución del metabolismo basal.",
+            "Aumento de la secreción de la TRH desde el hipotálamo."
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "La secreción de TSH es regulada por retroalimentación negativa: cuando los niveles de T3 y T4 en sangre son altos, inhiben la secreción de TSH desde la hipófisis anterior y también reducen la secreción de TRH desde el hipotálamo. Por lo tanto, la elevación sostenida de T3 y T4 circulantes disminuye la secreción de TSH. Las otras opciones, como la exposición al frío, la disminución de T3 y T4, la disminución del metabolismo basal y el aumento de TRH, estimularían la secreción de TSH en lugar de disminuirla."
+        },
+        {
+        "id": "u3-p21",
+        "tipo": "multiple",
+        "enunciado": "¿Cuál de los siguientes NO CORRESPONDE a un factor inhibidor de la liberación de la hormona de crecimiento?",
+        "opciones": [
+            "Hiperglucemia",
+            "Estrés agudo",
+            "Obesidad",
+            "Somatostatina o GHIH"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "El estrés agudo estimula la liberación de hormona de crecimiento (GH), no la inhibe. Los inhibidores de la GH incluyen la hiperglucemia, la obesidad, la somatostatina (GHIH), el envejecimiento y ciertas hormonas como el cortisol. Por lo tanto, la opción que no corresponde a un factor inhibidor de la liberación de GH es el estrés agudo."
+        },
+        {
+        "id": "u3-p22",
+        "tipo": "multiple",
+        "enunciado": "En la diabetes, se produce cetonemia:",
+        "opciones": [
+            "debido al exceso de glucagón que incrementa la producción de lípidos en sangre.",
+            "debido al alto contenido de ácidos grasos en la sangre que se metabolizan y se convierten en cuerpos cetónicos.",
+            "debido al bajo contenido de ácidos grasos en la sangre que no se metabolizan y se convierten en cuerpos cetónicos.",
+            "debido al alto anabolismo de las grasas como consecuencia de la insuficiencia de insulina."
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "En la diabetes mellitus tipo 1 (deficiencia de insulina), hay una movilización excesiva de ácidos grasos desde el tejido adiposo. Estos ácidos grasos son metabolizados en el hígado a cuerpos cetónicos (cetonemia), que pueden llevar a una cetoacidosis diabética. El exceso de glucagón también contribuye a la movilización de ácidos grasos, pero la cetonemia se debe principalmente al alto contenido de ácidos grasos en la sangre que se metabolizan y se convierten en cuerpos cetónicos. La opción correcta es que la cetonemia se produce debido al alto contenido de ácidos grasos en la sangre que se metabolizan y se convierten en cuerpos cetónicos."
+        },
+        {
+        "id": "u3-p23",
+        "tipo": "multiple",
+        "enunciado": "¿Qué tipo de hormonas produce la corteza suprarrenal?",
+        "opciones": [
+            "Hormonas peptídicas",
+            "Hormonas esteroides",
+            "Aminas biogénicas",
+            "Hormonas glicoproteicas"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "La corteza suprarrenal produce hormonas esteroides: glucocorticoides (cortisol), mineralocorticoides (aldosterona) y andrógenos suprarrenales (DHEA y androstenediona). La médula suprarrenal produce aminas biogénicas (catecolaminas: adrenalina y noradrenalina)."
+        },
+        {
+        "id": "u3-p24",
+        "tipo": "multiple",
+        "enunciado": "La insulina es especialmente importante para posibilitar el ingreso de glucosa en:",
+        "opciones": [
+            "cerebro y riñón, dado que allí se encuentran los transportadores GLUT-5 sensibles a esta hormona.",
+            "riñón e intestino, dado que allí se encuentran los transportadores GLUT-2 sensibles a esta hormona.",
+            "músculo y tejido adiposo, dado que allí se encuentran los transportadores sensibles a esta hormona.",
+            "neuronas y espermatozoides, donde sin esta hormona la glucosa no podría ser aprovechada por estas células."
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "La insulina estimula la entrada de glucosa en músculo y tejido adiposo mediante la translocación de transportadores GLUT-4 a la membrana celular. El cerebro y el hígado tienen transportadores GLUT-1 y GLUT-2 que no requieren insulina para el ingreso de glucosa. El riñón e intestino también tienen transportadores GLUT-2 que no son sensibles a la insulina. Las neuronas y espermatozoides utilizan principalmente GLUT-1 y GLUT-3, que tampoco dependen de la insulina para el transporte de glucosa."
+        },
+        {
+        "id": "u3-p25",
+        "tipo": "verdadero_falso",
+        "enunciado": "El factor de crecimiento similar a la insulina 2 (IGF-2) es un polipéptido que secreta el hígado con una función fundamental en el crecimiento intrauterino.",
+        "respuestaCorrecta": true,
+        "explicacion": "El IGF-2 es una hormona peptídica producida principalmente por el hígado y otros tejidos, y juega un papel fundamental en el crecimiento fetal (intrauterino). El IGF-1 es más importante para el crecimiento postnatal. El IGF-2 actúa a través de receptores específicos y tiene efectos anabólicos que promueven el crecimiento y desarrollo durante la etapa fetal."
+        },
+        {
+        "id": "u3-p26",
+        "tipo": "multiple",
+        "enunciado": "La hormona de crecimiento:",
+        "opciones": [
+            "Promueve el anabolismo de los lípidos (grasas), y disminuye la masa muscular. Su secreción es controlada por hormonas hepáticas.",
+            "Es una hormona de naturaleza esteroidea como la testosterona, por lo que comparten sus acciones anabólicas.",
+            "Es una hormona que promueve el ingreso de glucosa a las células, por esto sus acciones son sinérgicas con la insulina.",
+            "Promueve el catabolismo de los lípidos (grasas), y aumenta la masa muscular. Su secreción es controlada por hormonas hipotalámicas."
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "La hormona de crecimiento (GH) promueve el catabolismo de lípidos (lipólisis), aumenta la masa muscular (efecto anabólico proteico) y su secreción es controlada por hormonas hipotalámicas: GHRH (estimulante) y somatostatina (inhibidora). La GH tiene efectos opuestos a la insulina en el metabolismo de la glucosa, ya que promueve la resistencia a la insulina y disminuye el ingreso de glucosa a las células, por lo que no son sinérgicas."
+        },
+        {
+        "id": "u3-p27",
+        "tipo": "multiple",
+        "enunciado": "Una paciente con insuficiencia suprarrenal aguda presenta hipotensión, hiponatremia e hiperkalemia (elevación de los niveles de potasio en la sangre). Se inicia tratamiento con hidrocortisona (corticosteroide) intravenosa. A nivel clínico se espera encontrar:",
+        "opciones": [
+            "Aumento de la presión arterial por aumento de la sensibilidad vascular a catecolaminas.",
+            "Disminución de la presión arterial por estimulación del sistema renina-angiotensina-aldosterona.",
+            "Disminución de la presión arterial por inhibición de la hormona antidiurética.",
+            "Aumento de la presión arterial por activación de los receptores de aldosterona en el túbulo distal."
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "Los glucocorticoides (como la hidrocortisona) aumentan la sensibilidad de los vasos sanguíneos a las catecolaminas (adrenalina y noradrenalina), lo que permite una mejor vasoconstricción y aumento de la presión arterial. También tienen efectos mineralocorticoides que ayudan a corregir la hiponatremia y la hiperkalemia. "
+        },
+        {
+        "id": "u3-p28",
+        "tipo": "verdadero_falso",
+        "enunciado": "La insulina aumenta la expresión hepática del receptor de GH, lo que aumenta la sensibilidad del hígado a la GH, lo que conduce a un aumento de IGF-1 y una disminución de la GH.",
+        "respuestaCorrecta": true,
+        "explicacion": "La insulina tiene un efecto sinérgico con la hormona de crecimiento (GH) en el hígado, ya que aumenta la expresión del receptor de GH. Esto hace que el hígado sea más sensible a la GH, lo que resulta en un aumento de la producción de IGF-1 (factor de crecimiento similar a la insulina 1). El aumento de IGF-1 ejerce retroalimentación negativa sobre la secreción de GH, lo que conduce a una disminución de los niveles de GH en sangre."
+        },
+        {
+        "id": "u3-p29",
+        "tipo": "multiple",
+        "enunciado": "Un niño de 8 años presenta talla baja, retraso del crecimiento y fatiga. Se le realiza una prueba de estímulo con hipoglucemia inducida por insulina, la cual no genera un aumento esperado de la hormona de crecimiento. Los niveles de TSH y T4 libre son normales. Según sus conocimientos acerca del sistema endócrino, ¿cuál es el diagnóstico más probable?",
+        "opciones": [
+            "Deficiencia de hormona de crecimiento",
+            "Síndrome de resistencia a la insulina",
+            "Hipotiroidismo",
+            "Hipopituitarismo (baja función de la glándula hipófisis) con afectación exclusiva de la tiroides"
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "El diagnóstico más probable es deficiencia de hormona de crecimiento (GH). La prueba de estímulo con hipoglucemia inducida por insulina es una prueba común para evaluar la función de la GH. En un niño con talla baja, retraso del crecimiento y fatiga, la falta de aumento esperado de GH en respuesta a la hipoglucemia sugiere una deficiencia de esta hormona. Los niveles normales de TSH y T4 libre descartan el hipotiroidismo como causa del retraso del crecimiento. El síndrome de resistencia a la insulina no se asocia típicamente con talla baja, y el hipopituitarismo con afectación exclusiva de la tiroides no explicaría la falta de respuesta de GH."
+        },
+        {
+        "id": "u3-p30",
+        "tipo": "multiple",
+        "enunciado": "¿Cuál de las siguientes hormonas, cuando se encuentra elevada en forma crónica puede inhibir el crecimiento?",
+        "opciones": [
+            "Hormonas tiroideas",
+            "Aldosterona",
+            "Factor de crecimiento fibroblástico",
+            "Prolactina",
+            "Cortisol (glucocorticoides)"
+        ],
+        "respuestaCorrecta": 4,
+        "explicacion": "El cortisol elevado crónicamente (como en el síndrome de Cushing) inhibe el crecimiento por varios mecanismos: antagoniza los efectos anabólicos de la GH, inhibe la secreción de GH, estimula la secreción de somatostatina y promueve el catabolismo proteico, lo que afecta negativamente el crecimiento. Las hormonas tiroideas, el factor de crecimiento fibroblástico y la prolactina no tienen un efecto inhibidor directo sobre el crecimiento, y la aldosterona no está relacionada con la regulación del crecimiento."
+        },
+        {
+        "id": "u3-p31",
+        "tipo": "multiple",
+        "enunciado": "¿Cuál de las siguientes hormonas actúa sobre la adenohipófisis inhibiendo directamente la secreción de Hormona de Crecimiento o GH?",
+        "opciones": [
+            "Cortisol en dosis bajas",
+            "Prolactina",
+            "Dopamina",
+            "Somatostatina (GHIH)",
+            "GHRH (Hormona liberadora de GH)"
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "La somatostatina (GHIH) es una hormona hipotalámica que actúa sobre la adenohipófisis para inhibir directamente la secreción de hormona de crecimiento (GH). La dopamina inhibe la secreción de prolactina, no de GH. El cortisol en dosis bajas no tiene un efecto inhibidor directo sobre la GH, y el GHRH estimula la secreción de GH en lugar de inhibirla."
+        },
+        {
+        "id": "u3-p32",
+        "tipo": "multiple",
+        "enunciado": "En los varones, la producción endógena de testosterona se produce en:",
+        "opciones": [
+            "Médula suprarrenal",
+            "Espermatogonias",
+            "Células de Leydig",
+            "Túbulos seminíferos",
+            "Células de Sertoli"
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "La testosterona es producida por las células de Leydig en los testículos, localizadas en el espacio intersticial entre los túbulos seminíferos. La producción es estimulada por la LH (hormona luteinizante) desde la adenohipófisis."
+        },
+        {
+        "id": "u3-p33",
+        "tipo": "verdadero_falso",
+        "enunciado": "PTH es una hormona peptídica liberada de la glándula paratiroides y actúa para aumentar el calcio plasmático mediante tres mecanismos generales: 1) estimula la reabsorción de calcio en los túbulos renales, 2) estimula la activación de 1,25-dihidroxi vitamina D3 dentro del riñón facilitando la absorción de calcio en el tracto digestivo, y 3) estimula la liberación de calcio del hueso.",
+        "respuestaCorrecta": true,
+        "explicacion": "La PTH actúa por tres mecanismos para aumentar el calcio plasmático: 1) Aumenta la reabsorción de calcio en el túbulo distal renal, 2) Estimula la 1α-hidroxilasa renal para producir calcitriol (vitamina D activa), que aumenta la absorción intestinal de calcio, y 3) Estimula la resorción ósea (liberación de calcio del hueso) mediante la activación de los osteoclastos."
+        },
+        {
+        "id": "u3-p34",
+        "tipo": "multiple",
+        "enunciado": "Indique la respuesta correcta en relación a las Glándulas Suprarrenales:",
+        "opciones": [
+            "Producen hormonas peptídicas, glucoproteicas",
+            "La corteza suprarrenal produce hormonas esteroideas",
+            "La médula suprarrenal no libera su secreción a la sangre",
+            "Produce hormonas que regulan la calcemia y la fosfatemia",
+            "Liberan hormonas durante el período postprandial (después de comer)"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "La corteza suprarrenal produce hormonas esteroides: glucocorticoides (cortisol), mineralocorticoides (aldosterona) y andrógenos suprarrenales. La médula suprarrenal produce catecolaminas (adrenalina y noradrenalina)."
+        },
+        {
+        "id": "u3-p35",
+        "tipo": "multiple",
+        "enunciado": "¿Cuál de las siguientes hormonas es secretada por el cuerpo lúteo?",
+        "opciones": [
+            "Oxitocina",
+            "Progesterona",
+            "Gonadotrofina coriónica",
+            "Hormona Luteinizante o LH",
+            "Prolactina"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "El cuerpo lúteo (formado a partir del folículo ovárico después de la ovulación) secreta principalmente progesterona y también estrógenos. La LH es secretada por la adenohipófisis y la gonadotrofina coriónica por la placenta."
+        },
+        {
+        "id": "u3-p36",
+        "tipo": "multiple",
+        "enunciado": "Durante la fase proliferativa del ciclo sexual femenino, el endometrio es estimulado por:",
+        "opciones": [
+            "Progesterona",
+            "LH",
+            "T3 y T4",
+            "GnRH",
+            "Estrógenos"
+        ],
+        "respuestaCorrecta": 4,
+        "explicacion": "Durante la fase proliferativa (folicular) del ciclo menstrual, los estrógenos (producidos por los folículos ováricos en desarrollo) estimulan la proliferación del endometrio, preparándolo para una posible implantación."
+        },
+        {
+        "id": "u3-p37",
+        "tipo": "multiple",
+        "enunciado": "Indique cuál de las siguientes funciones corresponde a las hormonas tiroideas:",
+        "opciones": [
+            "Aumento de la resorción de hueso por hiperparatiroidismo",
+            "No afectan a la velocidad de reacción de procesos metabólicos",
+            "Aumento de la termogénesis y de la frecuencia cardíaca",
+            "Disminución de la captación de glucosa",
+            "Disminución de la actividad mitocondrial"
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "Las hormonas tiroideas (T3 y T4) aumentan el metabolismo basal, la termogénesis (producción de calor), la frecuencia cardíaca y la contractilidad cardíaca. También aumentan el consumo de oxígeno y la actividad mitocondrial."
+        },
+        {
+        "id": "u3-p38",
+        "tipo": "multiple",
+        "enunciado": "Durante el desarrollo temprano, ¿cuál de las siguientes hormonas es clave (junto con la hormona de crecimiento) para el correcto funcionamiento y maduración del Sistema Nervioso, pudiendo su falta ocasionar retardo mental entre otros problemas?",
+        "opciones": [
+            "Hormonas tiroideas",
+            "Esteroides sexuales",
+            "Aldosterona",
+            "Glucocorticoides",
+            "Oxitocina"
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "Las hormonas tiroideas (T3 y T4) son esenciales para el desarrollo y maduración del sistema nervioso central durante la vida fetal y los primeros años de vida. La deficiencia de hormonas tiroideas en esta etapa (hipotiroidismo congénito) puede causar retardo mental irreversible (cretinismo)."
+        },
+        {
+        "id": "u3-p39",
+        "tipo": "completar",
+        "enunciado": "Complete el siguiente enunciado referido al control hormonal de la calcemia:\nUna Hipercalcemia desencadenará la liberación de [blank1] a partir de la glándula [blank2]",
+        "blanks": [
+            {
+            "id": "blank1",
+            "label": "Hormona liberada",
+            "opciones": ["Calcitonina", "PTH", "Calcitriol"],
+            "respuestaCorrecta": 0
+            },
+            {
+            "id": "blank2",
+            "label": "Glándula",
+            "opciones": ["Tiroides", "Paratiroides", "Suprarrenal"],
+            "respuestaCorrecta": 0
+            }
+        ],
+        "explicacion": "Ante una hipercalcemia (aumento del calcio plasmático), se estimula la liberación de calcitonina desde las células C (o parafoliculares) de la glándula tiroides, que reduce el calcio plasmático al inhibir la resorción ósea y aumentar la excreción renal de calcio."
+        },
+        {
+        "id": "u3-p40",
+        "tipo": "multiple",
+        "enunciado": "Una paciente hipotiroidea consulta a su médique de especialidad ginecología porque no consigue lograr un embarazo tras un año de intentos. Se le receta un aumento en la dosis diaria de T4 (por lo tanto T3). El tratamiento dado tiene sentido, dado que los niveles bajos de hormona tiroidea pueden interferir en la liberación de un óvulo del ovario.",
+        "opciones": ["Verdadero", "Falso"],
+        "respuestaCorrecta": 0,
+        "explicacion": "Los niveles bajos de hormonas tiroideas pueden interferir con la ovulación y la fertilidad. El tratamiento con hormonas tiroideas en pacientes hipotiroideas con problemas de fertilidad tiene sentido, ya que las hormonas tiroideas son necesarias para el correcto funcionamiento del eje reproductivo."
+        },
+        {
+        "id": "u3-p41",
+        "tipo": "multiple",
+        "enunciado": "El cortisol, también conocido como \"hormona del estrés\" tiene diferentes efectos en el organismo, señale la opción correcta acerca de los principales:",
+        "opciones": [
+            "Aumenta la respuesta inmunológica inflamatoria",
+            "Anabolismo, aumento de masa muscular, crecimiento general",
+            "Hipoglucemia, disminución en la deposición de grasa central",
+            "Aumenta la glucemia, ya que moviliza reservas. Produce lipólisis",
+            "Aumenta la acción de macrófagos e inmunoglobulinas"
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "El cortisol aumenta la glucemia mediante la gluconeogénesis hepática y la movilización de reservas de glucosa. También estimula la lipólisis (movilización de ácidos grasos) y el catabolismo proteico. Tiene efectos antiinflamatorios e inmunosupresores."
+        },
+        {
+        "id": "u3-p42",
+        "tipo": "multiple",
+        "enunciado": "Según sus conocimientos acerca de la regulación de la glucemia por el páncreas, señale la opción correcta:",
+        "opciones": [
+            "La glucemia baja, el ejercicio intenso y el exceso de insulina promueven la secreción de glucagón",
+            "El glucagón y la insulina producen gluconeogénesis (formación de glucógeno) en el hígado",
+            "La insulina presenta un único pico diario de secreción, después del desayuno",
+            "El aumento de ácidos grasos en sangre es indicativo del aumento de insulina",
+            "El sistema simpático estimula la secreción de insulina"
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "La secreción de glucagón es estimulada por la hipoglucemia (baja glucosa), el ejercicio intenso y el exceso de insulina. El glucagón tiene efectos opuestos a la insulina: aumenta la glucemia mediante la glucogenólisis y gluconeogénesis hepática."
+        },
+        {
+        "id": "u3-p43",
+        "tipo": "completar",
+        "enunciado": "Luego de la ingesta de alimento (periodo posprandial), el aumento de la glucemia induce la liberación de [blank1] desde las células [blank2] del páncreas. Paralelamente, después de comer, se estimula la actividad nerviosa [blank3]. En conjunto se producirá [blank4] de la glucemia, [blank5] y [blank6] proteico y lipídico.",
+        "blanks": [
+            {
+            "id": "blank1",
+            "label": "Hormona",
+            "opciones": ["Insulina", "Glucagón", "Cortisol"],
+            "respuestaCorrecta": 0
+            },
+            {
+            "id": "blank2",
+            "label": "Células",
+            "opciones": ["alfa", "beta", "delta", "F"],
+            "respuestaCorrecta": 1
+            },
+            {
+            "id": "blank3",
+            "label": "Sistema nervioso",
+            "opciones": ["simpática", "parasimpática"],
+            "respuestaCorrecta": 1
+            },
+            {
+            "id": "blank4",
+            "label": "Efecto sobre la glucemia",
+            "opciones": ["aumento", "disminución"],
+            "respuestaCorrecta": 1
+            },
+            {
+            "id": "blank5",
+            "label": "Proceso metabólico 1",
+            "opciones": ["glucogenogénesis", "glucogenólisis"],
+            "respuestaCorrecta": 0
+            },
+            {
+            "id": "blank6",
+            "label": "Proceso metabólico 2",
+            "opciones": ["catabolismo", "anabolismo"],
+            "respuestaCorrecta": 1
+            }
+        ],
+        "explicacion": "Después de comer (periodo posprandial), el aumento de glucosa en sangre estimula la liberación de insulina desde las células beta del páncreas y la actividad nerviosa parasimpática. Esto produce disminución de la glucemia, glucogenogénesis (síntesis de glucógeno) y anabolismo (síntesis) proteico y lipídico."
+        },
+        {
+        "id": "u3-p44",
+        "tipo": "ordenar",
+        "enunciado": "Ordene la secuencia de eventos para que la hormona de crecimiento (GH) pueda realizar sus efectos sobre las células:",
+        "opciones": [
+            "GH se une a su receptor de membrana en el hígado",
+            "Se produce IGF-1 (factor de crecimiento similar a la insulina tipo 1)",
+            "El hígado aumenta la producción de IGF-1",
+            "IGF-1 actúa sobre tejidos diana (hueso, músculo, cartílago)",
+            "Se activa la vía de señalización JAK-STAT"
+        ],
+        "respuestaCorrecta": [0, 4, 2, 1, 3],
+        "explicacion": "El orden correcto de la acción de la GH es: 1) La GH se une a su receptor de membrana en el hígado, 2) Se activa la vía JAK-STAT, 3) El hígado aumenta la producción de IGF-1, 4) Se produce IGF-1, 5) IGF-1 actúa sobre tejidos diana (hueso, músculo, cartílago) estimulando el crecimiento."
+        },
+        {
+        "id": "u3-p45",
+        "tipo": "ordenar",
+        "enunciado": "Ordene los pasos del reflejo neuroendocrino de amamantamiento:",
+        "opciones": [
+            "La succión del pezón materno por el bebé es el estímulo",
+            "La vía aferente sensitiva llega al Hipotálamo",
+            "Se libera oxitocina desde la Neurohipófisis",
+            "Por la sangre, llega al músculo liso de los conductillos mamarios y produce la eyección de la leche materna",
+            "Continúa el reflejo de succión y la liberación de oxitocina: más estímulo y oxitocina, mayor eyección de leche por la glándula mamaria."
+        ],
+        "respuestaCorrecta": [0, 1, 2, 3, 4],
+        "explicacion": "El reflejo neuroendocrino del amamantamiento sigue este orden: 1) La succión del pezón es el estímulo, 2) La vía aferente sensitiva llega al hipotálamo, 3) Se libera oxitocina desde la neurohipófisis, 4) La oxitocina viaja por sangre al músculo liso mamario produciendo la eyección, 5) El reflejo se mantiene con más succión y más oxitocina."
+        },
+        {
+        "id": "u3-p46",
+        "tipo": "ordenar",
+        "enunciado": "Ordene los pasos del reflejo neuroendocrino de amamantamiento:",
+        "opciones": [
+            "La succión del pezón materno por el bebé es el estímulo",
+            "La vía aferente sensitiva llega al Hipotálamo",
+            "Se libera oxitocina desde la Neurohipófisis",
+            "Por la sangre, llega al músculo liso de los conductillos mamarios y produce la eyección de la leche materna",
+            "Continúa el reflejo de succión y la liberación de oxitocina: más estímulo y oxitocina, mayor eyección de leche por la glándula mamaria."
+        ],
+        "respuestaCorrecta": [0, 1, 2, 3, 4],
+        "explicacion": "El reflejo neuroendocrino del amamantamiento sigue este orden: 1) La succión del pezón es el estímulo, 2) La vía aferente sensitiva llega al hipotálamo, 3) Se libera oxitocina desde la neurohipófisis, 4) La oxitocina viaja por sangre al músculo liso mamario produciendo la eyección, 5) El reflejo se mantiene con más succión y más oxitocina."
+        },
+        {
+        "id": "u3-p47",
+        "tipo": "multiple",
+        "enunciado": "La hormona LH:",
+        "opciones": [
+            "Se encarga de promover la espermatogénesis y la formación de estrógenos en el varón, que dependen de las células de Leydig también llamadas células nodrizas.",
+            "En la mujer su función es promover la progresión del cuerpo lúteo, y en el varón actuar sobre las células de Leydig quienes producen testosterona.",
+            "En la mujer su función es promover el crecimiento de los folículos ováricos, y en el varón actuar sobre las células de Sertoli quienes producen testosterona.",
+            "Se encarga de estimular la secreción de hormonas adenohipofisarias."
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "La hormona luteinizante (LH) tiene funciones específicas en ambos sexos: en la mujer, promueve la progresión del cuerpo lúteo después de la ovulación, y en el varón, actúa sobre las células de Leydig para estimular la producción de testosterona."
+        },
+        {
+        "id": "u3-p48",
+        "tipo": "multiple",
+        "enunciado": "Observe el diagrama y decida cuál de las siguientes es la hormona (esfera verde) representada:",
+        "imagen": {
+            "src": "data/Imagenes_ud3/insulina.png",
+            "alt": "Diagrama de mecanismo de acción de la insulina"
+        },
+        "opciones": [
+            "insulina",
+            "prolactina",
+            "glucacón",
+            "hormona de crecimiento"
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "El diagrama muestra el mecanismo de acción de la insulina, que se une a su receptor de membrana (receptor tirosina quinasa), lo que activa una cascada de señalización intracelular que incluye la vía PI3K-Akt, promoviendo la translocación de GLUT-4 a la membrana celular para facilitar el ingreso de glucosa a las células."
+        },
+        {
+        "id": "u3-p49",
+        "tipo": "multiple",
+        "enunciado": "La liberación de catecolaminas:",
+        "opciones": [
+            "Está regulada por acción del sistema nervioso parasimpático. Su secreción aumenta para garantizar una buena digestión de los nutrientes.",
+            "Está regulada por el eje hipotálamo-hipófisis-suprarrenal. Su secreción aumenta durante situaciones de estrés disminuyendo la respuesta inmunitaria y la inflamación.",
+            "Está regulada por el SNC. Su secreción aumenta durante situaciones adversas a la homeostasis; y ate aumentos súbitos en la concentración de potasio extracelular.",
+            "Está regulada por el eje hipotálamo-hipófisis-suprarrenal. Su secreción aumenta durante situaciones que comprometen la homeostasis; enojo y miedo, y el ejercicio.",
+            "Está regulada por el SNC. Su secreción aumenta durante situaciones adversas a la homeostasis; emociones fuertes, como enojo y miedo, y el ejercicio."
+        ],
+        "respuestaCorrecta": 4,
+        "explicacion": "La liberación de catecolaminas (adrenalina y noradrenalina) está regulada por el sistema nervioso central (SNC) y aumenta durante situaciones que comprometen la homeostasis, como emociones fuertes (enojo y miedo) y el ejercicio. Estas hormonas preparan al cuerpo para la respuesta de 'lucha o huida' al aumentar la frecuencia cardíaca, la presión arterial y movilizar energía."
+        }
+    ]
+}

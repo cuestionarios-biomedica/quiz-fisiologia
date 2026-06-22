@@ -1,0 +1,69 @@
+{
+  "unidad": 1,
+  "nombre": "Fisiología Celular y Neurofisiología",
+  "preguntas": [
+    {
+      "id": 1,
+      "tipo": "multiple",
+      "enunciado": "¿Cuál es el principal ion involucrado en el potencial de acción?",
+      "opciones": ["Sodio (Na+)", "Potasio (K+)", "Calcio (Ca2+)", "Cloro (Cl-)"],
+      "respuestaCorrecta": 0,
+      "explicacion": "El sodio es el principal ion que entra durante la despolarización"
+    },
+    {
+      "id": 2,
+      "tipo": "verdadero_falso",
+      "enunciado": "El potencial de reposo de una neurona es de aproximadamente -70mV",
+      "respuestaCorrecta": true,
+      "explicacion": "Efectivamente, el potencial de reposo neuronal es de -70mV"
+    },
+    {
+      "id": 3,
+      "tipo": "multiple_respuesta",
+      "enunciado": "¿Cuáles de los siguientes son canales iónicos dependientes de voltaje?",
+      "opciones": ["Canales de Na+", "Canales de K+", "Canales de Ca2+", "Canales de Cl-"],
+      "respuestaCorrecta": [0, 1, 2],
+      "explicacion": "Los canales de Na+, K+ y Ca2+ son dependientes de voltaje"
+    },
+    {
+      "id": 4,
+      "tipo": "ordenar",
+      "enunciado": "Ordena los pasos del potencial de acción:",
+      "opciones": ["Repolarización", "Despolarización", "Hiperpolarización", "Potencial de reposo"],
+      "respuestaCorrecta": [3, 1, 0, 2],
+      "explicacion": "El orden correcto es: reposo, despolarización, repolarización, hiperpolarización"
+    },
+     {
+      "id": 5,
+      "tipo": "completar",
+      "enunciado": "En la zona número 1 se produce una [blank1], el fenómeno en 2 se conoce como [blank2], y en 3 ocurre la [blank3]",
+      "imagen": {
+            "url": "assets/images/corazon.jpg",
+            "alt": "Diagrama del corazón con áreas numeradas",
+            "width": 500,
+            "height": 400
+        },
+      "blanks": [
+        {
+          "id": "blank1",
+          "label": "Zona 1",
+          "opciones": ["despolarización", "repolarización", "hiperpolarización", "potencial de reposo"],
+          "respuestaCorrecta": 0
+        },
+        {
+          "id": "blank2",
+          "label": "Zona 2",
+          "opciones": ["conducción saltatoria", "conducción continua", "propagación", "transmisión"],
+          "respuestaCorrecta": 0
+        },
+        {
+          "id": "blank3",
+          "label": "Zona 3",
+          "opciones": ["liberación de neurotransmisores", "recaptación", "degradación", "difusión"],
+          "respuestaCorrecta": 0
+        }
+      ],
+      "explicacion": "En la zona 1 se produce despolarización, en 2 conducción saltatoria, y en 3 liberación de neurotransmisores"
+    }
+  ]
+}
