@@ -659,6 +659,924 @@
         ],
         "respuestaCorrecta": 4,
         "explicacion": "La liberación de catecolaminas (adrenalina y noradrenalina) está regulada por el sistema nervioso central (SNC) y aumenta durante situaciones que comprometen la homeostasis, como emociones fuertes (enojo y miedo) y el ejercicio. Estas hormonas preparan al cuerpo para la respuesta de 'lucha o huida' al aumentar la frecuencia cardíaca, la presión arterial y movilizar energía."
+        },
+        {
+        "id": "u3-p50",
+        "tipo": "multiple",
+        "enunciado": "Las hormonas tiroideas:",
+        "opciones": [
+            "cuando se encuentran en exceso producen reducción de la libido, disminución de la fertilidad y cambios en la menstrucación.",
+            "poseen su receptor en la membrana plasmática, y producen cambios en que se manifiestan en el ARNmensajero.",
+            "actúan disminuyendo la cantidad de receptores beta-adrenérgicos en el corazón.",
+            "cuando se encuentran por debajo por debajo de los valores fisiológicos producen un aumento de la sudoración.",
+            "son lipofílicas, por lo que viajan unidas a proteínas, esta característica es importante porque aumenta la vida media de las mismas dado que no son filtradas por el riñón."],
+        "respuestaCorrecta": 4,
+        "explicacion": "Las hormonas tiroideas (T3 y T4) son lipofílicas, lo que significa que viajan unidas a proteínas plasmáticas (como la globulina transportadora de tiroxina) para aumentar su vida media y evitar su filtración renal. Tienen receptores intracelulares que actúan como factores de transcripción para regular la expresión génica. El exceso de hormonas tiroideas puede causar síntomas como aumento de la sudoración, aumento de la frecuencia cardíaca y cambios en el ciclo menstrual, pero no necesariamente reducción de la libido o fertilidad. Además, las hormonas tiroideas aumentan la cantidad de receptores beta-adrenérgicos en el corazón, lo que aumenta la sensibilidad a las catecolaminas."
+    },
+    {
+        "id": "u3-p51",
+        "tipo": "multiple",
+        "enunciado": "Lea atentamente la siguiente oración y responda eligiendo la opción correcta.\nEl cortisol inhibe tanto las respuestas inmunitarias como la inflamación.",
+        "opciones": [
+            "Si bien esta respuesta podría parecer contraproducente en situaciones adversas, dado que la frecuencia cardíaca del individuo está incrementada ante situaciones de estrés, la respuesta inmune se ve alterada y la inflamación también.",
+            "El cortisol no posee acciones sobre el sistema inmunitario, se encarga de redirigir la energía del organismo en situaciones de estrés, para que pueda reaccionar de manera inmediata",
+            "Esta respuesta es contraproducente en situaciones adversas, como las que estimulan la secreción del cortisol, por lo que es falsa.",
+            "Si bien esta respuesta podría parecer contraproducente en situaciones adversas, cuando la vida del individuo está en peligro, combatir la enfermedad con el sistema inmunitario se vuelve menos importante que la supervivencia inmediata.",
+            "Esta respuesta es contraproducente en situaciones adversas, como las uqe estimulan la secreción del cortisol, de hecho el mismo promueve la síntesis de glóbulos blancos en detrimento de la producción de eritrocitos."
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "El cortisol tiene efectos inmunosupresores e antiinflamatorios, lo que puede parecer contraproducente en situaciones de estrés. Sin embargo, durante situaciones adversas, como una amenaza a la vida, la prioridad del organismo es la supervivencia inmediata. En este contexto, combatir una infección o inflamación con el sistema inmunitario puede ser menos importante que mantener las funciones vitales, por lo que la acción del cortisol es adaptativa en estas situaciones."
+    },
+    {
+        "id": "u3-p52",
+        "tipo": "multiple",
+        "enunciado": "En una investigación se pretende analizar los efectos producidos por las bebidas alcohólicas sobre la emisión de orina en individuos sanos entre 18 y 21 años. Se trabajó con un grupo experimental y un grupo control. El grupo control ingirió un litro de agua y el experimental un litro de cerveza al 4.0% en 15 minutos. Una hora y media después se observan los resultados de la imagen. Se puede concluir que:",
+        "imagen": {
+            "src": "data/Imagenes_ud3/alcohol.png",
+            "alt": "Gráfica de volumen y densidad urinaria en grupo control y experimental"
+        },
+        "opciones": [
+            "Como consecuencia de la ingesta de alcohol se genera una orina concentrada.",
+            "El alcohol genera una fuerte estimulación sobre la hormona antidiurética (ADH).",
+            "En el grupo control, a la hora y media se observa una inhibición de hormona antidiurética (ADH) por la momentánea hipovolemia inducida.",
+            "En el grupo control hay una tendencia al aumento de la densidad y volumen urinario hasta la normalidad.",
+            "El alcohol genera un elevado volumen de orina diluida por inhibición de ADH."
+        ],
+        "respuestaCorrecta": 4,
+        "explicacion": "El alcohol inhibe la secreción de la hormona antidiurética (ADH), lo que provoca una disminución en la reabsorción de agua en los túbulos renales. Esto resulta en un aumento del volumen de orina diluida, lo que explica por qué las personas suelen orinar más después de consumir alcohol."
+    },
+    {
+        "id": "u3-p53",
+        "tipo": "multiple",
+        "enunciado": "¿Cuál de los siguientes efectos cabría esperar en una persona con hipertiroidismo?",
+        "opciones": [
+            "Sensibilidad al frío",
+            "Disminución del consumo de O2 en todos los tejidos",
+            "Aumento de peso debido al depósito de grasas",
+            "Disminución de las concentraciones de la hormona estimulante de tiroides (TSH)",
+            "Disminución de la frecuencia cardíaca"
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "En el hipertiroidismo, la glándula tiroides produce un exceso de hormonas tiroideas (T3 y T4), lo que provoca un aumento del metabolismo basal. Esto lleva a una disminución de las concentraciones de TSH debido a la retroalimentación negativa sobre la hipófisis. Los síntomas típicos incluyen sensibilidad al calor, aumento del consumo de O2, pérdida de peso, aumento de la frecuencia cardíaca y temblores."
+    },
+    {
+        "id": "u3-p54",
+        "tipo": "multiple",
+        "enunciado": "En referencia a los efectos fisiológicos de los estrógenos:",
+        "opciones": [
+            "Estimulan la infiltración leucocitaria en el epitelio vaginal",
+            "Promueven la secreción de moco cervical espeso y celular",
+            "Disminuyen la libido y la conducta sexual",
+            "Estimulan el crecimiento endometrial",
+            "Inhiben el crecimiento de los folículos ováricos"
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "Los estrógenos estimulan el crecimiento endometrial, lo que es fundamental para la preparación del útero durante el ciclo menstrual."
+    },
+    {
+        "id": "u3-p55",
+        "tipo": "multiple",
+        "enunciado": "Una mujer de 41 años de edad presenta hipocalcemia, hiperfosfatemia y disminución de la excreción urinaria de fosfato. La inyección de hormona paratiroidea provoca un aumento de AMPc. El diagnóstico más probable es:",
+        "opciones": [
+            "Hipoparatiroidismo por falta de sensibilidad al receptor",
+            "Intoxicación con vitamina D",
+            "Hipoparatiroidismo tras una intervención quirúrgica de tiroides y paratiroides",
+            "Hipo función del hígado por falta de vitamina D",
+            "Hiperparatiroidismo primario"
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "La hipocalcemia, hiperfosfatemia y disminución de la excreción urinaria de fosfato indican déficit de PTH. El hecho de que la administración de hormona paratiroidea aumente el AMPc demuestra que los receptores y la vía de señalización son funcionales, descartando resistencia a la hormona. El cuadro es compatible con hipoparatiroidismo, por ejemplo tras una cirugía de tiroides o paratiroides."
+    },
+    {
+        "id": "u3-p56",
+        "tipo": "completar",
+        "enunciado": "Ante concentraciones elevadas de glucosa en sangre, el transportador [blank1] permite la difusión [blank2] de glucosa a la célula [blank3] del páncreas, quien liberará insulina ante cambios en el potencial de membrana. Luego la insulina aumentará la cantidad de canales [blank4] de glucosa en algunos tejidos",
+        "blanks": [
+            {
+            "id": "blank1",
+            "label": "Transportador",
+            "opciones": ["GLUT-2", "GLUT-4", "GLUT-1"],
+            "respuestaCorrecta": 0
+            },
+            {
+            "id": "blank2",
+            "label": "Difusión",
+            "opciones": ["facilitada", "simple", "activa"],
+            "respuestaCorrecta": 2
+            },
+            {
+            "id": "blank3",
+            "label": "Célula",
+            "opciones": ["alfa", "beta", "delta"],
+            "respuestaCorrecta": 1
+            },
+            {
+            "id": "blank4",
+            "label": "Canales",
+            "opciones": ["GLUT-2", "GLUT-4", "GLUT-1"],
+            "respuestaCorrecta": 1
+            }
+        ],
+        "explicacion": "El transportador GLUT-2 permite la difusión facilitada de glucosa hacia las células beta del páncreas, que detectan los niveles de glucosa y liberan insulina. La insulina, a su vez, aumenta la cantidad de transportadores GLUT-4 en tejidos como el músculo y el tejido adiposo, facilitando la captación de glucosa."
+    },
+    {
+        "id": "u3-p57",
+        "tipo": "multiple",
+        "enunciado": "La respuesta de una hormona, en magnitud:",
+        "opciones": [
+            "depende del número y afinidad de los receptores",
+            "depende del control hipotalámico de la misma en todos los casos",
+            "es independiente de las concentraciones de la misma",
+            "depende solamente de las concentraciones de la misma",
+            "es inversamente proporcional a la cantidad de receptores que se hallan en su célula diana"
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "La magnitud de la respuesta hormonal depende tanto de la concentración de la hormona como del número y afinidad de sus receptores en la célula diana. Un aumento de receptores (up-regulation) incrementa la sensibilidad al estímulo hormonal, mientras que una disminución de receptores (down-regulation) la reduce."
+    },
+    {
+        "id": "u3-p58",
+        "tipo": "verdadero_falso",
+        "enunciado": "La hipoglucemia es un factor de riesgo a considerar en los equipos automáticos diseñados para administrar insulina en caso de diabetes tipo 1. Es por ello que en algunos dispositivos se considera la opción de suministrar tanto insulina como glucagón dependiendo de los niveles de glucosa captados por el sensor.",
+        "respuestaCorrecta": true,
+        "explicacion": "Verdadero. Algunos sistemas avanzados de control automático de la diabetes tipo 1 utilizan tanto insulina como glucagón. La insulina disminuye la glucemia cuando esta es elevada, mientras que el glucagón la aumenta cuando existe riesgo de hipoglucemia, permitiendo un control más parecido al funcionamiento normal del páncreas."
+    },
+    {
+        "id": "u3-p59",
+        "tipo": "verdadero_falso",
+        "enunciado": "Se denomina embarazo heterotópico conjunto de un embarazo ectópico y uno en la actividad intrauterina. Es una de las complicaciones que puede surgir tras la fertilización asistida.",
+        "respuestaCorrecta": true,
+        "explicacion": "Verdadero. El embarazo heterotópico es una condición rara en la que coexisten un embarazo intrauterino y un embarazo ectópico (fuera del útero, generalmente en las trompas de Falopio). Esta situación puede ocurrir tras técnicas de fertilización asistida, como la fecundación in vitro, debido a la manipulación de los óvulos y embriones."
+    },
+    {
+        "id": "u3-p60",
+        "tipo": "multiple",
+        "enunciado": "Los glucocorticoides son necesarios:",
+        "opciones": [
+            "para incrementar el anabolismo proteico en el músculo actuando de una manera sinérgica con la insulina",
+            "para acelerar la maduración del factor surfactante pulmonar en niños con problemas respiratorios",
+            "para anular las manifestaciones de los trastornos metabólicos originados en la diabetes tipo 1",
+            "para aumentar la osteogénesis y disminuir la osteoclasia favoreciendo el depósito de calcio en los huesos",
+            "ante situaciones de estrés para contribuir a la movilización de los ácidos grasos libres quienes aportarán energía en situaciones de urgencia"
+        ],
+        "respuestaCorrecta": 4,
+        "explicacion": "Los glucocorticoides son necesarios ante situaciones de estrés para contribuir a la movilización de los ácidos grasos libres, quienes aportarán energía en situaciones de urgencia."
+    },
+    {
+        "id": "u3-p61",
+        "tipo": "multiple",
+        "enunciado": "¿Cuál de los siguientes factores diminuye la conversión de 25-hidroxicolecalciferol a 1,25-dihidroxicolecalciferol?",
+        "opciones": [
+            "Hipofosfatemia",
+            "Insuficiencia renal crónica",
+            "Alimentación baja en Ca++",
+            "Hiperparatiroidismo",
+            "Hipocalcemia"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "La conversión de 25-hidroxicolecalciferol a 1,25-dihidroxicolecalciferol (calcitriol) ocurre en el riñón mediante la enzima 1α-hidroxilasa. La insuficiencia renal crónica reduce la actividad de esta enzima y disminuye la producción de calcitriol. En cambio, la hipocalcemia, la hipofosfatemia y la PTH estimulan dicha conversión."
+    },
+    {
+        "id": "u3-p62",
+        "tipo": "multiple",
+        "enunciado": "Una de las complicaciones con mayor relevancia que surge como consecuencia de la implementación de un páncreas artificial es:",
+        "opciones": [
+            "El aumento de la presión arterial por aumento de la volemia producido por exceso de glucosa en sangre",
+            "El desarrollo de úlceras por uso excesivo del dispositivo",
+            "El tiempo en que la insulina liberada por la bomba lleva a cabo sus efectos que puede ser más lento respecto al tiempo fisiológico",
+            "La fisula de la cánula que lleva insulina hacia la circulación sanguínea del paciente",
+            "El problema de la batería del dispositivo que no soporta un uso mayor a las 14 hs"
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "Una de las principales limitaciones del páncreas artificial es el retraso entre la detección de la glucemia, la administración subcutánea de insulina y su efecto biológico. La acción de la insulina administrada por bomba es más lenta que la respuesta fisiológica del páncreas normal, lo que dificulta un control perfecto de la glucemia."
+    },
+    {
+        "id": "u3-p63",
+        "tipo": "ordenar",
+        "enunciado": "Ordene los siguientes eventos para la secreción de las hormonas tiroideas:",
+        "opciones": [
+            "El yoduro es captado via co-transportador/yodo",
+            "El yoduro es segregado via canal de la pendrina mientras que la tiroglobulina es segregada via exocitosis",
+            "El yoduro se transforma en I2 por oxidación",
+            "I2 y tiroglobulina se combinan vía yodación para formar MIT y DIT",
+            "MIT y DIT se conjugan para formar T3 y T4",
+            "El coloide es introducido a la célula que contiene hormonas de unión por endocitosis",
+            "Las vesículas se fusionan con los lisosomas donde se rompen los enlaces que sostienen a T3 y T4, por lo que estas ingresan al citosol",
+            "T3 y T4 son segregadas a la sangre"
+        ],
+        "respuestaCorrecta": [0,1,2,3,4,5,6,7],
+        "explicacion": "La síntesis de hormonas tiroideas sigue una secuencia específica: 1) El yoduro es captado por la célula tiroidea mediante un co-transportador, 2) El yoduro es segregado hacia el coloide a través del canal de la pendrina, mientras que la tiroglobulina es secretada por exocitosis, 3) El yoduro se oxida a I2, 4) I2 se combina con la tiroglobulina para formar MIT y DIT, 5) MIT y DIT se conjugan para formar T3 y T4, 6) El coloide es endocitado de nuevo a la célula, 7) Las vesículas se fusionan con lisosomas donde T3 y T4 son liberadas al citosol, 8) Finalmente, T3 y T4 son secretadas a la sangre."
+    },
+    {
+        "id": "u3-p64",
+        "tipo": "multiple",
+        "enunciado": "Utilice el siguiente gráfico, que muestra los cambios hormonales que ocurren durante el ciclo menstrual, para responder cuál de estas hormonas está representada por la curva B:",
+        "opciones": [
+            "Hormona liberadora de gonadotropinas (GnRH)",
+            "Hormona luteinizante (LH)",
+            "Hormona foliculoestimulante (FSH)",
+            "Estradiol",
+            "Progesterona"
+        ],
+        "respuestaCorrecta": 4,
+        "explicacion": "La curva B en el gráfico representa la progesterona, que se eleva después de la ovulación durante la fase lútea del ciclo menstrual. La progesterona es producida por el cuerpo lúteo y es crucial para preparar el endometrio para una posible implantación del embrión."
+    },
+    {
+        "id": "u3-p65",
+        "tipo": "verdadero_falso",
+        "enunciado": "Las hormonas esteroideas viajan unidas a proteínas en la sangre, y poseen su receptor ubicado o bien en el citoplasma o bien en el núcleo de la célula diana. Ejemplos de este tipo de hormona son: aldosterona, oxitocita y las catecolaminas",
+        "respuestaCorrecta": false,
+        "explicacion": "Falso. Las hormonas esteroideas viajan unidas a proteínas en la sangre y tienen receptores intracelulares (en el citoplasma o núcleo). Sin embargo, la oxitocina y las catecolaminas (adrenalina y noradrenalina) no son hormonas esteroideas; la oxitocina es un péptido y las catecolaminas son derivadas de aminoácidos. Ejemplos correctos de hormonas esteroideas incluyen aldosterona, cortisol, estrógenos y testosterona."
+    },
+    {
+        "id": "u3-p66",
+        "tipo": "multiple",
+        "enunciado": "Respecto del mecanismo de acción de la mayoría de las hormonas peptídicas:",
+        "opciones": [
+            "Cuando la hormona se une a su receptor en la membrana acoplado a proteína Gs se producen reacciones relacioneadas con la transducción y formación y formación de ARNm en el núcleo celular",
+            "Cuando la hormona se une a su receptor en la membrana acoplado a proteína Gi, gracias al complejo hormona-receptor se produce la inhibición de la transducción y formación de ARNm en el núcleo",
+            "Cuando la hromona se une a su receptor, este puede estar acoplado a diferentes proteínas G, quienes poseen la capacidad de producir en primera instancia GDP en GTP",
+            "La insulina, al pertenecer a este grupo de hormonas, se une a un receptor de membrana acoplado a proteína G, quien tiene la capacidad de producir GTP en GDP, y en última instancia AMPc quien es el segundo mensajero",
+            "Cuando la hormona se une a su receptor en la membrana acoplado a proteína Gq, se forma IP3 (inositol trifosfato) quien promueve liberación de Ca++ del retículo sarcoplásmico, siendo este Ca++ el segundo mensajero"
+        ],
+        "respuestaCorrecta": 4,
+        "explicacion": "Cuando una hormona peptídica se une a su receptor acoplado a proteína Gq en la membrana celular, se activa la fosfolipasa C, que convierte PIP2 en IP3 y DAG. El IP3 actúa como segundo mensajero al liberar Ca++ del retículo endoplásmico o sarcoplásmico, lo que desencadena diversas respuestas celulares, como la contracción muscular o la secreción de otras hormonas."
+    },
+    {
+        "id": "u3-p67",
+        "tipo": "multiple",
+        "enunciado": "Un hombre de 39 años de edad con diabetes tipo 1 no tratada llega al servicio de urgencias. Cabría esperar que una inyección de insulina provocará un aumento de:",
+        "opciones": [
+            "el pH sanguíneo",
+            "La concentración de glucosa en orina",
+            "La frecuencia respiratoria",
+            "La concentración sanguínea de K+",
+            "La glucemia"
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "La insulina ayuda a reducir la glucemia al facilitar la entrada de glucosa en las células y promover su almacenamiento como glucógeno. En un paciente con diabetes tipo 1 no tratada, la falta de insulina conduce a hiperglucemia y acidosis metabólica (cetoacidosis diabética). La administración de insulina corregirá la hiperglucemia y ayudará a normalizar el pH sanguíneo al reducir la producción de cuerpos cetónicos."
+    },
+    {
+        "id": "u3-p68",
+        "tipo": "multiple",
+        "enunciado": "Una mujer a la que se le extirpó la glándula tiroides debido a un cáncer recibió comprimidos que contenían solo T4. ¿Por qué esta administración constituye un tratamiento efectivo para su hipotiroidismo?",
+        "opciones": [
+            "Porque la T4 provee el iodo necesario para que se forme la T3 en las células foliculares de la glándula tiroides",
+            "Porque la T4 en los tejidos sufre una conversión a T3, la forma activa",
+            "Porque sus efectos son exactamente los mismos que T3 y no hay una forma activa",
+            "Porque mediante la proteína transportadora T4 se convierte en T3",
+            "Porque ante el hipotiroidismo, es preferible tener ciertas cantidades de T4 que ninguna hormona circulante"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "La T4 (tiroxina) es una prohormona que se convierte en T3 (triyodotironina) en los tejidos periféricos mediante la acción de la enzima 5'-desyodasa. La T3 es la forma activa de la hormona tiroidea que ejerce efectos biológicos en las células. Por lo tanto, administrar T4 es efectivo para tratar el hipotiroidismo porque el cuerpo puede convertirla en T3 según sea necesario."
+    },
+    {
+        "id": "u3-p69",
+        "tipo": "completar",
+        "enunciado": "En la figura, las células B son células de [blank1], quienes son estimuladas por [blank2] para llevar a cabo sus funciones.",
+        "imagen": {
+            "src": "data/Imagenes_ud3/espermatogenesis.png",
+            "alt": "Diagrama de mecanismo de acción de la insulina"
+        },
+        "blanks": [
+            {
+            "id": "blank1",
+            "label": "Célula",
+            "opciones": ["Leydig", "Sertoli", "Folicular"],
+            "respuestaCorrecta": 0
+            },
+            {
+            "id": "blank2",
+            "label": "Hormona",
+            "opciones": ["LH", "FSH", "Testosterona"],
+            "respuestaCorrecta": 0
+            }
+         ],
+        "explicacion": "En la figura, las células B son células de Leydig, quienes son estimuladas por la hormona luteinizante (LH) para llevar a cabo sus funciones, que incluyen la producción de testosterona, esencial para la espermatogénesis y el desarrollo de características sexuales secundarias masculinas."
+    },
+    {
+        "id": "u3-p70",
+        "tipo": "multiple",
+        "enunciado": "Observe el diagrama y responda. La fuente del aumento de la concentración que se indica en el punto C es:",
+        "imagen": {
+            "src": "data/Imagenes_ud3/ciclo-menstrual.png",
+            "alt": "Diagrama de mecanismo de acción de la insulina"
+        },
+        "opciones": [
+            "Corteza suprarrenal",
+            "Ovario",
+            "Cuerpo amarillo",
+            "Adenohipófisis",
+            "Hipotálamo"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "En el diagrama, el punto C representa un aumento en la concentración de estrógenos, que son producidos principalmente por los ovarios. Durante el ciclo menstrual, los folículos ováricos en desarrollo secretan estrógenos, lo que explica el aumento observado en el punto C."
+    },
+    {
+        "id": "u3-p71",
+        "tipo": "multiple",
+        "enunciado": "La inyección de altas dosis de estrógeno (siempre iguales) suministradas por al menos 5 días en una rata hembra castrada producirá:",
+        "opciones": [
+            "Ciclos normales con aparición en la vagina de algunas células epiteliales degeneradas de forma poligonal y cornificadas",
+            "Ciclos anovulatorios con ausencia de células epiteliales cornificadas obtenidas de la vagina",
+            "Estro permanente",
+            "Permanente diestro",
+            "Acortamiento de las fases del ciclo estral"
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "La inyección de altas dosis de estrógeno en una rata hembra castrada producirá estro permanente, ya que el estrógeno estimula el desarrollo de las características sexuales femeninas y mantiene el ciclo estral."
+    },
+    {
+        "id": "u3-p72",
+        "tipo": "completar",
+        "imagen": {
+            "src": "data/Imagenes_ud3/GH-ciclos.png",
+            "alt": "Diagrama de mecanismo de acción de la insulina"
+        },
+        "enunciado": "Observe el siguiente diagrama y responda:\nEl pico de secreción observado en A corresponde [blank 1]\nEl pico observado en B corresponde [blank 2]",
+        "blanks": [
+            {
+            "id": "blank1",
+            "label": "Pico A",
+            "opciones": ["a un ejercicio intenso", "al sueño de ondas lentas", "a la ingesta de alimentos"],
+            "respuestaCorrecta": 0
+            },
+            {
+            "id": "blank2",
+            "label": "Pico B",
+            "opciones": ["a un ejercicio intenso", "al sueño de ondas lentas", "a la ingesta de alimentos"],
+            "respuestaCorrecta": 1
+            }
+         ],
+        "explicacion": "El pico de secreción observado en A corresponde a un ejercicio intenso, ya que la hormona de crecimiento (GH) se libera en respuesta al estrés físico para promover la movilización de energía. El pico observado en B corresponde al sueño de ondas lentas, durante el cual se produce una liberación pulsátil de GH que es importante para la reparación y el crecimiento tisular."
+    },
+    {
+        "id": "u3-p73",
+        "tipo": "completar",
+        "imagen": {
+            "src": "data/Imagenes_ud3/amamantamiento.png",
+            "alt": "Diagrama de mecanismo de acción de la insulina"
+        },
+        "enunciado": "Observe la siguiente figura y responda:\nLa secuencia de eventos que se produce se ordena de la siguiente manera:\n[blank1]\nEsta hormona tiene como función [blank2]\nLa hormona 2) es [blank3]",
+        "blanks": [
+            {
+            "id": "blank1",
+            "label": "secuencia",
+            "opciones": ["C,A y luego B", "A, C y luego B", "B, A y luego C"],
+            "respuestaCorrecta": 0
+            },
+            {
+            "id": "blank2",
+            "label": "función",
+            "opciones": ["aumento en la eyección láctea por parte de las células mioepiteliales", "aumento en la producción de leche por parte de las células alveolares", "disminución de la producción de leche por parte de las células alveolares"],
+            "respuestaCorrecta": 0      
+            },
+            {
+            "id": "blank3",
+            "label": "hormona",
+            "opciones": ["prolactina", "oxitocina", "hormona de crecimiento", "LH"],
+            "respuestaCorrecta": 0
+            }
+         ],
+        "explicacion": "La secuencia de eventos que se produce durante el reflejo neuroendocrino del amamantamiento es: 1) La succión del pezón (C) es el estímulo, 2) La vía aferente sensitiva llega al hipotálamo (A), 3) Se libera oxitocina desde la neurohipófisis (B). La función de la oxitocina es aumentar la eyección láctea por parte de las células mioepiteliales que rodean los alveolos mamarios. La hormona que estimula la producción de leche por parte de las células alveolares es la prolactina, no la oxitocina."
+    },
+    {
+        "id": "u3-p74",
+        "tipo": "verdadero_falso",
+        "enunciado": "La parathormona (PTH) aumenta la remodelación ósea al estimular directamente los osteoblastos e indirectamente los osteoclastos. Sin embargo, la resorción ósea excede a la acumulación ósea, por tanto la PTH causa una resorción ósea neta.",
+        "respuestaCorrecta": true,
+        "explicacion": "Verdadero. La PTH actúa directamente sobre los osteoblastos, que a través de RANKL estimulan la formación y actividad de osteoclastos. Aunque aumenta el remodelado óseo, la resorción predomina sobre la formación, produciendo una liberación neta de calcio desde el hueso hacia la sangre."
+    },
+    {
+        "id": "u3-p75",
+        "tipo": "multiple",
+        "enunciado": "Los padres de una persona de sexo gonadal femenino de 17 años están preocupados porque la altura de su hija es de 1,20 m mientras que ellos miden cerca de 1,80 m.\n1) ¿Tendría utilidad un tratamiento hormonal?\n2) ¿Cuál/es sería la/s hormona/s indicada/s o el estudio indicado?",
+        "opciones": [
+            "1) Carece de utilidad un tratamiento hormonal debido a la edad de la persona. 2) Es necesario realizar un análisis hormonal para conocer su situación respecto a su ciclo reproductivo para evaluar el contenido de estrógenos.",
+            "Tiene utilidad un tratamiento que aporte crecimiento de huesos largos y anabolismo proteico. 2) Se puede administrar hormona de crecimiento en forma exógena, imitando las dosis fisiológicas para esa edad.",
+            "Tiene utilidad un tratamiento que aporte crecimiento general de los tejidos y aumento de la masa magra y grasa. 2) Hormonas: de crecimiento y factor similar a la insulina 1.",
+            "Carece de utilidad un tratamiento hormonal debido a que puede ser nocivo para la saludo y desarrollarse gigantismo. 2) Ninguna hormona.",
+            "Tiene utilidad un tratamiento que incremente el anabolismo proteico y la condrogénesis, así como el depósito de hueso nuevo. 2) Hormona de crecimiento, andrógenos sexuales y parathormona en dosis suprafisiológicas."
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "En una persona de 17 años debe evaluarse si el crecimiento longitudinal ya finalizó. Los estrógenos inducen el cierre de las placas epifisarias, por lo que la administración de hormona de crecimiento después de dicho cierre no aumenta la talla. Antes de indicar tratamiento hormonal es necesario estudiar el estado puberal y los niveles de estrógenos."
+    },
+    {
+        "id": "u3-p76",
+        "tipo": "verdadero_falso",
+        "enunciado": "El SRY es una proteína reguladora, la cual se une al ácido desoxirribonucleico (ADN) y se ubica cerca del brazo corto del cromosoma X humano.",
+        "respuestaCorrecta": false,
+        "explicacion": "El SRY es una proteína reguladora que se une al ADN y es codificada por un gen ubicado en el brazo corto del cromosoma Y humano. Su expresión desencadena la diferenciación de las gónadas indiferenciadas hacia testículos."
+    },
+    {
+        "id": "u3-p77",
+        "tipo": "multiple",
+        "enunciado": "Señale la opción correcta con respecto a los andrógenos suprarrenales:",
+        "opciones": [
+            "inhiben el anabolismo proteico",
+            "poseen acciones sobre todo feminizantes en la puebertad",
+            "la androestenodiona es convertida en testosterona y en estrógenos constituyendo una fuente importante de estrógenos en varones y en mujeres",
+            "la testosterona es convertida en androstenodiona lo cual constituye una fuente importante de estrógenos en varones y en mujeres premenopáusicas",
+            "inhiben el crecimiento en el período de la infancia."
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "Los andrógenos suprarrenales (DHEA, DHEA-S y androstenodiona) poseen actividad androgénica débil, pero actúan como precursores de hormonas sexuales más potentes. La androstenodiona puede convertirse tanto en testosterona como en estrógenos, constituyendo una fuente importante de estas hormonas en hombres y mujeres."
+    },
+    {
+        "id": "u3-p78",
+        "tipo": "ordenar",
+        "enunciado": "Ordene la secuencia de eventos para que la hormona de crecimiento (GH) pueda realizar sus efectos sobre las células:",
+        "opciones": [
+            "Unión de la GH con su receptor en la membrana",
+            "Fosforilación del receptor",
+            "Formación del homodímero",
+            "Unión de una proteína plasmática (STAT)",
+            "Fosforilación de la proteína STAT",
+            "Dimerización de la proteína STAT y viaje del complejo hacia el núcleo",
+            "Transducción de señales que culminarán con la formación del ARN mensajero",
+            "Expresión o síntesis de determinadas proteínas"
+        ],
+        "respuestaCorrecta": [0, 1, 2, 3, 4, 5, 6, 7],
+        "explicacion": "Se auto explica..."
+    },
+    {
+    "id": "u3-p79",
+    "tipo": "completar",
+    "enunciado": "De la siguiente lista de síntomas, señale si se presentan en un caso de Hipo o hiperfunción de la glándula tiroides:\n1- Intolerancia al calor [blank1]\n2- Lentitud muscular [blank2]\n3- Disminución del gasto cardíaco y del volumen sanguíneo [blank3]\n4- Nerviosismo y fatiga por falta de sueño [blank4]\n5- Bocio por deficiencia de Yodo [blank5]",
+    "blanks": [
+        {
+        "id": "blank1",
+        "label": "1- Intolerancia al calor",
+        "opciones": ["Hipertiroidismo", "Hipotiroidismo"],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank2",
+        "label": "2- Lentitud muscular",
+        "opciones": ["Hipertiroidismo", "Hipotiroidismo"],
+        "respuestaCorrecta": 1
+        },
+        {
+        "id": "blank3",
+        "label": "3- Disminución del gasto cardíaco y del volumen sanguíneo",
+        "opciones": ["Hipertiroidismo", "Hipotiroidismo"],
+        "respuestaCorrecta": 1
+        },
+        {
+        "id": "blank4",
+        "label": "4- Nerviosismo y fatiga por falta de sueño",
+        "opciones": ["Hipertiroidismo", "Hipotiroidismo"],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank5",
+        "label": "5- Bocio por deficiencia de Yodo",
+        "opciones": ["Hipertiroidismo", "Hipotiroidismo"],
+        "respuestaCorrecta": 1
         }
+    ],
+    "explicacion": "El hipertiroidismo se caracteriza por intolerancia al calor, nerviosismo y fatiga por falta de sueño. El hipotiroidismo presenta lentitud muscular, disminución del gasto cardíaco y del volumen sanguíneo, y bocio por deficiencia de yodo."
+    },
+    {
+    "id": "u3-p80",
+    "tipo": "multiple",
+    "enunciado": "Señale la característica correcta acerca de la Diabetes Tipo I, producida por falta de insulina:",
+    "opciones": [
+        "Produce un aumento de la volemia por poliuria",
+        "No afecta la neurotransmisión ni la señalización nerviosa",
+        "El pH sanguíneo aumenta",
+        "Se promueve la formación de glucosa",
+        "Aumentan los aminoácidos en sangre producto del anabolismo"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "En la Diabetes Tipo I (falta de insulina), se promueve la formación de glucosa (gluconeogénesis) y glucogenólisis, lo que aumenta la glucemia. También hay cetogénesis, poliuria (que disminuye la volemia), acidosis metabólica (disminuye el pH) y catabolismo proteico (disminuyen los aminoácidos en sangre)."
+    },
+    {
+    "id": "u3-p81",
+    "tipo": "multiple",
+    "enunciado": "Una persona manifiesta los siguientes niveles de actividad del eje Hipotálamo-Hipófiso-Adrenal (HHA). Según sus conocimientos, indique: ¿dónde podría encontrarse el defecto o la patología?",
+    "imagen": {
+        "url": "data/Imagenes_ud3/eje-hha.png",
+        "alt": "Diagrama del eje Hipotálamo-Hipófiso-Adrenal con niveles de CRH, ACTH y Cortisol"
+    },
+    "opciones": [
+        "El defecto estaría en que el hipotálamo no responde a los elevados niveles de cortisol",
+        "El defecto se debe a una falta de retroalimentación negativa en el eje",
+        "El defecto se encuentra en la adenohipófisis, mediante los bajos niveles de ACTH",
+        "El defecto estaría en la glándula suprarrenal que produce una alta secreción de cortisol, aún cuando la ACTH está disminuida",
+        "Hay un tumor en el hipotálamo hipersecretor"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Si la ACTH está disminuida pero el cortisol está elevado, el defecto está en la glándula suprarrenal (que produce cortisol de forma autónoma). Normalmente, el cortisol elevado inhibiría la secreción de CRH y ACTH por retroalimentación negativa, pero la suprarrenal continúa produciendo cortisol independientemente de la ACTH."
+    },
+    {
+    "id": "u3-p82",
+    "tipo": "multiple",
+    "enunciado": "Señale cuáles corresponden a los principales efectos de los andrógenos:",
+    "opciones": [
+        "Absorción de Na+ y excreción de K+ en túbulo distal y colector, aumento del líquido extracelular",
+        "Efectos principalmente anabólicos sobre músculo y hueso, cierre de epífisis óseas, aumento de secreción de GH, inhibición de la secreción de LH",
+        "Efectos principalmente catabólicos sobre músculo y hueso, disminución de secreción de GH, aumento de la secreción de LH",
+        "Disminución de la utilización de glucosa, reducción de la síntesis de proteínas estructurales",
+        "Aumenta el número, tamaño y actividad de mitocondrias, termogénesis, aumento del metabolismo"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Los andrógenos (como la testosterona) tienen efectos anabólicos: aumentan la masa muscular, estimulan el crecimiento óseo (hasta el cierre de epífisis), aumentan la secreción de GH y ejercen retroalimentación negativa sobre el eje, inhibiendo la secreción de LH."
+    },
+    {
+    "id": "u3-p83",
+    "tipo": "multiple",
+    "enunciado": "El crecimiento es un proceso complejo en el que participan diferentes hormonas, regulando los picos y velocidades. Analice el siguiente gráfico y señale ¿qué podría concluir al respecto?",
+    "imagen": {
+        "url": "data/Imagenes_ud3/crecimiento-pubertad.png",
+        "alt": "Gráfico de picos de crecimiento de 0 años a pubertad en niñas y niños"
+    },
+    "opciones": [
+        "La alta velocidad de crecimiento entre los 0-2 años y en la infancia temprana se debe a los esteroides sexuales que estimulan a la hormona de crecimiento o GH",
+        "Las diferencias temporales en el pico de crecimiento de niños y niñas se debe a que la pubertad comienza antes en los niños",
+        "La velocidad de crecimiento es máxima durante la pubertad, por el aumento de los esteroides sexuales",
+        "Las diferencias temporales en el pico de crecimiento puberal de niños y niñas se debe a que la pubertad comienza antes en las niñas",
+        "La velocidad de crecimiento alcanza sus valores máximos durante los primeros años de vida, pero se mantiene constante en niños y niñas durante la pubertad ya que los esteroides sexuales tiene poco efecto sobre el crecimiento"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La pubertad comienza antes en las niñas que en los niños, lo que explica por qué el pico de crecimiento puberal ocurre antes en las niñas. Durante la pubertad, los esteroides sexuales (estrógenos y testosterona) estimulan la secreción de GH y contribuyen al aumento de la velocidad de crecimiento, pero las diferencias temporales se deben al inicio más temprano de la pubertad en las niñas."
+    },
+    {
+    "id": "u3-p84",
+    "tipo": "completar",
+    "enunciado": "Lea el siguiente párrafo y seleccione entre las opciones las palabras adecuadas para completarlo:\nAl final de la gestación, se segregan unas cantidades especialmente grandes de [blank1], que provocan las contracciones del parto para expulsar al bebé. Más tarde, la succión del pezón materno por el bebé, una señal refleja provocará la liberación de esta hormona desde la [blank2], en este caso para [blank3] los conductos mamarios para la [blank4] de leche y la alimentación del bebé.",
+    "blanks": [
+        {
+        "id": "blank1",
+        "label": "Hormona",
+        "opciones": ["Oxitocina", "Prolactina", "Vasopresina"],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank2",
+        "label": "Glándula",
+        "opciones": ["Neurohipófisis", "Adenohipófisis", "Tiroides"],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank3",
+        "label": "Acción 1",
+        "opciones": ["contraer", "dilatar", "relajar"],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank4",
+        "label": "Acción 2",
+        "opciones": ["eyección", "producción", "inhibición"],
+        "respuestaCorrecta": 0
+        }
+    ],
+    "explicacion": "La oxitocina es la hormona responsable de las contracciones uterinas durante el parto y de la eyección de leche durante la lactancia. Se libera desde la neurohipófisis y actúa sobre el músculo liso de los conductos mamarios para contraerlos y expulsar la leche."
+    },
+    {
+    "id": "u3-p85",
+    "tipo": "multiple",
+    "enunciado": "En referencia a los efectos fisiológicos de los estrógenos, señale la opción correcta:",
+    "opciones": [
+        "Producen el aumento del espesor del miometrio durante la fase folicular",
+        "Provocan el cierre de las epífisis óseas, inhibiendo el crecimiento longitudinal de los huesos largos",
+        "Son termógenos, por lo que la temperatura corporal de la mujer aumenta alrededor de un grado durante la fase folicular",
+        "Tienen efectos en muchos tejidos corporales a excepción del tejido nervioso, ya que no cuenta con receptores para estrógeno",
+        "Utilizan principalmente receptores de membrana acoplados a Proteína G"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Los estrógenos provocan el cierre de las epífisis óseas (placas de crecimiento), lo que detiene el crecimiento longitudinal de los huesos largos. También estimulan el crecimiento del endometrio durante la fase proliferativa y tienen efectos en el sistema nervioso (existen receptores de estrógeno en el cerebro)."
+    },
+    {
+    "id": "u3-p86",
+    "tipo": "multiple",
+    "enunciado": "Durante la fase proliferativa del ciclo sexual femenino, el endometrio es estimulado por:",
+    "opciones": [
+        "Progesterona",
+        "LH",
+        "T3 y T4",
+        "GnRH",
+        "Estrógenos"
+    ],
+    "respuestaCorrecta": 4,
+    "explicacion": "Durante la fase proliferativa (folicular) del ciclo menstrual, los estrógenos producidos por los folículos ováricos en desarrollo estimulan la proliferación del endometrio, preparándolo para una posible implantación."
+    },
+    {
+    "id": "u3-p87",
+    "tipo": "completar",
+    "enunciado": "Indique si los siguientes conceptos son verdaderos o falsos:\nLas hormonas hipotalámicas (u hormonas hipofisotrópicas) que controlan la secreción de las hormonas de la adenohipófisis lo hacen a través del sistema porta hipofisario. [blank1]\nLa función de la adenohipófisis es controlada únicamente por las hormonas hipotalámicas hipofisotrópicas. [blank2]\nLa liberación de hormonas de la neurohipófisis es inducida por la acción de hormonas hipofisotrópicas. [blank3]\nLas neuronas de los núcleos supraópticos y paraventricular del hipotálamo sintetizan dos neuropéptidos, vasopresina y oxitocina, las cuales actúan como hormonas al ser liberados a la sangre desde la neurohipófisis y como neurotransmisores dentro de circuitos del sistema nervioso central. [blank4]",
+    "blanks": [
+        {
+        "id": "blank1",
+        "label": "Sistema porta hipofisario",
+        "opciones": ["Verdadero", "Falso"],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank2",
+        "label": "Control de la adenohipófisis",
+        "opciones": ["Verdadero", "Falso"],
+        "respuestaCorrecta": 1
+        },
+        {
+        "id": "blank3",
+        "label": "Liberación neurohipófisis",
+        "opciones": ["Verdadero", "Falso"],
+        "respuestaCorrecta": 1
+        },
+        {
+        "id": "blank4",
+        "label": "Núcleos supraópticos y paraventricular",
+        "opciones": ["Verdadero", "Falso"],
+        "respuestaCorrecta": 0
+        }
+    ],
+    "explicacion": "Las hormonas hipotalámicas llegan a la adenohipófisis a través del sistema porta hipofisario (Verdadero). La adenohipófisis también recibe influencia de retroalimentación de las hormonas glandulares, no solo de hormonas hipotalámicas (Falso). La neurohipófisis libera hormonas en respuesta a potenciales de acción de neuronas hipotalámicas, no por hormonas hipofisotrópicas (Falso). Los núcleos supraópticos y paraventricular sintetizan vasopresina y oxitocina, que actúan como hormonas y neurotransmisores (Verdadero)."
+    },
+    {
+    "id": "u3-p88",
+    "tipo": "completar",
+    "enunciado": "Complete el siguiente enunciado referido al control hormonal de la calcemia:\nUna Hipercalcemia desencadenará la liberación de [blank1] a partir de la glándula [blank2]",
+    "blanks": [
+        {
+        "id": "blank1",
+        "label": "Hormona",
+        "opciones": ["Calcitonina", "PTH", "Calcitriol"],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank2",
+        "label": "Glándula",
+        "opciones": ["Tiroides", "Paratiroides", "Suprarrenal"],
+        "respuestaCorrecta": 0
+        }
+    ],
+    "explicacion": "Ante una hipercalcemia (aumento del calcio plasmático), se estimula la liberación de calcitonina desde las células C de la glándula tiroides. La calcitonina reduce el calcio plasmático al inhibir la resorción ósea y aumentar la excreción renal de calcio. La glándula paratiroides produce PTH (que aumenta el calcio), por lo que no corresponde en este caso."
+    },
+    {
+    "id": "u3-p89",
+    "tipo": "completar",
+    "enunciado": "Mencione cuáles de las siguientes hormonas son secretadas por cada lóbulo hipofisario:\n1- ACTH [blank1]\n2- Oxitocina [blank2]\n3- ADH Vasopresina [blank3]\n4- FSH [blank4]\n5- TSH [blank5]",
+    "blanks": [
+        {
+        "id": "blank1",
+        "label": "1- ACTH",
+        "opciones": ["Adenohipófisis", "Neurohipófisis"],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank2",
+        "label": "2- Oxitocina",
+        "opciones": ["Adenohipófisis", "Neurohipófisis"],
+        "respuestaCorrecta": 1
+        },
+        {
+        "id": "blank3",
+        "label": "3- ADH Vasopresina",
+        "opciones": ["Adenohipófisis", "Neurohipófisis"],
+        "respuestaCorrecta": 1
+        },
+        {
+        "id": "blank4",
+        "label": "4- FSH",
+        "opciones": ["Adenohipófisis", "Neurohipófisis"],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank5",
+        "label": "5- TSH",
+        "opciones": ["Adenohipófisis", "Neurohipófisis"],
+        "respuestaCorrecta": 0
+        }
+    ],
+    "explicacion": "La adenohipófisis secreta hormonas trópicas: ACTH, FSH, TSH, GH, PRL, LH, MSH. La neurohipófisis almacena y libera oxitocina y vasopresina (ADH), que son sintetizadas en el hipotálamo."
+    },
+    {
+    "id": "u3-p90",
+    "tipo": "completar",
+    "enunciado": "Las hormonas poseen diferentes mecanismos de acción, según la naturaleza química que presentan y el tipo de comunicación por la cuál ejercen su acción. Emparejar las siguientes características con los ejemplos de las hormonas que correspondan:\nSe liberan en respuesta a estímulos nerviosos [blank1]\nSe liberan por control regulatorio en un eje de retroalimentación Hipotálamo-Hipofiso-Glandular [blank2]\nSe liberan en respuesta a niveles de concentración plasmática de glucosa [blank3]",
+    "blanks": [
+        {
+        "id": "blank1",
+        "label": "Estímulos nerviosos",
+        "opciones": ["Hormonas de la Médula Suprarrenal", "Hormonas de la Tiroides", "Hormonas del Páncreas endocrino", "Hormonas de la corteza suprarrenal"],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank2",
+        "label": "Eje Hipotálamo-Hipofiso-Glandular",
+        "opciones": ["Hormonas de la Médula Suprarrenal", "Hormonas de la Tiroides", "Hormonas del Páncreas endocrino", "Hormonas de la corteza suprarrenal"],
+        "respuestaCorrecta": 1
+        },
+        {
+        "id": "blank3",
+        "label": "Concentración plasmática de glucosa",
+        "opciones": ["Hormonas de la Médula Suprarrenal", "Hormonas de la Tiroides", "Hormonas del Páncreas endocrino", "Hormonas de la corteza suprarrenal"],
+        "respuestaCorrecta": 2
+        }
+    ],
+    "explicacion": "Las hormonas de la médula suprarrenal (catecolaminas) se liberan en respuesta a estímulos nerviosos simpáticos. Las hormonas tiroideas se regulan por el eje Hipotálamo-Hipófisis-Tiroides (retroalimentación negativa). Las hormonas pancreáticas (insulina y glucagón) se liberan en respuesta a cambios en la glucosa plasmática."
+    },
+    {
+    "id": "u3-p91",
+    "tipo": "completar",
+    "enunciado": "Indica a qué tipo de hormona, según su naturaleza química, hace referencia cada característica listada a continuación:\nNo se almacenan y se transportan unidas a proteínas de transporte en el plasma [blank1]\nSintetizadas a partir de la tirosina, pero se empaquetan e interactúan con receptores de membrana [blank2]\nSe empaquetan en vesículas, ej; todas las hormonas sintetizadas en la adenohipófisis [blank3]\nSus receptores se encuentran en el núcleo [blank4]",
+    "blanks": [
+        {
+        "id": "blank1",
+        "label": "No se almacenan",
+        "opciones": ["Hormonas esteroideas", "Hormonas amínicas: Hormonas tiroideas", "Hormonas amínicas: Catecolaminas", "Hormonas peptídicas"],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank2",
+        "label": "Sintetizadas a partir de tirosina",
+        "opciones": ["Hormonas esteroideas", "Hormonas amínicas: Hormonas tiroideas", "Hormonas amínicas: Catecolaminas", "Hormonas peptídicas"],
+        "respuestaCorrecta": 2
+        },
+        {
+        "id": "blank3",
+        "label": "Empaquetadas en vesículas",
+        "opciones": ["Hormonas esteroideas", "Hormonas amínicas: Hormonas tiroideas", "Hormonas amínicas: Catecolaminas", "Hormonas peptídicas"],
+        "respuestaCorrecta": 3
+        },
+        {
+        "id": "blank4",
+        "label": "Receptores en el núcleo",
+        "opciones": ["Hormonas esteroideas", "Hormonas amínicas: Hormonas tiroideas", "Hormonas amínicas: Catecolaminas", "Hormonas peptídicas"],
+        "respuestaCorrecta": 1
+        }
+    ],
+    "explicacion": "Las hormonas esteroideas no se almacenan y viajan unidas a proteínas transportadoras. Las catecolaminas (adrenalina, noradrenalina) se sintetizan a partir de tirosina, se empaquetan en vesículas y actúan sobre receptores de membrana. Las hormonas peptídicas (como las de la adenohipófisis) se empaquetan en vesículas. Las hormonas tiroideas (T3 y T4) son amínicas derivadas de tirosina pero actúan a nivel nuclear (receptores en el núcleo)."
+    },
+    {
+    "id": "u3-p92",
+    "tipo": "completar",
+    "enunciado": "Observe el diagrama y luego responda:\nUna lesión a nivel hipotalámico generará que las hormonas hipofisarias y glandulares se encuentren [blank1]\nSi la retroalimentación del sistema es negativa, una lesión a nivel de la glándula producirá que las hormonas de la hipófisis y el hipotálamo se encuentren [blank2]\nSi la secreción hipofisaria se encuentra anormalmente elevada, las hormonas de la glándula se encontrarán [blank3], y en el Hipotálamo se encontrarán [blank4]",
+    "imagen": {
+        "url": "data/Imagenes_ud3/eje-retroalimentacion.png",
+        "alt": "Diagrama del eje Hipotálamo-Hipófisis-Glándula mostrando la retroalimentación negativa"
+    },
+    "blanks": [
+        {
+        "id": "blank1",
+        "label": "Lesión hipotalámica",
+        "opciones": ["Aumentadas", "Disminuidas"],
+        "respuestaCorrecta": 1
+        },
+        {
+        "id": "blank2",
+        "label": "Lesión glandular",
+        "opciones": ["Aumentadas", "Disminuidas"],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank3",
+        "label": "Secreción hipofisaria elevada",
+        "opciones": ["Aumentadas", "Disminuidas"],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank4",
+        "label": "Hipotálamo",
+        "opciones": ["Aumentadas", "Disminuidas"],
+        "respuestaCorrecta": 1
+        }
+    ],
+    "explicacion": "Una lesión hipotalámica reduce la producción de hormonas hipofisarias y glandulares (disminuidas). En la retroalimentación negativa, una lesión glandular (que reduce hormonas periféricas) aumenta la secreción de hipófisis e hipotálamo (aumentadas). Si la secreción hipofisaria está elevada, las hormonas glandulares aumentan y por retroalimentación negativa, el hipotálamo disminuye su secreción."
+    },
+    {
+    "id": "u3-p93",
+    "tipo": "multiple",
+    "enunciado": "Señale la opción correcta respecto a los Métodos Anticonceptivos Hormonales:",
+    "opciones": [
+        "Producen un aumento en la FSH y LH hipofisarias.",
+        "Impiden el sangrado menstrual.",
+        "La administración continua de dosis bajas o moderadas de estrógenos y/o progestágenos inhiben al eje H-H-ovárico y por lo tanto no se produce la ovulación.",
+        "Se basan en antagonistas o inhibidores de estrógenos impidiendo la maduración y ruptura de folículos con el consiguiente impedimento de la liberación del óvulo.",
+        "Se utilizan inhibidores de la hormona liberadora GHRH que se toman diariamente en dosis continuas durante 24 días, ya que 4 se consideran de descanso para promover la menstruación."
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Los métodos anticonceptivos hormonales (pastillas, parches, anillos) contienen estrógenos y/o progestágenos que ejercen retroalimentación negativa sobre el eje Hipotálamo-Hipófisis-Ovario, inhibiendo la secreción de FSH y LH, lo que impide la ovulación. No producen aumento de FSH/LH, no impiden el sangrado menstrual (suelen tener sangrado por deprivación), no son inhibidores de estrógenos y no usan GHRH (que es para hormona de crecimiento)."
+    },
+    {
+    "id": "u3-p94",
+    "tipo": "ordenar",
+    "enunciado": "Según su conocimiento acerca de los mecanismos de retroalimentación para el control hormonal, ordene los pasos del reflejo neuroendocrino de amamantamiento:",
+    "opciones": [
+        "La succión del pezón materno por el bebé es el estímulo",
+        "La vía aferente sensitiva llega al Hipotálamo",
+        "Se libera oxitocina desde la Neurohipófisis",
+        "Por la sangre, llega al músculo liso de los conductillos mamarios y produce la eyección de la leche materna",
+        "Continúa el reflejo de succión y la liberación de oxitocina: más estímulo y oxitocina, mayor eyección de leche por la glándula mamaria"
+    ],
+    "respuestaCorrecta": [0, 1, 2, 3, 4],
+    "explicacion": "El reflejo neuroendocrino del amamantamiento sigue este orden: 1) La succión del pezón es el estímulo inicial, 2) La vía aferente sensitiva llega al hipotálamo, 3) Se libera oxitocina desde la neurohipófisis, 4) La oxitocina viaja por sangre al músculo liso mamario produciendo la eyección de leche, 5) El reflejo se mantiene por retroalimentación positiva (más succión → más oxitocina → más eyección)."
+    },
+    {
+    "id": "u3-p95",
+    "tipo": "completar",
+    "enunciado": "¿Qué hormonas realizan las siguientes acciones?\n1- Se encargan de la caracterización secundaria sexual, como el vello corporal [blank1]\n2- Promueven la síntesis de leche materna [blank2]\n3- Estimulan el crecimiento óseo [blank3]\n4- Aumentan el metabolismo [blank4]\n5- Promueven la gametogénesis [blank5]\n6- Son Hipoglucemiantes [blank6]",
+    "blanks": [
+        {
+        "id": "blank1",
+        "label": "1- Caracterización sexual secundaria",
+        "opciones": ["Esteroides sexuales", "Prolactina", "Hormona de Crecimiento GH", "Hormonas tiroideas T3 y T4", "FSH y LH", "Insulina"],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank2",
+        "label": "2- Síntesis de leche materna",
+        "opciones": ["Esteroides sexuales", "Prolactina", "Hormona de Crecimiento GH", "Hormonas tiroideas T3 y T4", "FSH y LH", "Insulina"],
+        "respuestaCorrecta": 1
+        },
+        {
+        "id": "blank3",
+        "label": "3- Crecimiento óseo",
+        "opciones": ["Esteroides sexuales", "Prolactina", "Hormona de Crecimiento GH", "Hormonas tiroideas T3 y T4", "FSH y LH", "Insulina"],
+        "respuestaCorrecta": 2
+        },
+        {
+        "id": "blank4",
+        "label": "4- Aumento del metabolismo",
+        "opciones": ["Esteroides sexuales", "Prolactina", "Hormona de Crecimiento GH", "Hormonas tiroideas T3 y T4", "FSH y LH", "Insulina"],
+        "respuestaCorrecta": 3
+        },
+        {
+        "id": "blank5",
+        "label": "5- Gametogénesis",
+        "opciones": ["Esteroides sexuales", "Prolactina", "Hormona de Crecimiento GH", "Hormonas tiroideas T3 y T4", "FSH y LH", "Insulina"],
+        "respuestaCorrecta": 4
+        },
+        {
+        "id": "blank6",
+        "label": "6- Hipoglucemiantes",
+        "opciones": ["Esteroides sexuales", "Prolactina", "Hormona de Crecimiento GH", "Hormonas tiroideas T3 y T4", "FSH y LH", "Insulina"],
+        "respuestaCorrecta": 5
+        }
+    ],
+    "explicacion": "Los esteroides sexuales (testosterona, estrógenos) son responsables de las características sexuales secundarias. La prolactina estimula la síntesis de leche. La GH estimula el crecimiento óseo. Las hormonas tiroideas aumentan el metabolismo. FSH y LH promueven la gametogénesis. La insulina es hipoglucemiante (disminuye la glucosa en sangre)."
+    },
+    {
+    "id": "u3-p96",
+    "tipo": "completar",
+    "enunciado": "¿Qué efectos tiene la Vitamina D3 activa sobre los órganos mostrados en la figura (hueso, intestino, riñón y paratiroides) y qué sucede con las concentraciones de Ca++ como resultado?\n1-Hueso [blank1]\n2- Intestino [blank2]\n3- Riñón [blank3]\n4- Paratiroides [blank4]\n5- Calcemia general (niveles de Calcio en sangre) [blank5]",
+    "imagen": {
+        "url": "data/Imagenes_ud3/vitamina-d3-efectos.png",
+        "alt": "Diagrama de los efectos de la vitamina D3 activa sobre hueso, intestino, riñón y paratiroides"
+    },
+    "blanks": [
+        {
+        "id": "blank1",
+        "label": "1-Hueso",
+        "opciones": [
+            "Aumenta resorción ósea y liberación de Calcio a la sangre",
+            "Disminuye la resorción ósea y retención de Calcio en el hueso",
+            "Aumenta la retención de calcio en el hueso y disminuye la calcemia"
+        ],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank2",
+        "label": "2- Intestino",
+        "opciones": [
+            "Aumenta la absorción intestinal de Calcio",
+            "Disminuye la absorción intestinal de Calcio",
+            "No tiene efecto sobre la absorción intestinal de Calcio"
+        ],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank3",
+        "label": "3- Riñón",
+        "opciones": [
+            "Aumenta la reabsorción renal de Calcio",
+            "Disminuye la reabsorción renal de Calcio",
+            "No tiene efecto sobre la reabsorción renal de Calcio"
+        ],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank4",
+        "label": "4- Paratiroides",
+        "opciones": [
+            "Inhibe la secreción de PTH por retroalimentación negativa",
+            "Estimula la secreción de PTH por retroalimentación positiva",
+            "No tiene efecto sobre la secreción de PTH"
+        ],
+        "respuestaCorrecta": 0
+        },
+        {
+        "id": "blank5",
+        "label": "5- Calcemia general",
+        "opciones": [
+            "Aumenta la calcemia",
+            "Disminuye la calcemia",
+            "No tiene efecto sobre la calcemia"
+        ],
+        "respuestaCorrecta": 0
+        }
+    ],
+    "explicacion": "La vitamina D3 activa (calcitriol, 1,25-(OH)₂D₃) tiene efectos coordinados para aumentar la calcemia: 1) En el hueso: aumenta la resorción ósea liberando calcio a la sangre. 2) En el intestino: aumenta la absorción de calcio. 3) En el riñón: aumenta la reabsorción renal de calcio. 4) En la paratiroides: inhibe la secreción de PTH por retroalimentación negativa. 5) Resultado final: aumenta la calcemia."
+    }
     ]
 }
