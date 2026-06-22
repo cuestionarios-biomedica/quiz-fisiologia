@@ -935,7 +935,7 @@
         "enunciado": "En la figura, las células B son células de [blank1], quienes son estimuladas por [blank2] para llevar a cabo sus funciones.",
         "imagen": {
             "src": "data/Imagenes_ud3/espermatogenesis.png",
-            "alt": "Diagrama de mecanismo de acción de la insulina"
+            "alt": "Diagrama de celulas de Leydig y Sertoli en la espermatogénesis"
         },
         "blanks": [
             {
@@ -959,7 +959,7 @@
         "enunciado": "Observe el diagrama y responda. La fuente del aumento de la concentración que se indica en el punto C es:",
         "imagen": {
             "src": "data/Imagenes_ud3/ciclo-menstrual.png",
-            "alt": "Diagrama de mecanismo de acción de la insulina"
+            "alt": "Grafico niveles de hormonas en ciclo menstrual"
         },
         "opciones": [
             "Corteza suprarrenal",
@@ -990,7 +990,7 @@
         "tipo": "completar",
         "imagen": {
             "src": "data/Imagenes_ud3/GH-ciclos.png",
-            "alt": "Diagrama de mecanismo de acción de la insulina"
+            "alt": "Ritmo de secreción de la GH"
         },
         "enunciado": "Observe el siguiente diagrama y responda:\nEl pico de secreción observado en A corresponde [blank 1]\nEl pico observado en B corresponde [blank 2]",
         "blanks": [
@@ -1014,7 +1014,7 @@
         "tipo": "completar",
         "imagen": {
             "src": "data/Imagenes_ud3/amamantamiento.png",
-            "alt": "Diagrama de mecanismo de acción de la insulina"
+            "alt": "Diagrama de amamantamiento"
         },
         "enunciado": "Observe la siguiente figura y responda:\nLa secuencia de eventos que se produce se ordena de la siguiente manera:\n[blank1]\nEsta hormona tiene como función [blank2]\nLa hormona 2) es [blank3]",
         "blanks": [
