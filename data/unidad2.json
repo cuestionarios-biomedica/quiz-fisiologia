@@ -835,6 +835,204 @@
       ],
       "respuestaCorrecta": [1, 2, 5],
       "explicacion": "La curva de afinidad de la hemoglobina al O2 se desplaza hacia la derecha (lo que indica una menor afinidad por el O2) en condiciones de acidificación (aumento de CO2), aumento de temperatura y disminución de pH. Esto facilita la liberación de O2 a los tejidos. La hemoglobina fetal tiene una mayor afinidad por el O2, por lo que su curva se desplaza hacia la izquierda. La baja disponibilidad de O2 también puede afectar la afinidad, pero no es un factor directo que modifique la curva."
+    },
+    {
+        "id": "u2-p68",
+        "tipo": "multiple",
+        "enunciado": "Según los datos de clearance o depuración de agua libre, qué individuo produce un mayor volumen de orina?",
+        "opciones": [
+            "Individuo A: Clearance Osmolar: 2,33 ml/min. Clearance Agua Libre: -1,5 ml/min",
+            "Individuo A: Clearance Osmolar: 2,33 ml/min. Clearance Agua Libre: +15 ml/min"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "El clearance de agua libre indica la cantidad de agua que es eliminada por los riñones por minuto. Un valor positivo significa que se está eliminando más agua de la que se está reabsorbiendo, lo que resulta en un mayor volumen de orina. En este caso, el individuo A con un clearance de agua libre de +15 ml/min produce más orina que el individuo con un clearance negativo."
+    },
+    {
+        "id": "u2-p69",
+        "tipo": "completar",
+        "enunciado": "Indicar si los siguientes enunciados son V o F:\nA- El aumento de la PCO2 se puede deber a la falta de O2 para satisfacer las demandas de los tejidos por la acidosis metabólica. [blank1]\nB- La ventilación no se modifica frente a cambios en el equilibrio ácido-base. [blank2]\nC- La alcalosis respiratoria produce un aumento de la PCO2 por disminución de la ventilación. [blank3]\nD- La ventilación se controla voluntariamente independientemente de la PO2. [blank4]\nE- El pH ácido indica que la PO2 es alta. [blank5]",
+        "blanks": [
+            {
+                "id": "blank1",
+                "label": "Aumento de PCO2",
+                "opciones": ["VERDADERO", "FALSO"],
+                "respuestaCorrecta": 0
+            },
+            {
+                "id": "blank2",
+                "label": "Ventilación frente a cambios ácido-base",
+                "opciones": ["VERDADERO", "FALSO"],
+                "respuestaCorrecta": 1
+            },
+            {
+                "id": "blank3",
+                "label": "Alcalosis respiratoria y PCO2",
+                "opciones": ["VERDADERO", "FALSO"],
+                "respuestaCorrecta": 1
+            },
+            {
+                "id": "blank4",
+                "label": "Control voluntario de la ventilación",
+                "opciones": ["VERDADERO", "FALSO"],
+                "respuestaCorrecta": 1
+            },
+            {
+                "id": "blank5",
+                "label": "pH ácido y PO2 alta",
+                "opciones": ["VERDADERO", "FALSO"],
+                "respuestaCorrecta": 1
+            }
+
+        ],
+        "explicacion": "A: Verdadero. La hipoxia tisular puede asociarse a acidosis metabólica. B: Falso. La ventilación cambia ante alteraciones del equilibrio ácido-base para regular el pH mediante la eliminación o retención de CO₂. C: Falso. La alcalosis respiratoria se produce por hiperventilación y disminución de la PCO₂. D: Falso. La ventilación posee control voluntario, pero también está regulada por quimiorreceptores sensibles a PO₂, PCO₂ y pH. E: Falso. Un pH ácido no indica una PO₂ elevada; suele asociarse a aumento de CO₂ o de ácidos metabólicos. \n NOTA: En la captura que tengo dice que la C es verdadera, pero es claramente falsa porque si hay disminución de la ventilación entonces se elimina menos CO2 y disminuye la PCO2, no la aumenta (además un aumento baja el pH y produce acidosis, no alcalosis). "
+    },
+    {
+        "id": "u2-p70",
+        "tipo": "multiple",
+        "enunciado": "Marcar la opción correcta respecto al control de la presión arterial:",
+        "opciones": [
+            "La presión arterial está directamente relacionada con el gasto cardíaco e inversamente relacionada con la resistencia periférica.",
+            "En los barorreceptores ubicados en el cayado aórtico y en el seno carotídeo comienzan las vías aferentes que llegan alos centros mesencefálicos que controlan la presión arterial.",
+            "Las arterias constituyen los vasos de capacitancia ya que su gruesa pared les permite actuar como un reservorio de sangre.",
+            "La producción excesiva de eritrocitos por la médula ósea que ocurre en la policitemia (un tipo de cáncer sanguíneo), puede llevar a un aumento de la presión arterial.",
+            "El control local rápido de la presión arterial la ejercen lso riñones mediante la osmorregulación."
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "La producción excesiva de eritrocitos, como ocurre en la policitemia, aumenta la viscosidad de la sangre. Esto puede dificultar el flujo sanguíneo y aumentar la resistencia vascular, lo que a su vez puede llevar a un aumento de la presión arterial. Las otras opciones contienen errores conceptuales: la presión arterial está directamente relacionada con el gasto cardíaco y la resistencia periférica (no inversamente), los barorreceptores envían señales a centros del bulbo raquídeo, las arterias son vasos de resistencia y no de capacitancia, y el control local rápido de la presión arterial no es ejercido por los riñones mediante osmorregulación sino por mecanismos locales como la autorregulación vascular."
+    },
+    {
+        "id": "u2-p71",
+        "tipo": "multiple",
+        "enunciado": "Señale cuál de los siguientes efectos NO es desencadenado por el sistema Renina-Angiotensina-Aldosterona:",
+        "opciones": [
+            "Inserción de canales de potasio para la regulación de la potasemia",
+            "Aumento de la actividad simpática y la sed",
+            "Aumento de la constricción arteriolar par modificar la tasa de filtrado glomerular",
+            "Aumento de la presión arterial",
+            "Absorción obligatoria de sales y agua"
+        ],
+        "respuestaCorrecta": 4,
+        "explicacion": "El sistema renina-angiotensina-aldosterona aumenta la presión arterial mediante vasoconstricción (angiotensina II), aumento de la actividad simpática, estimulación de la sed y aumento de la reabsorción renal de sodio. La reabsorción obligatoria de agua ocurre principalmente en el túbulo proximal y no constituye un efecto desencadenado por el SRAA."
+    },
+    {
+        "id": "u2-p72",
+        "tipo": "multiple",
+        "enunciado": "El agua de mar posee una osmolaridad elevada. Según sus conocimientos, ¿se puede beber agua de mar para evitar la deshidratación?",
+        "opciones": [
+            "Nunca, ya que se producen depósitos de sales y calcificaciones",
+            "Si, ya que el sistema Renina-Angiotensina-Aldosterona regula la ósmosis de manera eficiente",
+            "Nunca, ya que el mecanismo de depuración osmolar requiere excretar grandes volúmenes de orina deshidratando aún más al organismo",
+            "En ciertas situaciones, beber volúmenes altos de agua de mar permite realizar un clearance osmolar positivo",
+            "Si, ya que la nefrona puede excretar sales y recuperar el agua evitando la deshidratación"
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "Beber agua de mar no es recomendable para evitar la deshidratación debido a su alta osmolaridad. El cuerpo necesita excretar el exceso de sal ingerido, lo que requiere producir grandes volúmenes de orina. Esto puede llevar a una mayor pérdida de agua y empeorar la deshidratación. El sistema Renina-Angiotensina-Aldosterona y la nefrona no pueden compensar adecuadamente la ingesta excesiva de sal del agua de mar, por lo que no es una solución viable para mantener la hidratación."
+    },
+    {
+        "id": "u2-p73",
+        "tipo": "multiple",
+        "enunciado": "Durante la formación de orina en la nefrona",
+        "opciones": [
+            "Las acuaporinas permiten la absorción de agua en toda la nefrona",
+            "Un aumento en la presión de la arteriola aferente produce menor tasa de filtrado glomerular",
+            "Se reabsorbe una parte significativa de glucosa de manera facultativa",
+            "Los iones Na+ y Cl- se reabsorben de manera obligada en el túbulo contorneado distal",
+            "El mecanismo de contracorriente permite el mantenimiento de gradientes osmóticos para la concentración de la orina"
+        ],
+        "respuestaCorrecta": 4,
+        "explicacion": "El mecanismo de contracorriente en la nefrona, especialmente en el asa de Henle, permite mantener un gradiente osmótico en la médula renal. Este gradiente es crucial para la concentración de la orina, ya que facilita la reabsorción de agua en los túbulos colectores bajo la influencia de la hormona antidiurética (ADH). Las acuaporinas no están presentes en toda la nefrona, sino principalmente en los túbulos colectores y el túbulo contorneado proximal. La reabsorción de glucosa es generalmente completa y no facultativa, y los iones Na+ y Cl- se reabsorben de manera obligada en el túbulo contorneado proximal y en otras partes de la nefrona, pero no exclusivamente en el túbulo contorneado distal. Un aumento en la presión de la arteriola aferente generalmente aumenta la tasa de filtrado glomerular, no la disminuye."
+    },
+    {
+        "id": "u2-p74",
+        "tipo": "multiple",
+        "enunciado": "Analizar el siguiente esquema y seleccionar la opción correcta:",
+        "imagen": {
+            "url": "data/Imagenes_ud2/transporte-maximo.png",
+            "alt": "Grafico de umbral renal y transporte maximo para la glucosa"
+        },
+        "opciones": [
+            "Hasta los 375 mg/ml la glucosa se elimina por transporte activo, luego se reabsorbe",
+            "Toda la glucosa se reabsorbe, independientemente de su concentración",
+            "A partir de los 300 mg/100 ml de plasma de glucosa, se elimina por orina",
+            "El transporte máximo menos el umbral renal, es la tasa de filtración de la glucosa",
+            "El transporte máximo de una sustancia es directamente proporcional a la concentración de la misma en el plasma"
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "El esquema representa la relación entre la concentración plasmática de glucosa y su reabsorción en los túbulos renales. Hasta un cierto umbral (aproximadamente 300 mg/dL), toda la glucosa filtrada es reabsorbida. Sin embargo, cuando la concentración plasmática de glucosa supera este umbral, los transportadores de glucosa en el túbulo proximal se saturan, y el exceso de glucosa comienza a aparecer en la orina. Por lo tanto, a partir de los 300 mg/100 ml de plasma de glucosa, se elimina por orina debido a que se ha superado la capacidad máxima de reabsorción del riñón."
+    },
+    {
+        "id": "u2-p75",
+        "tipo": "multiple",
+        "enunciado": "La concentración de la orina se produce principalmente:",
+        "opciones": [
+            "Cuando la depuración de agua libre es negativa (CH2O), lo que indica que el organismo \"ahorra\" agua",
+            "Cuando la concentración osmolar de la orina es baja",
+            "Por acción de la Angiotensina II sobre la arteriola aferente",
+            "Cuando hay sobrehidratación",
+            "Cuando se optimiza la eliminación de agua por una elevada tasa de filtrado glomerular"
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "La concentración de la orina se produce principalmente cuando la depuración de agua libre (CH2O) es negativa, lo que indica que el organismo está conservando agua. Esto ocurre bajo la influencia de la hormona antidiurética (ADH), que aumenta la permeabilidad de los túbulos colectores a la reabsorción de agua, permitiendo que el cuerpo retenga agua y produzca una orina más concentrada. La concentración osmolar de la orina es alta en estas condiciones, y no baja. La acción de la Angiotensina II sobre la arteriola aferente afecta principalmente la presión arterial y el flujo sanguíneo renal, pero no es el principal mecanismo para concentrar la orina. La sobrehidratación y una elevada tasa de filtrado glomerular generalmente resultan en una orina más diluida, no concentrada."
+    },
+    {
+        "id": "u2-p76",
+        "tipo": "completar",
+        "enunciado": "Indique qué eventos suceden en los siguientes tramos de la nefrona:\nAsa de Henle descendente [blank1]\nAsa de Henle ascendente [blank2]\nTúbulo contorneado proximal [blank3]\nTúbulo colector [blank4]",
+        "blanks": [
+            {
+                "id": "blank1",
+                "label": "Asa de Henle descendente",
+                "opciones": ["Reabsorción de agua por contraccoriente", "Reabsorción de sales por contracorriente", "Reabsorción de sales, glucosa, aa, agua", "Reabsorción facultativa de agua"],
+                "respuestaCorrecta": 0
+            },
+            {
+                "id": "blank2",
+                "label": "Asa de Henle ascendente",
+                "opciones": ["Reabsorción de agua por contraccoriente", "Reabsorción de sales por contracorriente", "Reabsorción de sales, glucosa, aa, agua", "Reabsorción facultativa de agua"],
+                "respuestaCorrecta": 1
+            },
+            {
+                "id": "blank3",
+                "label": "Túbulo contorneado proximal",
+                "opciones": ["Reabsorción de agua por contraccoriente", "Reabsorción de sales por contracorriente", "Reabsorción de sales, glucosa, aa, agua", "Reabsorción facultativa de agua"],
+                "respuestaCorrecta": 2
+            },
+            {
+                "id": "blank4",
+                "label": "Túbulo colector",
+                "opciones": ["Reabsorción de agua por contraccoriente", "Reabsorción de sales por contracorriente", "Reabsorción de sales, glucosa, aa, agua", "Reabsorción facultativa de agua"],
+                "respuestaCorrecta": 3
+            }
+        ],
+        "explicacion": "En la nefrona, cada segmento tiene funciones específicas: el asa de Henle descendente es permeable al agua y permite su reabsorción por contracorriente; el asa de Henle ascendente es impermeable al agua y permite la reabsorción de sales por contracorriente; el túbulo contorneado proximal reabsorbe una gran cantidad de sales, glucosa, aminoácidos y agua; y el túbulo colector realiza la reabsorción facultativa de agua bajo la influencia de la hormona antidiurética (ADH)."
+    },
+    {
+        "id": "u2-p77",
+        "tipo": "multiple",
+        "enunciado": "Señale la opción correcta respecto a la hormona ADH o Vasopresina",
+        "opciones": [
+            "Relaja las células mesangiales",
+            "Se libera desde el riñón por acción de la renina",
+            "Disminuye la presión osmótica de líquidos corporales",
+            "Ninguna es correcta",
+            "Su liberación se produce por la disminución de la presión osmótica en el plasma y el LCR"
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "La ADH o vasopresina se sintetiza en el hipotálamo y se libera desde la neurohipófisis. Su secreción aumenta cuando se incrementa la osmolaridad plasmática o disminuye la volemia. Actúa sobre el túbulo colector aumentando la reabsorción de agua y, en concentraciones elevadas, produce vasoconstricción."
+    },
+    {
+        "id": "u2-p78",
+        "tipo": "multiple",
+        "enunciado": "Frente a una disminución de los flujos locales de PO2, los quimiorreceptores:",
+        "opciones": [
+            "Producirán la liberación de angiotensina para aumentar la llegada de O2 a los tejidos",
+            "Detectan acidosis respiratoria aumentando la ventilación",
+            "Producen una disminución en la ventilación",
+            "Se inhibe la actividad quimiorreceptora si el gasto cardíaco es bajo",
+            "No se activan ya que detectan cambios en PCO2"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "Los quimiorreceptores periféricos, ubicados en el cuerpo carotídeo y aórtico, son sensibles a cambios en la presión parcial de oxígeno (PO2) en la sangre arterial. Cuando detectan una disminución de PO2, envían señales al centro respiratorio en el bulbo raquídeo para aumentar la ventilación. Esto ayuda a incrementar la entrada de oxígeno a los pulmones y, por ende, su disponibilidad para los tejidos. Además, estos receptores también responden a cambios en la PCO2 y pH, pero su activación principal frente a hipoxia es aumentar la ventilación."
     }
 
 ]
