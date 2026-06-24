@@ -870,6 +870,10 @@
         "id": "u3-p64",
         "tipo": "multiple",
         "enunciado": "Utilice el siguiente gráfico, que muestra los cambios hormonales que ocurren durante el ciclo menstrual, para responder cuál de estas hormonas está representada por la curva B:",
+        "imagen": {
+              "url": "data/Imagenes_ud3/ciclo-menstrual.png",
+              "alt": "Grafico niveles de hormonas en ciclo menstrual"
+          },
         "opciones": [
             "Hormona liberadora de gonadotropinas (GnRH)",
             "Hormona luteinizante (LH)",
