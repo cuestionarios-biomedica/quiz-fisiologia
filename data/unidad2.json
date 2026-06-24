@@ -1037,10 +1037,31 @@
     {
         "id": "u2-p79",
         "tipo": "verdadero_falso",
-        "enunciado": "El control de la respiración se lleva a cabo por neuronas especializadas que están ubicadas en el bulbo raquídeo, siendo las vías aferentes distintias a las que llevan información a las neuronas encargadas del control cardiovascular.",
+        "enunciado": "El control de la respiración se lleva a cabo por neuronas especializadas que están ubicadas en el bulbo raquídeo, siendo las vías aferentes distintas a las que llevan información a las neuronas encargadas del control cardiovascular.",
         
         "respuestaCorrecta": false,
         "explicacion": "Falso. El control automático de la respiración depende de neuronas ubicadas principalmente en el bulbo raquídeo y la protuberancia. Sin embargo, los sistemas respiratorio y cardiovascular comparten varias aferencias, como las provenientes de quimiorreceptores y barorreceptores, que convergen en centros integradores bulbares."
+    },
+    {
+        "id": "u2-p80",
+        "tipo": "verdadero_falso",
+        "enunciado": "La acetilcolina es un neurotransmisor que afecta la frecuencia cardíaca mediante una disminución de la conductividad al K+ en la membrana de las células nodales.",
+        "respuestaCorrecta": false,
+        "explicacion": "Falso. La acetilcolina disminuye la frecuencia cardíaca aumentando la conductancia al K+ en las células nodales. La salida de K+ hiperpolariza la membrana, enlentece la despolarización espontánea del marcapasos y reduce la frecuencia de descarga del nodo sinoauricular."
+    },
+    {
+        "id": "u2-p81",
+        "tipo": "multiple",
+        "enunciado": "Una persona con presión arterial 140/90 mmHg necesita normalizar su presión y acude al médico. El mismo le receta (a) un inhibidor de la enzima convertidora de angiotensina I (ECA), (b) un diurético y (c) le recomienda una dieta baja en sal. \nSegún sus conocimientos, estas indicaciones son:",
+        "opciones": [
+            "Desaconsejables dado que (a) produce vasoconstricción, (b) aumenta la volemia y (c) disminuye la excreción de orina.",
+            "Efectivas dado que (a) evita la vasoconstricción, (b) disminuye la volemia y (c) disminuye la reabsorción de agua en los túbulos.",
+            "Efectivas dado que (a) produce mayor liberación de angiotensina II, (b) activación del núcleo supraóptico del hipotálamo y (c) aumenta la reabsorción de agua en los túbulos.",
+            "Efectivas, dado que (a) produce mayor liberación de angiotensina II, (b) mayor liberación de antidiurética y (c) menor excreción de orina.",
+            "Desaconsejables, dado que (a) produce mayor sensación de sed, (b) activación del núcleo supraóptico del hipotálamo y (c) problemas de excitabilidad neuronal."
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "Las indicaciones del médico son efectivas para normalizar la presión arterial. (a) Un inhibidor de la enzima convertidora de angiotensina I (ECA) evita la formación de angiotensina II, lo que reduce la vasoconstricción y disminuye la presión arterial. (b) Un diurético ayuda a eliminar el exceso de sodio y agua del cuerpo, reduciendo la volemia y, por ende, la presión arterial. (c) Una dieta baja en sal disminuye la reabsorción de agua en los túbulos renales, contribuyendo a una menor retención de líquidos y ayudando a mantener la presión arterial dentro de rangos normales."
     }
 
 ]
