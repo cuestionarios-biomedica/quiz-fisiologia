@@ -1033,6 +1033,14 @@
         ],
         "respuestaCorrecta": 1,
         "explicacion": "Los quimiorreceptores periféricos, ubicados en el cuerpo carotídeo y aórtico, son sensibles a cambios en la presión parcial de oxígeno (PO2) en la sangre arterial. Cuando detectan una disminución de PO2, envían señales al centro respiratorio en el bulbo raquídeo para aumentar la ventilación. Esto ayuda a incrementar la entrada de oxígeno a los pulmones y, por ende, su disponibilidad para los tejidos. Además, estos receptores también responden a cambios en la PCO2 y pH, pero su activación principal frente a hipoxia es aumentar la ventilación."
+    },
+    {
+        "id": "u2-p79",
+        "tipo": "verdadero_falso",
+        "enunciado": "El control de la respiración se lleva a cabo por neuronas especializadas que están ubicadas en el bulbo raquídeo, siendo las vías aferentes distintias a las que llevan información a las neuronas encargadas del control cardiovascular.",
+        
+        "respuestaCorrecta": false,
+        "explicacion": "Falso. El control automático de la respiración depende de neuronas ubicadas principalmente en el bulbo raquídeo y la protuberancia. Sin embargo, los sistemas respiratorio y cardiovascular comparten varias aferencias, como las provenientes de quimiorreceptores y barorreceptores, que convergen en centros integradores bulbares."
     }
 
 ]
