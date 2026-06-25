@@ -439,7 +439,7 @@
         "(1) es una proteína llamada troponina con sus 3 sitios de unión, (2) proteína fibrosa llamada tropomiosina y gracias al (3) que es el Ca++ es posible el acoplamiento miosina-actina.",
         "(1) es una proteína llamada tropomiosina con sus 3 sitios de unión, (2) proteína fibrosa llamada troponina y gracias al (3) que es el Ca++ es posible el acoplamiento miosina-actina.",
         "(1) es una proteína llamada troponina con sus 3 sitios de unión, (2) proteína fibrosa llamada tropomiosina y gracias al (3) que es el Na+ es posible el acoplamiento miosina-actina.",
-        "(1) es una proteína llamada tropomiosina con sus 3 sitios de unión, (2) proteína fibrosa llamada troponina y gracias al (3) que es el Ca++ es posible el acoplamiento miosina-actina."
+        "(1) es una proteína llamada tropomiosina con sus 3 sitios de unión, (2) proteína fibrosa llamada troponina y gracias al (3) que es el Na+ es posible el acoplamiento miosina-actina."
       ],
       "respuestaCorrecta": 1,
       "explicacion": "La estimulación cerebral profunda (DBS) consiste en la implantación de electrodos en áreas específicas del cerebro para modular la actividad neuronal. Es un tratamiento invasivo utilizado para una variedad de trastornos neurológicos, incluyendo pero no limitado a la enfermedad de Parkinson, y puede tener efectos secundarios dependiendo del área estimulada y del paciente."
@@ -477,9 +477,8 @@
           "label":"Motoneurona gamma",
           "opciones": [
             "estimula la contracción de los extremos de las fibras intrafusales del huso muscular, favoreciendo la estimulación del reflejo miotático",
-            "estimula la contracción de los extremos de las fibras intrafusales del huso muscular, favoreciendo la estimulación del reflejo miotático",
-            "estimula la contracción de los extremos de las fibras intrafusales del huso muscular, favoreciendo la estimulación del reflejo miotático",
-            "estimula la contracción de los extremos de las fibras intrafusales del huso muscular, favoreciendo la estimulación del reflejo miotático"
+            "estimula la contracción de los extremos de las fibras intrafusales del huso muscular, inhibiendo la estimulación del reflejo miotático",
+            "estimula la contracción de los extremos de las fibras intrafusales del huso muscular, favoreciendo la inhibición del reflejo miotático"
           ],
           "respuestaCorrecta": 0
         }
@@ -932,19 +931,13 @@
       "id": "u1-p63",
       "tipo": "completar",
       "enunciado": "Lea atentamente el siguiente párrafo y complételo escogiendo la opción correcta:\nCuando se estira el huso muscular, se distorsionan sus terminaciones sensitivas y se generan potenciales de receptor, los cuales, a su vez, activan potenciales de acción en las fibras sensitivas, con una frecuencia proporcional al grado de estiramiento.\nLas aferentes del huso dejan de emitir impulsos cuando se (A) el músculo por estimulación de (B) a las fibras extrafusales, en virtud de que el músculo se acorta.",
-      "blanks": [
-        {
-          "id": "blank1",
-          "label": "A",
-          "opciones": [
-            "relaja; B) los receptores anuloespirales",
-            "distiende; B) las motoneuronas gamma",
-            "tetaniza; B) las fibras intrafusales",
-            "contrae; B) las motoneuronas alfa"
+      "opciones": [
+            "A) relaja; B) los receptores anuloespirales",
+            "A) distiende; B) las motoneuronas gamma",
+            "A) tetaniza; B) las fibras intrafusales",
+            "A) contrae; B) las motoneuronas alfa"
           ],
-          "respuestaCorrecta": 3
-        }
-      ],
+      "respuestaCorrecta": 3,
       "explicacion": "Cuando el músculo se contrae por estimulación de las motoneuronas alfa a las fibras extrafusales, el huso muscular se acorta y las aferentes dejan de emitir impulsos. Las motoneuronas gamma inervan las fibras intrafusales (dentro del huso), no las extrafusales. Las motoneuronas alfa inervan las fibras extrafusales (la fibra muscular propiamente dicha)."
     },
     {
@@ -1056,16 +1049,6 @@
       ],
       "respuestaCorrecta": 0,
       "explicacion": "La estructura resaltada en color verde es la protuberancia (o puente de Varolio). Se sitúa por encima del bulbo raquídeo y hacia el anterior del cerebelo. La protuberancia colabora con el bulbo raquídeo en el control de funciones vitales como la respiración y la regulación cardiovascular, además de participar en la transmisión de señales entre diferentes partes del cerebro."
-    },
-    {
-      "id": "u1-p72",
-      "tipo": "multiple",
-      "enunciado": "",
-      "opciones": [
-        ""
-      ],
-      "respuestaCorrecta": 0,
-      "explicacion": ""
     }
   ]
 }
