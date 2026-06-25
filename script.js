@@ -584,7 +584,7 @@ function renderOrdering(question) {
 	`).join('');
 
 	return `
-		<div class="order-help">Arrastra las tarjetas para ordenarlas.</div>
+		<div class="order-help">Mantené presionado y arrastrá las tarjetas para ordenarlas.</div>
 		<ol class="order-list" data-order-list>${orderOptions}</ol>
 	`;
 }
@@ -1219,8 +1219,8 @@ function openImageModal(src, alt) {
 
 	dom.modalImage.src = src;
 	dom.modalImage.alt = alt || 'Imagen ampliada';
-	dom.modalCaption.textContent = alt || '';
-	dom.modalTitle.textContent = alt || 'Imagen ampliada';
+	dom.modalCaption.textContent = '';
+	dom.modalTitle.textContent = '';
 	dom.imageModal.classList.add('is-open');
 	dom.imageModal.setAttribute('aria-hidden', 'false');
 }
