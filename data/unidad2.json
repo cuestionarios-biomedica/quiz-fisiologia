@@ -1062,6 +1062,103 @@
         ],
         "respuestaCorrecta": 1,
         "explicacion": "Las indicaciones del médico son efectivas para normalizar la presión arterial. (a) Un inhibidor de la enzima convertidora de angiotensina I (ECA) evita la formación de angiotensina II, lo que reduce la vasoconstricción y disminuye la presión arterial. (b) Un diurético ayuda a eliminar el exceso de sodio y agua del cuerpo, reduciendo la volemia y, por ende, la presión arterial. (c) Una dieta baja en sal disminuye la reabsorción de agua en los túbulos renales, contribuyendo a una menor retención de líquidos y ayudando a mantener la presión arterial dentro de rangos normales."
+    },
+    {
+        "id": "u2-p82",
+        "tipo": "multiple",
+        "enunciado": "Los eosinófilos son leucocitos:",
+        "opciones": [
+            "que se encargan del ataque a parásitos invasores mediante la liberación de sustancias citotóxicas.",
+            "que forman parte del megacariocito",
+            "que posibilitan la coagulación de la sangre",
+            "que responden principalmente ante la inflamación",
+            "que se encargan de la inmunidad específica del organismo."
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "Los eosinófilos son un tipo de leucocito (glóbulo blanco) que desempeña un papel crucial en la defensa del organismo contra parásitos invasores, como helmintos y protozoos. Lo hacen mediante la liberación de sustancias citotóxicas y enzimas que dañan a los parásitos. Además, los eosinófilos también están involucrados en las respuestas alérgicas y en la modulación de la inflamación, pero su función principal es la defensa contra infecciones parasitarias. No forman parte del megacariocito, no participan directamente en la coagulación de la sangre y no son responsables de la inmunidad específica, que está mediada por linfocitos y anticuerpos."
+    },
+    {
+        "id": "u2-p83",
+        "tipo": "verdadero_falso",
+        "enunciado": "El problema con las transfusiones sanguíneas de personas con distintos tipos sanguíneos ocurren por los anticuerpos del dador, que atacan a los eritrocitos del receptor",
+        "respuestaCorrecta": false,
+        "explicacion": "Falso. El problema con las transfusiones sanguíneas entre personas con distintos tipos sanguíneos ocurre debido a los anticuerpos presentes en el plasma del receptor, que atacan a los eritrocitos del dador. Por ejemplo, si una persona con tipo sanguíneo A recibe sangre de tipo B, los anticuerpos anti-B en el plasma del receptor reconocerán y destruirán los glóbulos rojos del dador, lo que puede causar una reacción transfusional grave."
+    },
+    {
+        "id": "u2-p84",
+        "tipo": "multiple",
+        "enunciado": "Una madre Rh- que tuvo un embarazo de un hijo Rh- y ahora tiene un embarazo de un hijo Rh-",
+        "opciones": [
+            "El primer hijo tiene altas probabilidades de tener la enfermedad hemolítica del recién nacido.",
+            "El segundo hijo tiene altas probabilidades de tener la enfermedad hemolítica del recién nacido.",
+            "El segundo hijo tiene bajos riesgos de tener la enfermedad hemolítica del recién nacido.",
+            "El primer hijo presentará anticuerpos contra el antígeno D.",
+            "Ambos hijos presentarán anticuerpos específicos contra el antígeno D."
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "En el caso de una madre Rh- que ha tenido un primer embarazo con un hijo Rh-, no se produce sensibilización, ya que no hay exposición al antígeno D. Por lo tanto, en un segundo embarazo con otro hijo Rh-, el riesgo de enfermedad hemolítica del recién nacido es bajo, ya que la madre no ha desarrollado anticuerpos contra el antígeno D. La sensibilización y la producción de anticuerpos ocurren generalmente cuando una madre Rh- está expuesta a sangre Rh+ durante un embarazo o parto previo."
+    },
+    {
+        "id": "u2-p85",
+        "tipo": "verdadero_falso",
+        "enunciado": "La coagulación de la sangre en caso de un vaso sanguíneo lesionado comprende la vasoconstricción, la formación de un tapón plaquetario y la formación de un coágulo. Es necesaria la acción de la plasmina en el proceso de formación del tapón plaquetario.",
+        "respuestaCorrecta": false,
+        "explicacion": "Falso. La plasmina es una enzima que desempeña un papel importante en el proceso de fibrinólisis, que es la degradación del coágulo de sangre una vez que ha cumplido su función. No es necesaria en la formación del tapón plaquetario."
+    },
+    {
+        "id": "u2-p86",
+        "tipo": "verdadero_falso",
+        "enunciado": "El hematocrito puede alterarse cuando una persona viaja a la montaña, aumentando y por lo tanto afectando la viscosidad de la sangre que será mayor.",
+        "respuestaCorrecta": true,
+        "explicacion": "Verdadero. Cuando una persona viaja a altitudes elevadas, la menor disponibilidad de oxígeno provoca una respuesta fisiológica que incluye un aumento en la producción de glóbulos rojos (eritropoyesis) para mejorar la capacidad de transporte de oxígeno. Esto eleva el hematocrito, que es la proporción de glóbulos rojos en la sangre, y como resultado, la viscosidad de la sangre también aumenta."
+    },
+    {
+        "id": "u2-p87",
+        "tipo": "verdadero_falso",
+        "enunciado": "El grupo 0+ es considerado el dador universal porque sus eritrocitos no presentan AgA ni AgB en sus membranas.",
+        "respuestaCorrecta": false,
+        "explicacion": "Falso. Los eritrocitos del grupo 0+ no poseen antígenos A ni B, pero sí expresan el antígeno Rh (D). Por ello, el dador universal de eritrocitos es el grupo 0-, que carece de antígenos A, B y Rh."
+    },
+    {
+        "id": "u2-p88",
+        "tipo": "verdadero_falso",
+        "enunciado": "Una persona B- posee glucoproteinas en la membrana de sus eritrocitos, y por ende genera con el pasar del tiempo desde su nacimiento anticuerpos Anti A.",
+        "respuestaCorrecta": true,
+        "explicacion": "Verdadero. Una persona con grupo sanguíneo B- tiene antígenos B en la superficie de sus eritrocitos y carece de antígenos A. Como resultado, su sistema inmunológico reconoce los antígenos A como extraños y produce anticuerpos Anti-A desde el nacimiento, lo que es una característica del sistema ABO."
+    },
+    {
+        "id": "u2-p89",
+        "tipo": "completar",
+        "enunciado": "Complete con la definición correcta:\n\nLa bilirrubina es [blank1]\nLa trombina es[blank2]",
+        "blanks": [
+            {
+                "id": "blank1",
+                "label": "Bilirrubina",
+                "opciones": ["un pigmento iliar de color amarillo anaranjado que resulta de la degradación de la hemoglobina de los glóbulos rojos envejecidos", "una enzima que cataliza la conversión de fibrinógeno en fibrina", "un anticoagulante que inhibe la formación de coágulos", "un tipo de leucocito involucrado en la respuesta inmune"],
+                "respuestaCorrecta": 0
+            },
+            {
+                "id": "blank2",
+                "label": "Trombina",
+                "opciones": ["una enzima que convierte fibrinógeno en fibrina", "un pigmento biliar que se produce a partir de la degradación de la hemoglobina", "un anticoagulante que inhibe la formación de coágulos", "un tipo de leucocito involucrado en la respuesta inmune"],
+                "respuestaCorrecta": 0
+            }
+        ],
+        "explicacion": "La bilirrubina es un pigmento biliar de color amarillo anaranjado que se forma a partir de la degradación de la hemoglobina de los glóbulos rojos envejecidos. La trombina es una enzima clave en el proceso de coagulación sanguínea, ya que cataliza la conversión del fibrinógeno soluble en fibrina insoluble, que forma la red que constituye el coágulo."
+    },
+    {
+        "id": "u2-p90",
+        "tipo": "multiple",
+        "enunciado": "En una solución hipotónica, los eritrocitos",
+        "opciones": [
+            "se hemolizan, por desintegración de la membrana lipídica.",
+            "sufren crenación, el líquido pasa del eritrocito al medio.",
+            "sufren modificaciones en su morfología, reduciendo su tamaño.",
+            "permanecen sin modificaciones de forma y tamaño.",
+            "aumentan de tamaño, ingresando el líquido desde el medio al eritrocito."
+        ],
+        "respuestaCorrecta": 4,
+        "explicacion": "En una solución hipotónica, la concentración de solutos en el medio externo es menor que la concentración de solutos dentro del eritrocito. Esto provoca que el agua se mueva hacia el interior del eritrocito por ósmosis, lo que hace que el eritrocito aumente de tamaño y pueda llegar a hemolizarse si la presión osmótica es suficientemente alta. Por lo tanto, la opción correcta es que los eritrocitos aumentan de tamaño al ingresar líquido desde el medio hacia el interior de la célula."
     }
 
 ]
