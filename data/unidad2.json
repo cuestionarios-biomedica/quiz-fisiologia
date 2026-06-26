@@ -150,8 +150,8 @@
         "tipo": "multiple",
         "enunciado": "Seleccione una:",
         "opciones": ["La resistencia de un vaso es igual a la caída de presión a lo largo del mismo dividido por el diámetro del mismo.", "El flujo del circuito es igual a la caída de presión en dos puntos del circuito sanguíneo dividida por el diámetro transversal de los vasos.", "La resistencia de un vaso es igual a la caída de presión a lo largo del mismo (diferencia de presiones) dividida por el gasto cardíaco.", "La resistencia de un vaso es igual al gasto cardíaco dividio por la diferencia de presiones en dos puntos del circuito", "El flujo a través del circuito es igual a la resistencia de un vaso dividida por la diferenicia de presiones entre dos puntos del mismo."],
-        "respuestaCorrecta": 0,
-        "explicacion": ""
+        "respuestaCorrecta": 2,
+        "explicacion": "El flujo es proporcional a la diferencia de presiones dividido por la resistencia del vaso (Ley de Ohm aplicada a la hemodinámica). En este contexto, el flujo es el gasto cardíaco (recordemos que el gasto cardíaco también se llama volumen minuto...)"
     },
     {
         "id": "u2-p15",
@@ -343,7 +343,7 @@
         "id": "u2-p28",
         "tipo": "multiple",
         "enunciado": "El exceso de aldosterona secretada por las glándulas suprarrenales:",
-        "opciones": ["puede conducir a una hipotensión arterial", "puede producir hiperpotasemia", "pueed conducir a una hipertensión arterial", "puede desencadenar aumento de la resistencia periférica", "puede producir bradicardia de manera inmediata"],
+        "opciones": ["puede conducir a una hipotensión arterial", "puede producir hiperpotasemia", "puede conducir a una hipertensión arterial", "puede desencadenar aumento de la resistencia periférica", "puede producir bradicardia de manera inmediata"],
         "respuestaCorrecta": 2,
         "explicacion": "El exceso de aldosterona puede conducir a una hipertensión arterial debido a que esta hormona promueve la reabsorción de sodio y agua en los túbulos renales, lo que aumenta el volumen sanguíneo y, por ende, la presión arterial. Además, la aldosterona también puede aumentar la resistencia periférica al promover la vasoconstricción, lo que contribuye aún más a la hipertensión. Sin embargo, el efecto sobre la frecuencia cardíaca no es inmediato ni directo."
     },
@@ -510,7 +510,7 @@
         "tipo": "multiple",
         "enunciado": "En la filtración glomerular, la presión oncótica ejercida por las proteínas del plasma actúa:",
         "opciones": [
-            "En conrta de la presión hidrostática de la cápsula de Bowman",
+            "En contra de la presión hidrostática de la cápsula de Bowman",
             "Actúa favoreciendo la presión efectiva de filtración",
             "Actúa en contra de la presión efectiva de filtración",
             "No genera ningún efecto en la presión efectiva de filtración dado que es igual a cero"
@@ -774,7 +774,7 @@
             "Gradiente de presión, densidad del gas, cantidad de agente tensioactivo y humidificación del aire",
             "Gradiente de flujo, densidad del gas, permeabilidad de la membrana eritrocitaria, área tisular total",
             "Gradiente de concentraciones de ion bicarbonato, solubilidad del CO2, permeabilidad de la membrana eritrocitaria",
-            "Agente tensoactivo y solubilidad de los gases",
+            "Agente tensioactivo y solubilidad de los gases",
             "Gradiente de presión, densidad del gas, solubilidad, espesor de la membrana y área tisular"
         ],
         "respuestaCorrecta": 4,
@@ -892,10 +892,10 @@
         "enunciado": "Marcar la opción correcta respecto al control de la presión arterial:",
         "opciones": [
             "La presión arterial está directamente relacionada con el gasto cardíaco e inversamente relacionada con la resistencia periférica.",
-            "En los barorreceptores ubicados en el cayado aórtico y en el seno carotídeo comienzan las vías aferentes que llegan alos centros mesencefálicos que controlan la presión arterial.",
+            "En los barorreceptores ubicados en el cayado aórtico y en el seno carotídeo comienzan las vías aferentes que llegan a los centros mesencefálicos que controlan la presión arterial.",
             "Las arterias constituyen los vasos de capacitancia ya que su gruesa pared les permite actuar como un reservorio de sangre.",
             "La producción excesiva de eritrocitos por la médula ósea que ocurre en la policitemia (un tipo de cáncer sanguíneo), puede llevar a un aumento de la presión arterial.",
-            "El control local rápido de la presión arterial la ejercen lso riñones mediante la osmorregulación."
+            "El control local rápido de la presión arterial lo ejercen los riñones mediante la osmorregulación."
         ],
         "respuestaCorrecta": 3,
         "explicacion": "La producción excesiva de eritrocitos, como ocurre en la policitemia, aumenta la viscosidad de la sangre. Esto puede dificultar el flujo sanguíneo y aumentar la resistencia vascular, lo que a su vez puede llevar a un aumento de la presión arterial. Las otras opciones contienen errores conceptuales: la presión arterial está directamente relacionada con el gasto cardíaco y la resistencia periférica (no inversamente), los barorreceptores envían señales a centros del bulbo raquídeo, las arterias son vasos de resistencia y no de capacitancia, y el control local rápido de la presión arterial no es ejercido por los riñones mediante osmorregulación sino por mecanismos locales como la autorregulación vascular."
@@ -907,7 +907,7 @@
         "opciones": [
             "Inserción de canales de potasio para la regulación de la potasemia",
             "Aumento de la actividad simpática y la sed",
-            "Aumento de la constricción arteriolar par modificar la tasa de filtrado glomerular",
+            "Aumento de la constricción arteriolar para modificar la tasa de filtrado glomerular",
             "Aumento de la presión arterial",
             "Absorción obligatoria de sales y agua"
         ],
@@ -982,25 +982,25 @@
             {
                 "id": "blank1",
                 "label": "Asa de Henle descendente",
-                "opciones": ["Reabsorción de agua por contraccoriente", "Reabsorción de sales por contracorriente", "Reabsorción de sales, glucosa, aa, agua", "Reabsorción facultativa de agua"],
+                "opciones": ["Reabsorción de agua por contracorriente", "Reabsorción de sales por contracorriente", "Reabsorción de sales, glucosa, aa, agua", "Reabsorción facultativa de agua"],
                 "respuestaCorrecta": 0
             },
             {
                 "id": "blank2",
                 "label": "Asa de Henle ascendente",
-                "opciones": ["Reabsorción de agua por contraccoriente", "Reabsorción de sales por contracorriente", "Reabsorción de sales, glucosa, aa, agua", "Reabsorción facultativa de agua"],
+                "opciones": ["Reabsorción de agua por contracorriente", "Reabsorción de sales por contracorriente", "Reabsorción de sales, glucosa, aa, agua", "Reabsorción facultativa de agua"],
                 "respuestaCorrecta": 1
             },
             {
                 "id": "blank3",
                 "label": "Túbulo contorneado proximal",
-                "opciones": ["Reabsorción de agua por contraccoriente", "Reabsorción de sales por contracorriente", "Reabsorción de sales, glucosa, aa, agua", "Reabsorción facultativa de agua"],
+                "opciones": ["Reabsorción de agua por contracorriente", "Reabsorción de sales por contracorriente", "Reabsorción de sales, glucosa, aa, agua", "Reabsorción facultativa de agua"],
                 "respuestaCorrecta": 2
             },
             {
                 "id": "blank4",
                 "label": "Túbulo colector",
-                "opciones": ["Reabsorción de agua por contraccoriente", "Reabsorción de sales por contracorriente", "Reabsorción de sales, glucosa, aa, agua", "Reabsorción facultativa de agua"],
+                "opciones": ["Reabsorción de agua por contracorriente", "Reabsorción de sales por contracorriente", "Reabsorción de sales, glucosa, aa, agua", "Reabsorción facultativa de agua"],
                 "respuestaCorrecta": 3
             }
         ],
@@ -1009,7 +1009,7 @@
     {
         "id": "u2-p77",
         "tipo": "multiple",
-        "enunciado": "Señale la opción correcta respecto a la hormona ADH o Vasopresina",
+        "enunciado": "Señale la opción correcta respecto a la hormona ADH o vasopresina",
         "opciones": [
             "Relaja las células mesangiales",
             "Se libera desde el riñón por acción de la renina",
