@@ -748,7 +748,7 @@
             "id": "blank2",
             "label": "Difusión",
             "opciones": ["facilitada", "simple", "activa"],
-            "respuestaCorrecta": 2
+            "respuestaCorrecta": 0
             },
             {
             "id": "blank3",
