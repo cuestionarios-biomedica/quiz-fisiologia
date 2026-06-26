@@ -748,7 +748,7 @@
             "id": "blank2",
             "label": "Difusión",
             "opciones": ["facilitada", "simple", "activa"],
-            "respuestaCorrecta": 0
+            "respuestaCorrecta": 2
             },
             {
             "id": "blank3",
@@ -763,7 +763,7 @@
             "respuestaCorrecta": 1
             }
         ],
-        "explicacion": "El transportador GLUT-2 permite la difusión facilitada de glucosa hacia las células beta del páncreas, que detectan los niveles de glucosa y liberan insulina. La insulina, a su vez, aumenta la cantidad de transportadores GLUT-4 en tejidos como el músculo y el tejido adiposo, facilitando la captación de glucosa."
+        "explicacion": "El transportador GLUT-2 permite la difusión facilitada de glucosa hacia las células beta del páncreas, que detectan los niveles de glucosa y liberan insulina. La insulina, a su vez, aumenta la cantidad de transportadores GLUT-4 en tejidos como el músculo y el tejido adiposo, facilitando la captación de glucosa.\nNOTA: en las capturas dice que la difusión del GLUT-2 es activa, pero en el Silverthorn dice que todos los transportadores GLUT son de difusión pasiva facilitada"
     },
     {
         "id": "u3-p57",
@@ -857,8 +857,8 @@
         "tipo": "multiple",
         "enunciado": "Utilice el siguiente gráfico, que muestra los cambios hormonales que ocurren durante el ciclo menstrual, para responder cuál de estas hormonas está representada por la curva B:",
         "imagen": {
-              "url": "data/Imagenes_ud3/ciclo-menstrual.png",
-              "alt": "Grafico niveles de hormonas en ciclo menstrual"
+              "url": "data/Imagenes_ud3/ciclo-menstrual2.png",
+              "alt": "Grafico niveles de hormonas en ciclo menstrual 2"
           },
         "opciones": [
             "Hormona liberadora de gonadotropinas (GnRH)",
@@ -1042,10 +1042,10 @@
         "enunciado": "Los padres de una persona de sexo gonadal femenino de 17 años están preocupados porque la altura de su hija es de 1,20 m mientras que ellos miden cerca de 1,80 m.\n1) ¿Tendría utilidad un tratamiento hormonal?\n2) ¿Cuál/es sería la/s hormona/s indicada/s o el estudio indicado?",
         "opciones": [
             "1) Carece de utilidad un tratamiento hormonal debido a la edad de la persona. 2) Es necesario realizar un análisis hormonal para conocer su situación respecto a su ciclo reproductivo para evaluar el contenido de estrógenos.",
-            "Tiene utilidad un tratamiento que aporte crecimiento de huesos largos y anabolismo proteico. 2) Se puede administrar hormona de crecimiento en forma exógena, imitando las dosis fisiológicas para esa edad.",
-            "Tiene utilidad un tratamiento que aporte crecimiento general de los tejidos y aumento de la masa magra y grasa. 2) Hormonas: de crecimiento y factor similar a la insulina 1.",
-            "Carece de utilidad un tratamiento hormonal debido a que puede ser nocivo para la saludo y desarrollarse gigantismo. 2) Ninguna hormona.",
-            "Tiene utilidad un tratamiento que incremente el anabolismo proteico y la condrogénesis, así como el depósito de hueso nuevo. 2) Hormona de crecimiento, andrógenos sexuales y parathormona en dosis suprafisiológicas."
+            "1) Tiene utilidad un tratamiento que aporte crecimiento de huesos largos y anabolismo proteico. 2) Se puede administrar hormona de crecimiento en forma exógena, imitando las dosis fisiológicas para esa edad.",
+            "1) Tiene utilidad un tratamiento que aporte crecimiento general de los tejidos y aumento de la masa magra y grasa. 2) Hormonas: de crecimiento y factor similar a la insulina 1.",
+            "1) Carece de utilidad un tratamiento hormonal debido a que puede ser nocivo para la saludo y desarrollarse gigantismo. 2) Ninguna hormona.",
+            "1) Tiene utilidad un tratamiento que incremente el anabolismo proteico y la condrogénesis, así como el depósito de hueso nuevo. 2) Hormona de crecimiento, andrógenos sexuales y parathormona en dosis suprafisiológicas."
         ],
         "respuestaCorrecta": 0,
         "explicacion": "En una persona de 17 años debe evaluarse si el crecimiento longitudinal ya finalizó. Los estrógenos inducen el cierre de las placas epifisarias, por lo que la administración de hormona de crecimiento después de dicho cierre no aumenta la talla. Antes de indicar tratamiento hormonal es necesario estudiar el estado puberal y los niveles de estrógenos."
