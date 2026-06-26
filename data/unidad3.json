@@ -1012,13 +1012,13 @@
             "id": "blank1",
             "label": "secuencia",
             "opciones": ["C,A y luego B", "A, C y luego B", "B, A y luego C"],
-            "respuestaCorrecta": 0
+            "respuestaCorrecta": 2
             },
             {
             "id": "blank2",
             "label": "función",
             "opciones": ["aumento en la eyección láctea por parte de las células mioepiteliales", "aumento en la producción de leche por parte de las células alveolares", "disminución de la producción de leche por parte de las células alveolares"],
-            "respuestaCorrecta": 0      
+            "respuestaCorrecta": 1      
             },
             {
             "id": "blank3",
