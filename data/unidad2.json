@@ -180,11 +180,11 @@
                 "id": "blank3",
                 "label": "Presión arterial PA en el punto 6",
                 "opciones": ["120 mmHg", "25 mmHg", "100 mmHg", "80 mmHg"],
-                "respuestaCorrecta": 1
+                "respuestaCorrecta": 0
             }
         ],
         "respuestaCorrecta": true,
-        "explicacion": "Arteria pulmonar = sangre venosa → PO₂ ≈ 40 mmHg y PCO₂ ≈ 46 mmHg. Durante la inspiración, el aire atmosférico tiene PCO₂ ≈ 0 mmHg. La sangre arterial que sale de los pulmones tiene PaO₂ ≈ 100 mmHg."
+        "explicacion": "Arteria pulmonar = sangre venosa → PO₂ ≈ 40 mmHg y PCO₂ ≈ 46 mmHg. Durante la inspiración, el aire atmosférico tiene PCO₂ ≈ 0 mmHg. La sangre arterial que sale de los pulmones tiene PaO₂ ≈ 100 mmHg y la presión sistólica normal que sale del corazón hacia la aorta es de 120 mmHg."
     },
     {
         "id": "u2-p16",
