@@ -261,7 +261,7 @@
             "Somatostatina o GHIH"
         ],
         "respuestaCorrecta": 1,
-        "explicacion": "El estrés agudo estimula la liberación de hormona de crecimiento (GH), no la inhibe. Los inhibidores de la GH incluyen la hiperglucemia, la obesidad, la somatostatina (GHIH), el envejecimiento y ciertas hormonas como el cortisol. Por lo tanto, la opción que no corresponde a un factor inhibidor de la liberación de GH es el estrés agudo."
+        "explicacion": "El estrés agudo estimula la liberación de hormona de crecimiento (GH), no la inhibe. Los inhibidores de la GH incluyen la hiperglucemia, la obesidad, la somatostatina (GHIH), el envejecimiento y ciertas hormonas como el cortisol (que si bien tiene que ver con el estrés, es el estrés CRÓNICO, no agudo). Por lo tanto, la opción que no corresponde a un factor inhibidor de la liberación de GH es el estrés agudo."
         },
         {
         "id": "u3-p22",
@@ -590,20 +590,6 @@
         },
         {
         "id": "u3-p45",
-        "tipo": "ordenar",
-        "enunciado": "Ordene los pasos del reflejo neuroendocrino de amamantamiento:",
-        "opciones": [
-            "La succión del pezón materno por el bebé es el estímulo",
-            "La vía aferente sensitiva llega al Hipotálamo",
-            "Se libera oxitocina desde la Neurohipófisis",
-            "Por la sangre, llega al músculo liso de los conductillos mamarios y produce la eyección de la leche materna",
-            "Continúa el reflejo de succión y la liberación de oxitocina: más estímulo y oxitocina, mayor eyección de leche por la glándula mamaria."
-        ],
-        "respuestaCorrecta": [0, 1, 2, 3, 4],
-        "explicacion": "El reflejo neuroendocrino del amamantamiento sigue este orden: 1) La succión del pezón es el estímulo, 2) La vía aferente sensitiva llega al hipotálamo, 3) Se libera oxitocina desde la neurohipófisis, 4) La oxitocina viaja por sangre al músculo liso mamario produciendo la eyección, 5) El reflejo se mantiene con más succión y más oxitocina."
-        },
-        {
-        "id": "u3-p46",
         "tipo": "ordenar",
         "enunciado": "Ordene los pasos del reflejo neuroendocrino de amamantamiento:",
         "opciones": [
@@ -1461,20 +1447,6 @@
     ],
     "respuestaCorrecta": 2,
     "explicacion": "Los métodos anticonceptivos hormonales (pastillas, parches, anillos) contienen estrógenos y/o progestágenos que ejercen retroalimentación negativa sobre el eje Hipotálamo-Hipófisis-Ovario, inhibiendo la secreción de FSH y LH, lo que impide la ovulación. No producen aumento de FSH/LH, no impiden el sangrado menstrual (suelen tener sangrado por deprivación), no son inhibidores de estrógenos y no usan GHRH (que es para hormona de crecimiento)."
-    },
-    {
-    "id": "u3-p94",
-    "tipo": "ordenar",
-    "enunciado": "Según su conocimiento acerca de los mecanismos de retroalimentación para el control hormonal, ordene los pasos del reflejo neuroendocrino de amamantamiento:",
-    "opciones": [
-        "La succión del pezón materno por el bebé es el estímulo",
-        "La vía aferente sensitiva llega al Hipotálamo",
-        "Se libera oxitocina desde la Neurohipófisis",
-        "Por la sangre, llega al músculo liso de los conductillos mamarios y produce la eyección de la leche materna",
-        "Continúa el reflejo de succión y la liberación de oxitocina: más estímulo y oxitocina, mayor eyección de leche por la glándula mamaria"
-    ],
-    "respuestaCorrecta": [0, 1, 2, 3, 4],
-    "explicacion": "El reflejo neuroendocrino del amamantamiento sigue este orden: 1) La succión del pezón es el estímulo inicial, 2) La vía aferente sensitiva llega al hipotálamo, 3) Se libera oxitocina desde la neurohipófisis, 4) La oxitocina viaja por sangre al músculo liso mamario produciendo la eyección de leche, 5) El reflejo se mantiene por retroalimentación positiva (más succión → más oxitocina → más eyección)."
     },
     {
     "id": "u3-p95",
