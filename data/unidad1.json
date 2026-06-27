@@ -403,8 +403,8 @@
       "id": "u1-p27",
       "tipo": "verdadero_falso",
       "enunciado": "No existe el fenómeno de post descarga en el reflejo miotático",
-      "respuestaCorrecta": false,
-      "explicacion": "Falso. El reflejo miotático presenta fenómeno de postdescarga, es decir, la respuesta refleja puede persistir brevemente luego de finalizado el estímulo de estiramiento debido a las propiedades de los circuitos neuronales involucrados. NOTA: en la captura de esta pregunta dice que la falsa es incorrecta, pero todas las IAs dicen que es verdadera."
+      "respuestaCorrecta": true,
+      "explicacion": "Verdadero. El reflejo miotático presenta fenómeno de postdescarga minimo o nulo. En cambio, los reflejos polisinápticos si presentan fenómeno de post descarga marcado."
     },
     {
       "id": "u1-p28",
