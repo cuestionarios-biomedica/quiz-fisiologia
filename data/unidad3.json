@@ -1614,6 +1614,24 @@
     ],
     "respuestaCorrecta": 2,
     "explicacion": "Además del AMPc, otros segundos mensajeros importantes son los iones calcio (Ca++) y la calmodulina, que se unen para activar diversas enzimas y procesos celulares, y los productos de la degradación de los fosfolípidos, como el diacilglicerol (DAG) e inositol trifosfato (IP3), que participan en la señalización intracelular y activan vías de transducción de señales."
+    },
+    {
+    "id": "u3-p101",
+    "tipo": "multiple",
+    "enunciado": "Una pareja joven tiene problemas para concebir un hijo y recurre a un centro de fertilidad. En el mismo le sugieren el siguiente tratamiento que consta de distintas etapas. El pre-tratamiento consiste en fortalecer emocionalmente y fisiológicamente a la pareja.\nSegún sus conocimientos respecto de la shormonas femeninas responda:",
+    "imagen": {
+        "url": "data/Imagenes_ud3/tratamiento-fertilidad.png",
+        "alt": "Diagrama de tratamiento de fertilidad"
+    },
+    "opciones": [
+        "para conseguir la etapa b) se le suministra altos niveles de progesterona",
+        "para evaluar y controlar la etapa c) sería correcto controlar que los niveles de oxitocina sean altos",
+        "para continuar con el posible embarazo en d) sería correcto evaluar que la luteólisis se produzca (bajos niveles de progesterona y estrógenos)",
+        "para continuar con el posible embarazo en d) sería correcto evaluar que los niveles de progesterona sean altos",
+        "para conseguir la etapa b) se le suministra bajos niveles de estrógeno"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Durante la etapa d) del tratamiento de fertilidad, es crucial asegurar que los niveles de progesterona sean altos, ya que esta hormona es esencial para mantener el endometrio y apoyar la implantación y desarrollo del embrión. La progesterona ayuda a mantener un ambiente uterino adecuado para el embarazo, previniendo la luteólisis y asegurando que el endometrio permanezca receptivo para la implantación del embrión."
     }
-    ]
+  ]
 }
