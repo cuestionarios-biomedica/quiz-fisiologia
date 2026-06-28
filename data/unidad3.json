@@ -1553,6 +1553,39 @@
         }
     ],
     "explicacion": "La vitamina D3 activa (calcitriol, 1,25-(OH)₂D₃) tiene efectos coordinados para aumentar la calcemia: 1) En el hueso: aumenta la resorción ósea liberando calcio a la sangre. 2) En el intestino: aumenta la absorción de calcio. 3) En el riñón: aumenta la reabsorción renal de calcio. 4) En la paratiroides: inhibe la secreción de PTH por retroalimentación negativa. 5) Resultado final: aumenta la calcemia."
+    },
+    {
+    "id": "u3-p97",
+    "tipo": "multiple",
+    "enunciado": "Observe la siguiente figura y completela con los signos (+) o (-) según corresponda según las acciones que lelva a cabo la hormona Parathormona en la regulación del Ca++ y los fosfatos.",
+    "imagen": {
+        "url": "data/Imagenes_ud3/calcio-y-parathormona.png",
+        "alt": "Diagrama de los efectos de la parathormona sobre hueso, intestino, riñón y calcemia"
+    },
+    "opciones": [
+        "1 (+); 2 (-); 3 (+); 4 (-)", 
+        "1 (+); 2 (+); 3 (-); 4 (+)", 
+        "1 (+); 2 (-); 3 (-); 4 (+)", 
+        "1 (-); 2 (+); 3 (+); 4 (-)", 
+        "1 (-); 2 (+); 3 (+); 4 (+)"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Esta pregunta es especificamente sobre la parathoromona, ojo!. La PTH aumenta el calcio libre en plasma mediante tres acciones principales: estimula la resorción ósea (↓ calcio almacenado en el hueso), aumenta la reabsorción renal de calcio (↓ excreción urinaria de Ca++) y disminuye la reabsorción renal de fosfato (↑ excreción urinaria de fosfato). Esto evita que el calcio liberado se una al fosfato y favorece el aumento del calcio libre en sangre."
+
+    },
+    {
+    "id": "u3-p98",
+    "tipo": "multiple",
+    "enunciado": "La diabetes insípida nefrogénica se caracteriza por una resistencia del túbulo colector renal a las acciones de la hormona antidiurética. En un paciente con esta enfermedad es probable entonces.",
+    "opciones": [
+        "La producción de mayores cantidades de orina diluida y un aumento de la osmolaridad del plasma detectado por la mácula densa y que, entre otras consecuencias, producirá sed.",
+        "La producción de menores cantidades de orina concentrada y un aumento de la osmolaridad del plasma detectado por la hipófisis secretando menores cantidades de angiotensina II.",
+        "La producción de iguales cantidades de orina que una persona sin la patología, pero con una osmolaridad mayor detectada por la mácula densa, y que, entre otras consecuencias, producirá sed.",
+        "La producción de menores cantidades de orina concentrada y un aumento de la osmolaridad de la orina detectado por la mácula densa y que, entre otras consecuencias, producirá sed.",
+        "La producción de menores cantidades de orina concentrada y un aumento de la osmolaridad del plasma detectado por el centro supraóptico del hipotálamo secretando menores cantidades de hormona antidiurética."
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "En la diabetes insípida nefrogénica, los túbulos colectores renales son resistentes a la acción de la hormona antidiurética (ADH), lo que provoca la producción de grandes cantidades de orina diluida (poliuria). Esto lleva a un aumento de la osmolaridad del plasma, que es detectado por la mácula densa y otros sensores de osmolaridad, provocando sed (polidipsia) como mecanismo compensatorio para mantener el equilibrio hídrico. La hipófisis no secreta angiotensina II; esta hormona es parte del sistema renina-angiotensina-aldosterona y no está directamente involucrada en la regulación de la osmolaridad plasmática."
     }
     ]
 }
