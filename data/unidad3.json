@@ -1660,6 +1660,34 @@
     ],
     "respuestaCorrecta": 1,
     "explicacion": "El factor similar a la insulina 2 (IGF-2) es crucial para el crecimiento fetal. Un déficit en su producción hepática durante el desarrollo fetal puede llevar a un crecimiento intrauterino restringido, resultando en una disminución del crecimiento y talla al nacer. IGF-2 es especialmente importante en la etapa prenatal, mientras que IGF-1 tiene un papel más destacado en el crecimiento postnatal."
+    },
+    {
+    "id": "u3-104",
+    "tipo": "multiple",
+    "enunciado": "Una disminución de la secreción de hormonas tiroideas (hipotiroidismo) en el adulto producirá:",
+    "opciones": [
+        "Taquicardia",
+        "Hipotensión arterial",
+        "Intolerancia al calor",
+        "Pérdida significativa de peso corporal",
+        "Disminución del tiempo de reacción de los reflejos"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El hipotiroidismo disminuye el metabolismo basal y la sensibilidad a las catecolaminas, produciendo bradicardia, disminución del gasto cardíaco e hipotensión. Además, ocasiona intolerancia al frío, aumento de peso y enlentecimiento de los reflejos osteotendinosos."
+    },
+    {
+    "id": "u3-105",
+    "tipo": "multiple",
+    "enunciado": "La infección tuberculosa puede destruir directamente la curteza suprarrenal. Como resultado de esta afección, ¿qué parámetros son más probables en una persona que padece esta enfermedad?",
+    "opciones": [
+        "Altos niveles de ACTH, bajos niveles de potasio y altos niveles de sodio en plasma, elevada retención de líquidos",
+        "Bajos niveles de ACTH, altos niveles de CRH, bajos niveles de potasio y altos niveles de sodio en plasma",
+        "Altos niveles de ACTH, altos niveles de potasio y bajos niveles de sodio en plasma",
+        "Bajos niveles de ACTH, altos niveles de potasio y bajos niveles de sodio en el plasma, elevada retención de líquidos",
+        "Bajos niveles de ACTH, niveles normales de CRH, altos niveles de angiotensinógeno"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La destrucción de la corteza suprarrenal por tuberculosis conduce a insuficiencia suprarrenal primaria (enfermedad de Addison). Esto provoca una disminución en la producción de cortisol y aldosterona. La baja aldosterona resulta en pérdida de sodio y retención de potasio, lo que lleva a hiponatremia e hiperpotasemia. La disminución del cortisol provoca un aumento compensatorio de ACTH debido a la falta de retroalimentación negativa."
     }
   ]
 }
