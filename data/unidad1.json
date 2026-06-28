@@ -1063,6 +1063,20 @@
       ],
       "respuestaCorrecta": 2,
       "explicacion": "Un neurotransmisor inhibitorio disminuye la probabilidad de que la neurona postsináptica genere un potencial de acción. Un mecanismo típico es la apertura de canales de Cl⁻ (o de K⁺) en la membrana postsináptica, produciendo hiperpolarización o dificultando la despolarización."
+    },
+    {
+      "id": "u1-p74",
+      "tipo": "multiple",
+      "enunciado": "La presencia de la toxina botulínica produce la abolición de la liberación de neurotransmisores en la hendidura sináptica. En el músculo esquelético, por lo tanto, se produce:",
+      "opciones": [
+        "disminución de la fuerza de contracción",
+        "parálisis flácida",
+        "parálisis rígida",
+        "aumento de la descarga fásica de la motoneurona alfa",
+        "tetania"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La toxina botulínica inhibe la liberación de acetilcolina en la unión neuromuscular, lo que impide la transmisión del impulso nervioso al músculo esquelético. Esto resulta en una parálisis flácida, caracterizada por la incapacidad del músculo para contraerse y mantener el tono muscular, a diferencia de la parálisis rígida que se asocia con otros mecanismos."
     }
   ]
 }
