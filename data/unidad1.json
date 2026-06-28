@@ -1077,6 +1077,38 @@
       ],
       "respuestaCorrecta": 1,
       "explicacion": "La toxina botulínica inhibe la liberación de acetilcolina en la unión neuromuscular, lo que impide la transmisión del impulso nervioso al músculo esquelético. Esto resulta en una parálisis flácida, caracterizada por la incapacidad del músculo para contraerse y mantener el tono muscular, a diferencia de la parálisis rígida que se asocia con otros mecanismos."
+    },
+    {
+    "id": "u1-p75",
+    "tipo": "multiple",
+    "enunciado": "En la figura siguiente, un microelectrodo refistra los potenciales postsinápticos producidos por la actividad de dos sinapsis excitadoras (en verde) y una sinapsis inhibidora (en rojo). Responda en relación a la figura B:",
+    "imagen": {
+        "url": "data/Imagenes_ud1/neuronas-y-potenciales.png",
+        "alt": "Diagrama de sinapsis excitadoras e inhibidoras mostrando potenciales postsinápticos"
+    },
+    "opciones": [
+        "En 1 y 2 se observa el efecto subumbral de las sinapsis excitadores y en 3 la suma espacial de estas dos sinapsis. Como consecuencia la neurona postsináptica permanecerá siliente (no ocurrirá un potencial de acción).",
+        "En 1 se observa el efecto subumbral de una de las sinapsis excitadoras, en 2 el efecto de una de las sinapsis inhibidoras y en 3 la suma espacial de estas dos sinapsis. Como consecuencia en la neurona postsináptica ocurrirá un potencial de acción.",
+        "En 1 se muestra la sumación de las neuronas excitadoras cuyos efectos son subumbrales, en 2 se muestra el efecto de la sinapsis inhibtoria, y en 3 la sumación temporal de todas las influencias. Como consecuencia la neurona postsináptica permanecerá silente (no ocurrirá un potencial de acción).",
+        "En 1 se observa el efecto de una de las sinapsis inhibidoras, en 2 la suma espacial de la sinapsis inhibidora y de la sinapsis excitadora, en 3 se muestra que el potencial de acción tendrá lugar en la neurona postsináptica tras esta sumación.",
+        "En 1 se observa el efecto subumbral de una de las sinapsis excitadoras, en 2 el efecto de la sinapsis inhibidora y en 3 la suma espacial de estas dos sinapsis. Como consecuencia la neurona postsináptica permanecerá silente (no ocurrirá un potencial de acción)."
+    ],
+    "respuestaCorrecta": 4,
+    "explicacion": "En la figura B, el registro muestra que en 1 se observa el efecto subumbral de una sinapsis excitadora, en 2 se observa el efecto de la sinapsis inhibidora, y en 3 se muestra la suma espacial de ambas influencias. La sinapsis inhibidora contrarresta la excitación, resultando en que la neurona postsináptica no alcanza el umbral para generar un potencial de acción, permaneciendo silente."
+    },
+    {
+      "id": "u1-p76",
+      "tipo": "multiple",
+      "enunciado": "Lea el siguiente párrafo en relación al control del movimiento y elija la opción correcta:\nInterviene en la ejecución del plan motor y en el planeamiento de movimeintos simples (fuerza y dirección del movimiento)",
+      "opciones": [
+          "Se trata de la corteza motora primaria",
+          "Se trata de la corteza premotora",
+          "Se trata de la corteza motora suplementaria",
+          "Se trata del conjunto de los ganglios basales",
+          "Se trata del neo cerebelo"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La corteza motora primaria, ubicada en el giro precentral del lóbulo frontal, es responsable de la ejecución de movimientos voluntarios y del control de la fuerza y dirección del movimiento. Recibe información de la corteza premotora y la corteza motora suplementaria, que participan en el planeamiento y coordinación de movimientos más complejos."
     }
   ]
 }
