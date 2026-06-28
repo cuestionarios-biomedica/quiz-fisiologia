@@ -1586,6 +1586,20 @@
     ],
     "respuestaCorrecta": 0,
     "explicacion": "En la diabetes insípida nefrogénica, los túbulos colectores renales son resistentes a la acción de la hormona antidiurética (ADH), lo que provoca la producción de grandes cantidades de orina diluida (poliuria). Esto lleva a un aumento de la osmolaridad del plasma, que es detectado por la mácula densa y otros sensores de osmolaridad, provocando sed (polidipsia) como mecanismo compensatorio para mantener el equilibrio hídrico. La hipófisis no secreta angiotensina II; esta hormona es parte del sistema renina-angiotensina-aldosterona y no está directamente involucrada en la regulación de la osmolaridad plasmática."
+    },
+    {
+    "id": "u3-p99",
+    "tipo": "multiple",
+    "enunciado": "La transmisión (1) entre ciertas neuronas hormonosecretantes del hipotálamo asegura que todas las células disparen potenciales de acción (2) facilitando una explosión en la secreción hormonal de la circulación.\nComplete el párrafo anterior con la opción correcta sobre las palabras (1) y (2) que faltan:",
+    "opciones": [
+        "(1) electroquímica; (2) simultáneamente",
+        "(1) química; (2) simultáneamente",
+        "(1) química; (2) una detrás de otra",
+        "(1) eléctrica; (2) una detrás de otra",
+        "(1) eléctrica; (2) simultáneamente"
+    ],
+    "respuestaCorrecta": 4,
+    "explicacion": "Las neuronas hormonosecretoras del hipotálamo pueden estar unidas por uniones comunicantes (gap junctions), que permiten una transmisión eléctrica rápida y sincronizan los potenciales de acción, favoreciendo una liberación hormonal coordinada."
     }
     ]
 }
