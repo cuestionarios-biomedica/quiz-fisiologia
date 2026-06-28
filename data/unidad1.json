@@ -1049,6 +1049,20 @@
       ],
       "respuestaCorrecta": 0,
       "explicacion": "La estructura resaltada en color verde es la protuberancia (o puente de Varolio). Se sitúa por encima del bulbo raquídeo y hacia el anterior del cerebelo. La protuberancia colabora con el bulbo raquídeo en el control de funciones vitales como la respiración y la regulación cardiovascular, además de participar en la transmisión de señales entre diferentes partes del cerebro."
+    },
+    {
+      "id": "u1-p72",
+      "tipo": "multiple",
+      "enunciado": "Según sus conocimientos, un experimento realizado en un cultivo de neuronas que evalúe si un neurotransmisor es inhibitorio debería:",
+      "opciones": [
+        "Asegurarse de que el neurotransmisor bañe el líquido extracelular y comprobar qué ocurre con los canales de K+ en la célula post-sináptica. Si es capaz de cerrar inactivar estos canales entonces se trata de un neurotransmisor inhibitorio.",
+        "Asegurarse de que el neurotransmisor bañe el líquido extracelular y comprobar qué ocurre con los canales de K+ en la célula pre-sináptica. Si es capaz de abrir estos canales entonces se trata de un neurotransmisor inhibitorio.",
+        "Asegurarse de que el neurotransmisor bañe el líquido extracelular y comprobar qué ocurre con los canales de Cl- en la célula post-sináptica. Si es capaz de abrir estos canales entonces se trata de un neurotransmisor inhibitorio.",
+        "Comprobar qué ocurre con los canales de Ca++ activados por voltaje en la célula pre-sináptica. Si es capaz de abrir estos canales entonces se trata de un neurotransmisor inhibitorio.",
+        "Asegurarse de que el neurotransmisor bañe el líquido extracelular y comprobar qué ocurre con los canales de Na+ y Cl- en la célula post-sináptica. Si es capaz de cerrar ambos canales entonces se trata de un neurotransmisor inhibitorio."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Un neurotransmisor inhibitorio disminuye la probabilidad de que la neurona postsináptica genere un potencial de acción. Un mecanismo típico es la apertura de canales de Cl⁻ (o de K⁺) en la membrana postsináptica, produciendo hiperpolarización o dificultando la despolarización."
     }
   ]
 }
