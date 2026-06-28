@@ -1159,6 +1159,48 @@
         ],
         "respuestaCorrecta": 4,
         "explicacion": "En una solución hipotónica, la concentración de solutos en el medio externo es menor que la concentración de solutos dentro del eritrocito. Esto provoca que el agua se mueva hacia el interior del eritrocito por ósmosis, lo que hace que el eritrocito aumente de tamaño y pueda llegar a hemolizarse si la presión osmótica es suficientemente alta. Por lo tanto, la opción correcta es que los eritrocitos aumentan de tamaño al ingresar líquido desde el medio hacia el interior de la célula."
+    },
+    {
+        "id": "u2-p91",
+        "tipo": "multiple",
+        "enunciado": "El jengibre tiene propiedades anticoagulantes a través de la inhibición plaquetaria. En base a sus conocimientos, ¿cuál de los siguientes procesos será su mecanismo de acción?",
+        "opciones": [
+            "Inhibe la síntesis de fibrinógenos.",
+            "Inhibe la síntesis de trombina",
+            "Inhibe la síntesis de tromboxano",
+            "Activa la secreción de plasmina",
+            "Inhibe la secreción de citoquininas"
+        ],
+        "respuestaCorrecta": 2,
+        "explicacion": "El jengibre contiene compuestos que inhiben la síntesis de tromboxano A2, una sustancia que promueve la agregación plaquetaria y la contracción del músculo liso. Al inhibir la producción de tromboxano, el jengibre reduce la actividad plaquetaria y ejerce efectos anticoagulantes."
+    },
+    {
+        "id": "u2-p92",
+        "tipo": "multiple",
+        "enunciado": "Seleccione la opción correcta:",
+        "opciones": [
+            "Cuando la presión parcial de O2 es elevada, se favorece la unión de O2 a la hemoglobina y la liberación de dióxido de carbono.",
+            "El los capilares, no se favorece la unión de O2 a la hemoglobina",
+            "Cuando la presión parcial de O2 es elevada, la afinidad del O2 por la hemoglobina disminuye.",
+            "En los tejidos periféricos, se une CO2 a la hemoglobina y la afinidad por el O2 aumenta.",
+            "Cuando la concentración de dióxido de carbono es alta, se une CO2 a la hemoglobina y la afinidad por el O2 aumenta"
+        ],
+        "respuestaCorrecta": 0,
+        "explicacion": "Cuando la presión parcial de O2 es elevada, como ocurre en los pulmones, se favorece la unión de O2 a la hemoglobina. Este proceso facilita la liberación de dióxido de carbono (CO2) desde la sangre hacia los alvéolos para su exhalación. La afinidad de la hemoglobina por el O2 aumenta en presencia de altas concentraciones de O2, lo que permite una eficiente captación de oxígeno en los pulmones y su transporte a los tejidos periféricos."
+    },
+    {
+        "id": "u2-p93",
+        "tipo": "multiple",
+        "enunciado": "¿Cuáles de las siguientes vías o factores afectan la actividad del área vasomotora en el bulbo raquídeo INHIBIENDO su actividad?",
+        "opciones": [
+            "Disminución del hematocrito",
+            "Vías de los barorreceptores carotídeos, aórticos y cardiopulmonares",
+            "Hipoxia",
+            "Vías de dolor y musculares",
+            "Aumento de CO2"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "Las vías de los barorreceptores carotídeos, aórticos y cardiopulmonares envían señales al bulbo raquídeo para inhibir la actividad del área vasomotora cuando detectan un aumento en la presión arterial. Esta inhibición provoca una disminución de la frecuencia cardíaca y la dilatación de los vasos sanguíneos, lo que ayuda a reducir la presión arterial. Los otros factores mencionados, como hipoxia y aumento de CO2, tienden a estimular la actividad del área vasomotora para aumentar la presión arterial y mejorar el suministro de oxígeno a los tejidos."
     }
 
 ]
