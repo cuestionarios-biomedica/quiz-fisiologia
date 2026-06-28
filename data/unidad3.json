@@ -1632,6 +1632,20 @@
     ],
     "respuestaCorrecta": 3,
     "explicacion": "Durante la etapa d) del tratamiento de fertilidad, es crucial asegurar que los niveles de progesterona sean altos, ya que esta hormona es esencial para mantener el endometrio y apoyar la implantación y desarrollo del embrión. La progesterona ayuda a mantener un ambiente uterino adecuado para el embarazo, previniendo la luteólisis y asegurando que el endometrio permanezca receptivo para la implantación del embrión."
+    },
+    {
+    "id": "u3-p102",
+    "tipo": "multiple",
+    "enunciado": "Si los niveles hipotalámicos de GHRH (hormona liberadora de la hormona de crecimiento) se encuentran bajos, y los de la hormona GHIH (hormona inhibidora de la hormona de crecimiento) se encuentran altos: a) ¿qué niveles de IGF-1 (factor de crecimiento similar a la insulina tipo 1) se esperaría encontrar a nivel hepático? b) ¿qué consecuencias sobre la producción de proteínas?",
+    "opciones": [
+        "a) altos; b) aumento de la producción",
+        "a) nulos; b) aumento de la producción",
+        "a) altos; b) disminución de la producción",
+        "a) bajos; b) disminución de la producción",
+        "a) bajos; b) aumento de la producción"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La GHRH estimula la secreción de GH, mientras que la GHIH (somatostatina) inhibe su liberación. Si los niveles de GHRH son bajos y los de GHIH son altos, la secreción de GH será baja, lo que resultará en niveles bajos de IGF-1 a nivel hepático. Dado que IGF-1 es un mediador clave de los efectos anabólicos de la GH, niveles bajos de IGF-1 conducirán a una disminución en la producción de proteínas y otros efectos relacionados con el crecimiento y la reparación de tejidos."
     }
   ]
 }
