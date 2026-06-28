@@ -1201,6 +1201,48 @@
         ],
         "respuestaCorrecta": 1,
         "explicacion": "Las vías de los barorreceptores carotídeos, aórticos y cardiopulmonares envían señales al bulbo raquídeo para inhibir la actividad del área vasomotora cuando detectan un aumento en la presión arterial. Esta inhibición provoca una disminución de la frecuencia cardíaca y la dilatación de los vasos sanguíneos, lo que ayuda a reducir la presión arterial. Los otros factores mencionados, como hipoxia y aumento de CO2, tienden a estimular la actividad del área vasomotora para aumentar la presión arterial y mejorar el suministro de oxígeno a los tejidos."
+    },
+    {
+        "id": "u2-p94",
+        "tipo": "multiple",
+        "enunciado": "¿Cuál de las siguientes afirmaciones es correcta?",
+        "opciones": [
+            "Las arterias y capilares poseen adventicia",
+            "las arterias tienen más tejido elástico que la Aorta",
+            "las vénulas y las arteriolas poseen membranas elásticas externas",
+            "las arterias, capilares y venas cuentan con endotelio y membrana basal",
+            "la túnica interna de las arterias tiene las mismas capas que las de las venas"
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "La afirmación correcta es que las arterias, capilares y venas cuentan con endotelio y membrana basal. El endotelio es una capa de células que recubre el interior de todos los vasos sanguíneos, mientras que la membrana basal proporciona soporte estructural y regula el intercambio de sustancias entre la sangre y los tejidos circundantes. Las otras afirmaciones contienen errores: no todas las arterias y capilares poseen adventicia, las arterias tienen más tejido elástico que la aorta, las vénulas y arteriolas no poseen membranas elásticas externas, y la túnica interna de las arterias y venas no tiene exactamente las mismas capas."
+    },
+    {
+        "id": "u2-p95",
+        "tipo": "multiple",
+        "enunciado": "La taquicardia severa (aumento considerable de la frecuencia cardíaca) disminuye la duración de la diástole cardíaca. El intervalo diastólico corto puede impedir el correcto llenado ventricular y, en consecuencia, el gasto cardíaco disminuye a pesar de la frecuencia cardíaca rápida. Una posible solución para este trastorno consiste en:",
+        "opciones": [
+            "fármacos bloqueadores colinérgicos (bloquean acetilcolina) para propiciar la propagación de la despolarización y permitir la correcta conducción eléctrica",
+            "fármacos bloqueadores de los canales de Ca++ para retrasar la propagación de la despolarización de las células marcapasos",
+            "depresores de la actividad vagal con su consecuencia sobre la frecuencia cardíaca para regular el gasto cardíaco",
+            "estimulantes qeu aumentan la frecuencia respiratoria pra favorecer la bomba respiratoria y de esa manera regular el gasto cardíaco",
+            "fármacos que disminuyen la conductancia al K+ con su consecuente efecto sobre las células marcapasos"
+        ],
+        "respuestaCorrecta": 1,
+        "explicacion": "Los fármacos bloqueadores de los canales de calcio (Ca++) actúan sobre las células marcapasos del nodo sinoauricular y del nodo auriculoventricular, retrasando la propagación de la despolarización. Esto disminuye la frecuencia cardíaca, permitiendo un mayor tiempo de diástole para el llenado ventricular adecuado y, por lo tanto, mejorando el gasto cardíaco a pesar de la taquicardia severa."
+    },
+    {        
+        "id": "u2-p96",
+        "tipo": "multiple",
+        "enunciado": "Si aumenta la resistencia de la arteriola aferente:",
+        "opciones": [
+            "disminuye la presión coloidosmótica de la cápsula de Bowman y aumenta la tasa de filtración glomerular",
+            "disminuye la presión coloidosmótica de la cápsula de Bowman y desciende la tasa de filtración glomerular",
+            "aumenta la presión coloidosmótica de la cápsula de Bowman y aumenta la tasa de filtración glomerular",
+            "disminuye la presión hidrostática glomerular y desciende la tasa de filtración glomerular",
+            "aumenta la presión hidrostática glomerular y desciende la tasa de filtración glomerular"
+        ],
+        "respuestaCorrecta": 3,
+        "explicacion": "Cuando aumenta la resistencia de la arteriola aferente, se reduce el flujo sanguíneo hacia el glomérulo, lo que disminuye la presión hidrostática glomerular. Esta disminución en la presión hidrostática reduce la fuerza impulsora para la filtración de plasma a través de la membrana glomerular, lo que resulta en una disminución de la tasa de filtración glomerular (TFG). La presión coloidosmótica de la cápsula de Bowman no se ve directamente afectada por este cambio en la resistencia de la arteriola aferente."
     }
 
 ]
