@@ -1600,6 +1600,20 @@
     ],
     "respuestaCorrecta": 4,
     "explicacion": "Las neuronas hormonosecretoras del hipotálamo pueden estar unidas por uniones comunicantes (gap junctions), que permiten una transmisión eléctrica rápida y sincronizan los potenciales de acción, favoreciendo una liberación hormonal coordinada."
+    },
+    {
+    "id": "u3-p100",
+    "tipo": "multiple",
+    "enunciado": "El AMPc no es el único segundo mensajero empleado por las distintas hormonas. Existen otros dos:",
+    "opciones": [
+        "1) Los iones magnesio y 2) los productos de la degradación del colágeno",
+        "1) La proteína G inhibidora y 2) los productos de la degradación de la calmodulina",
+        "1) Los iones calcio y la calmodulina asociada a ellos, y 2) los productos de la degradación de los fosfolípidos",
+        "1) La troponina C y 2) los productos de la degradación de la proteína cinasa C",
+        "1) Los iones fósforo y 2) los productos de la degradación del AMPc"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Además del AMPc, otros segundos mensajeros importantes son los iones calcio (Ca++) y la calmodulina, que se unen para activar diversas enzimas y procesos celulares, y los productos de la degradación de los fosfolípidos, como el diacilglicerol (DAG) e inositol trifosfato (IP3), que participan en la señalización intracelular y activan vías de transducción de señales."
     }
     ]
 }
