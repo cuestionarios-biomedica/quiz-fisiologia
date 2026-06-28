@@ -1646,6 +1646,20 @@
     ],
     "respuestaCorrecta": 3,
     "explicacion": "La GHRH estimula la secreción de GH, mientras que la GHIH (somatostatina) inhibe su liberación. Si los niveles de GHRH son bajos y los de GHIH son altos, la secreción de GH será baja, lo que resultará en niveles bajos de IGF-1 a nivel hepático. Dado que IGF-1 es un mediador clave de los efectos anabólicos de la GH, niveles bajos de IGF-1 conducirán a una disminución en la producción de proteínas y otros efectos relacionados con el crecimiento y la reparación de tejidos."
+    },
+    {
+    "id": "u3-p103",
+    "tipo": "multiple",
+    "enunciado": "Un déficit en la producción hepática del factor similar a la insulina 2 (FSI-2), ¿qué consecuencia es la más probable?",
+    "opciones": [
+        "hiperglucemia y obesidad",
+        "durante el desarrollo fetal una disminución del crecimiento",
+        "huesos largos con epífisis cortas por baja estimulación de la replicaciónde los condrocitos",
+        "acromegalia",
+        "durante las etapas más acentuadas del crecimiento (infancia y adolescencia) una disminucipon acentuada de la talla"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El factor similar a la insulina 2 (IGF-2) es crucial para el crecimiento fetal. Un déficit en su producción hepática durante el desarrollo fetal puede llevar a un crecimiento intrauterino restringido, resultando en una disminución del crecimiento y talla al nacer. IGF-2 es especialmente importante en la etapa prenatal, mientras que IGF-1 tiene un papel más destacado en el crecimiento postnatal."
     }
   ]
 }
