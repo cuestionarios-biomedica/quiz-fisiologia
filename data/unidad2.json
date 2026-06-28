@@ -1243,6 +1243,48 @@
         ],
         "respuestaCorrecta": 3,
         "explicacion": "Cuando aumenta la resistencia de la arteriola aferente, se reduce el flujo sanguíneo hacia el glomérulo, lo que disminuye la presión hidrostática glomerular. Esta disminución en la presión hidrostática reduce la fuerza impulsora para la filtración de plasma a través de la membrana glomerular, lo que resulta en una disminución de la tasa de filtración glomerular (TFG). La presión coloidosmótica de la cápsula de Bowman no se ve directamente afectada por este cambio en la resistencia de la arteriola aferente."
+    },
+    {
+    "id": "u2-p97",
+    "tipo": "multiple",
+    "enunciado": "En los alvéolos, la presión parcial de oxígeno es menor que en el aire inspirado. Esto es así porque:",
+    "opciones": [
+        "en los alvéolos se suma a la mezcla de gases el vapor de agua",
+        "parte del oxígeno se intercambia antes de llegar a los alvéolos",
+        "en los alvéolos se suma a la mezcla de gases el CO2",
+        "parte del oxígeno se combina con la hemoglobina en los alvéolos",
+        "en los alvéolos se suma a la mezcla de gases el nitrógeno de las células"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La presión parcial de O2 en los alvéolos es menor que en el aire inspirado porque el aire inspirado se humidifica al pasar por las vías respiratorias, agregando vapor de agua que diluye la mezcla de gases. Además, hay una pequeña mezcla con el CO2 que proviene de la sangre y el O2 se difunde continuamente hacia la sangre capilar pulmonar. La opción más directa que explica la disminución es la humidificación del aire inspirado."
+    },
+    {
+    "id": "u2-p98",
+    "tipo": "multiple",
+    "enunciado": "En la pericarditis, una acumulación de fluido en el pericardio previene la expansión de los ventrículos durante la diástole ventricular y, en consecuencia, (1) la precarga ventricular. Esto conduce a un (2) en el gasto cardíaco, causando una (3) pronunciada.",
+    "opciones": [
+        "(1) disminuye (2) déficit (3) disminución de la presión arterial",
+        "(1) aumenta (2) incremento (3) aumento de la presión arterial",
+        "(1) aumenta (2) incremento (3) disminución de la presión arterial",
+        "(1) aumenta (2) déficit (3) disminución de la presión arterial",
+        "(1) disminuye (2) déficit (3) aumento de la presión arterial"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El taponamiento cardíaco (acumulación de fluido en el pericardio) comprime los ventrículos, impidiendo su llenado durante la diástole. Esto disminuye la precarga ventricular, lo que reduce el volumen sistólico y el gasto cardíaco (déficit), causando una disminución de la presión arterial (hipotensión)."
+    },
+    {
+    "id": "u2-p99",
+    "tipo": "multiple",
+    "enunciado": "Ante una elevación de la presión arterial ocurre que:",
+    "opciones": [
+        "las arteriolas elásticas inervadas por el sistema nervioso simpático aumentan su diámetro para disminuir la resistencia al flujo y de esta manera disminuir la presión arterial",
+        "las arteriolas elásticas inervadas por el sistema nervioso simpático disminuyen su diámetro para aumentar la resistencia al flujo y de esta manera disminuir la presión arterial",
+        "las arteriolas elásticas inervadas por el sistema nervioso parasimpático (estimulado en este caso) y por el sistema nervioso simpático (inhibido en este caso) aumentan su diámetro para disminuir la resistencia al flujo y de esta manera disminuir la presión arterial",
+        "las arteriolas elásticas inervadas por el sistema nervioso parasimpático aumentan su diámetro para disminuir la resistencia al flujo y de esta manera disminuir la presión arterial",
+        "las arteriolas elásticas inervadas por el sistema nervioso parasimpático disminuyen su diámetro para aumentar la resistencia al flujo y de esta manera disminuir la presión arterial"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Cuando ocurre una elevación de la presión arterial, los barorreceptores detectan este cambio y envían señales al sistema nervioso central para activar el sistema nervioso parasimpático y disminuir la actividad del sistema nervioso simpático. Como resultado, las arteriolas elásticas se dilatan (aumentan su diámetro), lo que disminuye la resistencia al flujo sanguíneo y ayuda a reducir la presión arterial hacia niveles normales."
     }
 
 ]
