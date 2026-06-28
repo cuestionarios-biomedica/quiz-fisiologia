@@ -1109,6 +1109,20 @@
       ],
       "respuestaCorrecta": 0,
       "explicacion": "La corteza motora primaria, ubicada en el giro precentral del lóbulo frontal, es responsable de la ejecución de movimientos voluntarios y del control de la fuerza y dirección del movimiento. Recibe información de la corteza premotora y la corteza motora suplementaria, que participan en el planeamiento y coordinación de movimientos más complejos."
+    },
+    {
+      "id": "u1-p77",
+      "tipo": "multiple",
+      "enunciado": "Usted es un electrofisiólogo encargado de registrar los potenciales de acción en una de las neuronas que están intercomunicadas en un cultivo. Para ello cuenta con electrodos que le permiten perforar la membrana de estas células y administrarles corriente en su interior. Si las cargas que administra a una de estas neuronas son negativas, usted:",
+      "opciones": [
+          "La corriente suministrada no altera en absoluto el potencial de membrana en reposo, dado que el interior de la célula es electronegativa.",
+          "Está hiperpolarizando la célula, la misma admitirá un potencial de acción de una célula vecina.",
+          "Está despolarizando la célula, el potencial de acción se desencadenará siguiente la ley del Todo o nada.",
+          "Está despolarizando la célula, la misma no admitirá un potencial de acción.",
+          "Está hiperpolarizando la célula, la misma no admitirá un potencial de acción."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Cuando se administra corriente negativa al interior de la célula, se está aumentando la negatividad del potencial de membrana, lo que se conoce como hiperpolarización. Esto aleja el potencial de membrana del umbral necesario para generar un potencial de acción, haciendo que la célula no pueda disparar un potencial de acción en respuesta a estímulos excitatorios."
     }
   ]
 }
